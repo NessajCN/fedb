@@ -1,0 +1,20 @@
+{
+    "index": {
+        "title": "火焰纹章: Engage - 快速查询",
+        "navigation": ""
+    },
+    "weapontypes": {
+        "sword": "剑",
+        "lance": "枪",
+        "axe": "斧",
+        "tome": "法术",
+        "bow": "弓",
+        "knife": "短刀",
+        "art": "体术"
+    },
+    "feclasses": {
+        "dragonchild": "Dragon Child",
+        "divinedragon": "Divine Dragon",
+        "fellchild": "Fell Child"
+    }
+}

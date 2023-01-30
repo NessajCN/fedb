@@ -1,0 +1,20 @@
+{
+    "index": {
+        "title": "Fire Emblem: Engage - Quick Reference",
+        "navigation": ""
+    },
+    "weapontypes": {
+        "sword": "Sword",
+        "lance": "Lance",
+        "axe": "Axe",
+        "tome": "Tome",
+        "bow": "Bow",
+        "knife": "Knife",
+        "art": "Art"
+    },
+    "feclasses": {
+        "dragonchild": "Dragon Child",
+        "divinedragon": "Divine Dragon",
+        "fellchild": "Fell Child"
+    }
+}
