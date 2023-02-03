@@ -1,7 +1,40 @@
 {
+    "locale": "jp",
     "index": {
         "title": "Fire Emblem: Engage - Quick Reference",
-        "navigation": ""
+        "character": "Character",
+        "feclass": "Class",
+        "weapons": "Weapons",
+        "items": "Items",
+        "forging": "Forging",
+        "engraving": "Engraving",
+        "emblems": "Emblems",
+        "supportscripts": "Support Scripts",
+        "allynotebook": "Ally Notebook",
+        "bondrings": "Bond Rings",
+        "skills": "Skills",
+        "gifts": "Gifts",
+        "battlefields": "Battlefields"
+    },
+    "stats": {
+        "hp": "",
+        "str": "",
+        "mag": "",
+        "dex": "",
+        "spd": "",
+        "def": "",
+        "res": "",
+        "luck": "",
+        "bld": ""
+    },
+    "attribs": {
+        "hit": "",
+        "crit": "",
+        "dodge": "",
+        "critdodge": "",
+        "atkpwr": "",
+        "spellpwr": "",
+        "mov": ""
     },
     "weapontypes": {
         "sword": "Sword",
@@ -16,5 +49,8 @@
         "dragonchild": "Dragon Child",
         "divinedragon": "Divine Dragon",
         "fellchild": "Fell Child"
+    },
+    "characters": {
+        "Alear": "Alear"
     }
 }

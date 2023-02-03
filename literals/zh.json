@@ -1,20 +1,56 @@
 {
+    "locale": "zh",
     "index": {
-        "title": "火焰纹章: Engage - 快速查询",
-        "navigation": ""
+        "title": "Fire Emblem: Engage - Quick Reference",
+        "character": "Character",
+        "feclass": "Class",
+        "weapons": "Weapons",
+        "items": "Items",
+        "forging": "Forging",
+        "engraving": "Engraving",
+        "emblems": "Emblems",
+        "supportscripts": "Support Scripts",
+        "allynotebook": "Ally Notebook",
+        "bondrings": "Bond Rings",
+        "skills": "Skills",
+        "gifts": "Gifts",
+        "battlefields": "Battlefields"
+    },
+    "stats": {
+        "hp": "",
+        "str": "",
+        "mag": "",
+        "dex": "",
+        "spd": "",
+        "def": "",
+        "res": "",
+        "luck": "",
+        "bld": ""
+    },
+    "attribs": {
+        "hit": "",
+        "crit": "",
+        "dodge": "",
+        "critdodge": "",
+        "atkpwr": "",
+        "spellpwr": "",
+        "mov": ""
     },
     "weapontypes": {
-        "sword": "剑",
-        "lance": "枪",
-        "axe": "斧",
-        "tome": "法术",
-        "bow": "弓",
-        "knife": "短刀",
-        "art": "体术"
+        "sword": "Sword",
+        "lance": "Lance",
+        "axe": "Axe",
+        "tome": "Tome",
+        "bow": "Bow",
+        "knife": "Knife",
+        "art": "Art"
     },
     "feclasses": {
         "dragonchild": "Dragon Child",
         "divinedragon": "Divine Dragon",
         "fellchild": "Fell Child"
+    },
+    "characters": {
+        "Alear": "Alear"
     }
 }
