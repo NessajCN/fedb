@@ -15,7 +15,7 @@ import type { Literals } from "@/types/fetypes";
 type CharProps = {
   literals: Literals;
 };
-type Chars = keyof Literals["characters"];
+type FEClasses = keyof Literals["feclasses"];
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
@@ -27,7 +27,7 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function CharSelDialog({ literals }: CharProps) {
   const [open, setOpen] = useState(false);
-  const [char, setChar] = useState("");
+  const [cls, setCls] = useState("");
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -36,11 +36,11 @@ export default function CharSelDialog({ literals }: CharProps) {
   const handleClose = () => {
     setOpen(false);
   };
-
+  
   return (
     <>
       <Button variant="text" sx={{ width: "100%" }} onClick={handleClickOpen}>
-        {char || literals.index.character}
+        {cls || literals.index.feclass}
       </Button>
       <Dialog open={open} onClose={handleClose} fullWidth>
         <DialogTitle>{literals.characters.title}</DialogTitle>
@@ -49,8 +49,8 @@ export default function CharSelDialog({ literals }: CharProps) {
             {literals.characters.description}
           </DialogContentText>
           <Grid container spacing={2} marginTop={2}>
-            {Object.entries(literals.characters.faction).map(([k, v]) => (
-              <Grid xs={12} sm={6} md={3} xl={2} key={`${k.toLowerCase()}grid`}>
+            {Object.entries(literals.feclasses.classtype).map(([k, v]) => (
+              <Grid xs={12} md={6} key={`${k.toLowerCase()}grid`}>
                 <Item>
                   <Box
                     id={k.toLowerCase()}
@@ -63,13 +63,13 @@ export default function CharSelDialog({ literals }: CharProps) {
                     aria-labelledby={k.toLowerCase()}
                     sx={{ pl: 0 }}
                   >
-                    {Object.entries(literals.characters[k as Chars]).map(
+                    {Object.entries(literals.feclasses[k as FEClasses]).map(
                       ([kk, vv]) => (
                         <Button
                           variant="text"
                           sx={{ width: "100%", fontSize: "12px", textTransform:"capitalize" }}
                           onClick={() => {
-                            setChar(vv);
+                            setCls(vv);
                           }}
                           key={kk.toLowerCase()}
                         >

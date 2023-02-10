@@ -15,6 +15,7 @@ import type { Literals } from "@/types/fetypes";
 type CharProps = {
   literals: Literals;
 };
+
 type Chars = keyof Literals["characters"];
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -40,7 +41,7 @@ export default function CharSelDialog({ literals }: CharProps) {
   return (
     <>
       <Button variant="text" sx={{ width: "100%" }} onClick={handleClickOpen}>
-        {char || literals.index.character}
+        {literals.index.emblem}
       </Button>
       <Dialog open={open} onClose={handleClose} fullWidth>
         <DialogTitle>{literals.characters.title}</DialogTitle>
@@ -65,16 +66,7 @@ export default function CharSelDialog({ literals }: CharProps) {
                   >
                     {Object.entries(literals.characters[k as Chars]).map(
                       ([kk, vv]) => (
-                        <Button
-                          variant="text"
-                          sx={{ width: "100%", fontSize: "12px", textTransform:"capitalize" }}
-                          onClick={() => {
-                            setChar(vv);
-                          }}
-                          key={kk.toLowerCase()}
-                        >
-                          {vv}
-                        </Button>
+                        <li key={kk.toLowerCase()}>{vv}</li>
                       )
                     )}
                   </Box>
@@ -84,6 +76,7 @@ export default function CharSelDialog({ literals }: CharProps) {
           </Grid>
         </DialogContent>
         <DialogActions>
+          {/* <Button onClick={handleClose}>Cancel</Button> */}
           <Button onClick={handleClose}>OK</Button>
         </DialogActions>
       </Dialog>

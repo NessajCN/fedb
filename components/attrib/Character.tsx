@@ -3,9 +3,12 @@ import { styled } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Unstable_Grid2";
-import type { Literals } from "@/types/fetypes";
 import { Typography } from "@mui/material";
 import Link from "@mui/material/Link";
+import CharSelDialog from "../dialog/CharSel";
+import ClassSelDialog from "../dialog/ClassSel";
+import EblmSelDialog from "../dialog/EblmSel";
+import type { Literals } from "@/types/fetypes";
 
 type CharProps = {
   literals: Literals;
@@ -29,32 +32,32 @@ export default function Character({ literals }: CharProps) {
       <Grid container spacing={2} marginTop={2}>
         <Grid container xs={12} sm={12} md={2} lg={2} spacing={1}>
           <Grid xs={4} sm={4} md={12} lg={12}>
-            <Item>
+            <Item variant="outlined" sx={{ p:0 }} >
               <Box
                 id="charname"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                Character
+                <CharSelDialog literals={literals} />
               </Box>
             </Item>
           </Grid>
           <Grid xs={4} sm={4} md={12} lg={12}>
-            <Item>
+            <Item variant="outlined" sx={{ p:0 }} >
               <Box
                 id="charclass"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                Class
+                <ClassSelDialog literals={literals} />
               </Box>
             </Item>
           </Grid>
           <Grid xs={4} sm={4} md={12} lg={12}>
-            <Item>
+            <Item variant="outlined" sx={{ p:0 }} >
               <Box
                 id="emblem"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                Emblem
+                <EblmSelDialog literals={literals} />
               </Box>
             </Item>
           </Grid>

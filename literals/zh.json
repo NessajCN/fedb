@@ -4,6 +4,7 @@
         "title": "Fire Emblem: Engage - Quick Reference",
         "character": "Character",
         "feclass": "Class",
+        "emblem": "Emblem",
         "weapons": "Weapons",
         "items": "Items",
         "forging": "Forging",
@@ -51,6 +52,69 @@
         "fellchild": "Fell Child"
     },
     "characters": {
-        "Alear": "Alear"
+        "title": "Character select",
+        "description": "Choose a character to refer",
+        "faction": {
+            "Lythos": "Lythos",
+            "Firene": "Firene",
+            "Brodia": "Brodia",
+            "Elusia": "Elusia",
+            "Solm": "Solm",
+            "Independent": "Independent",
+            "the4hounds": "The Four Hounds"
+        },
+        "Lythos": {
+            "Alear": "Alear",
+            "Vander": "Vander",
+            "Clanne": "Clanne",
+            "Framme": "Framme"
+        },
+        "Firene": {
+            "Alfred": "Alfred",
+            "Celine": "Celine",
+            "Etie": "Etie",
+            "Boucheron": "Boucheron",
+            "Louis": "Louis",
+            "Chloe": "Chloe",
+            "Jean": "Jean"
+        },
+        "Brodia": {
+            "Diamant": "Diamant",
+            "Alcryst": "Alcryst",
+            "Lapis": "Lapis",
+            "Citrinne": "Citrinne",
+            "Amber": "Amber",
+            "Jade": "Jade",
+            "Saphir": "Saphir"
+        },
+        "Elusia": {
+            "Ivy": "Ivy",
+            "Hortensia": "Hortensia",
+            "Zelkov": "Zelkov",
+            "Kagetsu": "Kagetsu",
+            "Rosado": "Rosado",
+            "Goldmary": "Goldmary",
+            "Lindon": "Lindon",
+            "Anna": "Anna"
+        },
+        "Solm": {
+            "Timerra": "Timerra",
+            "Forgado": "Forgado",
+            "Merrin": "Merrin",
+            "Panette": "Panette",
+            "Pandreo": "Pandreo",
+            "Bunet": "Bunet",
+            "Seadall": "Seadall"
+        },
+        "Independent": {
+            "Veyle": "Veyle",
+            "Yunaka": "Yunaka"
+        },
+        "the4hounds": {
+            "Mauvier": "Mauvier",
+            "Zephia": "Zephia",
+            "Griss": "Griss",
+            "Marni": "Marni"
+        }
     }
 }
