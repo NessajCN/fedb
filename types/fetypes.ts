@@ -1,7 +1,15 @@
-import type { Locale } from '../i18n-config';
-import literals from '../literals/en.json';
+import type { Locale } from "../i18n-config";
+import literals from "../literals/en.json";
 
 export type Literals = typeof literals;
+
+export type CharProps = {
+  literals: Literals;
+};
+
+export type GeneraStats = typeof literals.stats.general;
+export type BasicStats = typeof literals.stats.basic;
+export type CombatStats = typeof literals.stats.combat;
 
 export type Character = {
   chname: string;

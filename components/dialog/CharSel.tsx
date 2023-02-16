@@ -10,11 +10,11 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
-import type { Literals } from "@/types/fetypes";
+import type { Literals, CharProps } from "@/types/fetypes";
 
-type CharProps = {
-  literals: Literals;
-};
+// type CharProps = {
+//   literals: Literals;
+// };
 type Chars = keyof Literals["characters"];
 
 const Item = styled(Paper)(({ theme }) => ({
