@@ -1,0 +1,495 @@
+,,,,,,,,,,,,,,
+Emblem &,,,,,,,,,,,,,,
+World,Bond Ring,Rank,HP+,Str+,Mag+,Dex+,Spd+,Lck+,Def+,Res+,Bld+,Skill,Skill Description,Ring Description
+Marth,Caeda,C,,,,,1,,,,,---,---,"Princess of Talys on Archanea, a continent in another world."
+World of the,Caeda,B,,,,,1,1,,,,---,---,Pegasus knight with a cheerful nature and engaging natural charm.
+Hero-King,Caeda,A,,,,1,1,1,,,,---,---,Met Marth after he fled his home. They eventually became engaged.
+,Caeda,S,,,,1,2,1,,,,Sympathetic,"If foe initiates combat and if unit's HP is 50% or less, unit takes 5 less damage.",Appears in Shadow Dragon & the Blade of Light and others.
+,Ogma,C,,1,,,,,,,,---,---,Hero from beyond Elyos who led a band of mercenaries in Talys.
+,Ogma,B,,1,,1,,,,,,---,---,Extremely capable battlefield veteran who used to be a gladiator.
+,Ogma,A,,1,,1,1,,,,,---,---,Has held Caeda in high esteem since she saved him in his gladiator days.
+,Ogma,S,,2,,1,1,,,,,---,---,Appears in Shadow Dragon & the Blade of Light and others.
+,Navarre,C,,,,1,,,,,,---,---,"Hero from beyond Elyos known as the ""Scarlet Sword."""
+,Navarre,B,,,,1,1,,,,,---,---,"Appeared as a bodyguard for bandits, fighting with deadly blade in hand."
+,Navarre,A,,,,1,1,1,,,,---,---,"He claims that he would never ""turn his blade on a woman."""
+,Navarre,S,,,,2,1,1,,,,Deadly Blade,"If unit initiates combat with a sword, grants Crit+10 during combat.",Appears in Shadow Dragon & the Blade of Light and others.
+,Merric,C,,,,,1,,,,,---,---,"Hero from beyond Elyos and magical prodigy known as the ""Wind Mage."""
+,Merric,B,,,,1,1,,,,,---,---,Studied in Khadein and inherited the wind magic tome Excalibur.
+,Merric,A,,,,1,1,,1,,,---,---,A member of Altean nobility and a childhood friend of Prince Marth.
+,Merric,S,,,,1,2,,1,,,---,---,Appears in Shadow Dragon & the Blade of Light and others.
+,Minerva,C,,,,,,1,,,,---,---,"Princess of Macedon on Archanea, a continent in another world."
+,Minerva,B,,,,,,1,1,,,---,---,"A proud and gallant woman also known as the ""Red Dragoon."""
+,Minerva,A,2,,,,,1,1,,,---,---,"To reform her homeland, she fought against them as a traitor."
+,Minerva,S,2,,,,,2,1,,,---,---,Appears in Shadow Dragon & the Blade of Light and others.
+,Linde,C,,,,,,1,,,,---,---,Hero from beyond Elyos with the gift of powerful magic.
+,Linde,B,,,1,,,1,,,,---,---,The strong-willed daughter of Pontifex Miloah from Archanea.
+,Linde,A,,,1,,1,1,,,,---,---,Her father passed down Aura magic to her for her fight against Gharnef.
+,Linde,S,,,1,,1,2,,,,---,---,Appears in Shadow Dragon & the Blade of Light and others.
+,Tiki,C,,,,,,1,,,,---,---,Hero from beyond Elyos and a Divine Dragon princess.
+,Tiki,B,,,,,1,1,,,,---,---,A manakete who took human form after sealing away her dragon power.
+,Tiki,A,,,,1,1,1,,,,---,---,She was Marth's staunch ally after he saved her from Gharnef's control.
+,Tiki,S,,,,1,1,2,,,,---,---,Appears in Shadow Dragon & the Blade of Light and others.
+,Kris,C,2,,,,,,,,,---,---,Hero from beyond Elyos and royal guard who served under Marth.
+,Kris,B,2,1,,,,,,,,---,---,Hailed from the kingdom of Altea and became a knight of the 7th Platoon.
+,Kris,A,2,1,,1,,,,,,---,---,Behind-the-scenes hero who guarded Marth in battles across the land.
+,Kris,S,4,1,,1,,,,,,---,---,Appears in New Mystery of the Emblem.
+,Katarina,C,,,,,,,1,,,---,---,Hero from beyond Elyos and young tactician-in-training.
+,Katarina,B,2,,,,,,1,,,---,---,Went to serve Marth at Altea Castle and joined the 7th Platoon with Kris.
+,Katarina,A,2,,,,,1,1,,,---,---,"She is calm and cares for her friends, but harbors a terrible secret inside."
+,Katarina,S,2,,,,,1,2,,,---,---,Appears in New Mystery of the Emblem.
+,Legion,C,,1,,,,,,,,---,---,Hero from beyond Elyos who belonged to a group of assassins.
+,Legion,B,,1,,,1,,,,,---,---,Known for his suspicious mask and odd laugh during battle.
+,Legion,A,,1,,1,1,,,,,---,---,"Worked with his many identical ""brothers"" to assassinate targets."
+,Legion,S,,2,,1,1,,,,,---,---,Appears in New Mystery of the Emblem.
+Sigurd,Deirdre,C,,,,,,,,1,,---,---,Hero from beyond Elyos and a priestess of the Spirit Forest.
+World of the,Deirdre,B,,,1,,,,,1,,---,---,"Forbidden from interaction, she still met Sigurd and became his wife."
+Holy Knight,Deirdre,A,,,1,1,,,,1,,---,---,They lived happily with their son Seliph until a dark cult intervened.
+,Deirdre,S,,,1,1,,,,2,,Renewal,Unit recovers 5 HP each turn.,Appears in Genealogy of the Holy War.
+,Arden,C,,1,,,,,,,,---,---,Hero from beyond Elyos who served under Sigurd as an armored knight.
+,Arden,B,,1,,,,,1,,,---,---,Member of the GrÃ¼nritter order of the Knights of Chalphy.
+,Arden,A,2,1,,,,,1,,,---,---,"Known by allies as strong and tough, but unfortunately slow."
+,Arden,S,2,2,,,,,1,,,---,---,Appears in Genealogy of the Holy War.
+,Azelle,C,,,1,,,,,,,---,---,"Son of the Duke of Velthomer on Jugdral, a continent in another world."
+,Azelle,B,,,1,,1,,,,,---,---,A gentle fire mage descended from the crusader and mage fighter Fjalar.
+,Azelle,A,,,1,,1,,1,,,---,---,"He fought to rescue his love, Edain, from her kidnapping."
+,Azelle,S,,,2,,1,,1,,,---,---,Appears in Genealogy of the Holy War.
+,Quan,C,,1,,,,,,,,---,---,"Prince of Leonster on Jugdral, a continent in another world."
+,Quan,B,,1,,,,,1,,,---,---,"A descendant of crusader NjÃ¶run, he inherited the holy lance GÃ¡e Bolg."
+,Quan,A,,1,,,1,,1,,,---,---,"Sigurd's friend since their academy days, he values friendship and justice."
+,Quan,S,,2,,,1,,1,,,---,---,Appears in Genealogy of the Holy War.
+,Ethlyn,C,2,,,,,,,,,---,---,"Daughter of the Duke of Chalphy on Jugdral, a continent in another world."
+,Ethlyn,B,2,,,,1,,,,,---,---,Lord Sigurd's dependable and caring younger sister.
+,Ethlyn,A,2,,,1,1,,,,,---,---,"Married Quan, her brother's friend, with whom she had Altena and Leif."
+,Ethlyn,S,4,,,1,1,,,,,---,---,Appears in Genealogy of the Holy War.
+,Ayra,C,,,,1,,,,,,---,---,"Princess of Isaach on Jugdral, a continent in another world."
+,Ayra,B,,,,1,1,,,,,---,---,A skilled swordswoman who became Sigurd's ally and fought by his side.
+,Ayra,A,,1,,1,1,,,,,---,---,Descendant of the crusader Od and master of the special skill Astra.
+,Ayra,S,,1,,2,1,,,,,---,---,Appears in Genealogy of the Holy War.
+,Lachesis,C,,1,,,,,,,,---,---,"Princess of Nordion on Jugdral, a continent in another world."
+,Lachesis,B,,1,,,1,,,,,---,---,The beautiful and noble younger sister of King Eldigan the Lionheart.
+,Lachesis,A,,1,,1,1,,,,,---,---,Criticized many of her suitors for not measuring up to her brother.
+,Lachesis,S,,2,,1,1,,,,,---,---,Appears in Genealogy of the Holy War.
+,Lewyn,C,,,,,1,,,,,---,---,"Prince of Silesse on Jugdral, a continent in another world."
+,Lewyn,B,,,1,,1,,,,,---,---,"Descendant of the crusader Ced, he inherited the holy wind tome Forseti."
+,Lewyn,A,,,1,1,1,,,,,---,---,"Fought alongside Sigurd and, after his death, his son, Seliph, as well."
+,Lewyn,S,,,1,1,2,,,,,---,---,Appears in Genealogy of the Holy War and Thracia 776.
+,Erinys,C,,,,1,,,,,,---,---,Hero from beyond Elyos and pegasus knight who served Silesse.
+,Erinys,B,,1,,1,,,,,,---,---,"One of the Four Heavenly Knights, she searched for Prince Lewyn."
+,Erinys,A,,1,1,1,,,,,,---,---,"Highly capable, but also overly serious and somewhat gullible."
+,Erinys,S,,1,1,2,,,,,,---,---,Appears in Genealogy of the Holy War.
+,Seliph,C,,1,,,,,,,,---,---,"Hero from beyond Elyos known as the ""Scion of Light."""
+,Seliph,B,,1,,1,,,,,,---,---,Son of Sigurd and Deirdre and descendant of the crusader Baldr.
+,Seliph,A,,1,,1,,,1,,,---,---,Became the savior of Jugdral by leading an army against Grannvale.
+,Seliph,S,,2,,1,,,1,,,Battlewise,Grants a stacking Crit+1 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10),Appears in Genealogy of the Holy War and Thracia 776.
+Celica,Alm,C,,1,,,,,,,,---,---,Hero from beyond Elyos and the savior of the land of Valentia.
+World of the,Alm,B,,1,,1,,,,,,---,---,The brand on his left hand proved that he was chosen by prophecy.
+Caring Princess,Alm,A,,1,,1,,,1,,,---,---,He worked with Celica in her final battle against the wicked god Duma.
+,Alm,S,,2,,1,,,1,,,Windsweep,"If unit initiates combat with a sword, foe may not counterattack. Trigger %=Lck.",Appears in Shadows of Valentia.
+,Faye,C,,,1,,,,,,,---,---,Hero from beyond Elyos who was head over heels in love with Alm.
+,Faye,B,,,1,,,1,,,,---,---,Alm's childhood friend from Ram Village.
+,Faye,A,2,,1,,,1,,,,---,---,She liked Alm since childhood and wished to live with him one day.
+,Faye,S,2,,2,,,1,,,,---,---,Appears in Shadows of Valentia.
+,Lukas,C,,,,,,,1,,,---,---,Hero from beyond Elyos who fought to free Zofia as a Deliverance soldier.
+,Lukas,B,2,,,,,,1,,,---,---,This young man with a gentle air led Alm to join the Deliverance forces.
+,Lukas,A,2,1,,,,,1,,,---,---,"Born into nobility, but treats all with respect, regardless of their lineage."
+,Lukas,S,2,1,,,,,2,,,---,---,Appears in Shadows of Valentia.
+,Silque,C,,,,,,1,,,,---,---,Hero from beyond Elyos and devout cleric serving the goddess Mila.
+,Silque,B,,,1,,,1,,,,---,---,"She was captured by thieves and saved by Alm, becoming his ally."
+,Silque,A,,,1,1,,1,,,,---,---,A pious soul hopeful that Mila's teachings will save all who suffer.
+,Silque,S,,,1,1,,2,,,,---,---,Appears in Shadows of Valentia.
+,Delthea,C,,,1,,,,,,,---,---,Hero from beyond Elyos and a mage with a cheery personality.
+,Delthea,B,,,1,,,,,1,,---,---,Alm freed her from an enemy's control and they became allies.
+,Delthea,A,,,1,,1,,,1,,---,---,She hated the village of her birth and dreamed of romance in the big city.
+,Delthea,S,,,2,,1,,,1,,---,---,Appears in Shadows of Valentia.
+,Mae,C,,,1,,,,,,,---,---,Hero from beyond Elyos with a cheerful and positive disposition.
+,Mae,B,,,1,,1,,,,,---,---,Mage from Novis who journeyed with Celica to the Temple of Mila.
+,Mae,A,,,1,,1,,,1,,---,---,Cared about and supported Celica both as a servant and as a friend.
+,Mae,S,,,2,,1,,,1,,Great Thunder,"If unit uses Thunder, Elthunder, or Thoron, deals +20% damage.",Appears in Shadows of Valentia.
+,Genny,C,,,,,,,,1,,---,---,Hero from beyond Elyos and an easygoing cleric.
+,Genny,B,,,1,,,,,1,,---,---,She served at the priory on Novis Island and traveled with Celica.
+,Genny,A,,,1,,,1,,1,,---,---,She is carefree and enjoys reading or writing stories at home.
+,Genny,S,,,1,,,1,,2,,---,---,Appears in Shadows of Valentia.
+,Saber,C,,,,,1,,,,,---,---,"Hero from beyond Elyos and a strong, capable mercenary."
+,Saber,B,,,,1,1,,,,,---,---,He was hired by Celica to escort her across a sea frequented by pirates.
+,Saber,A,,,,1,1,,,1,,---,---,A long-time adviser and guardian of Celica. A rogue with a good heart.
+,Saber,S,,,,1,2,,,1,,---,---,Appears in Shadows of Valentia.
+,Valbar,C,2,,,,,,,,,---,---,Hero from beyond Elyos and a proud warrior.
+,Valbar,B,2,,,,,,1,,,---,---,"Fought to avenge the death of his family, who were killed by pirates."
+,Valbar,A,2,1,,,,,1,,,---,---,"An open-minded and helpful soul, well liked by all."
+,Valbar,S,5,1,,,,,1,,,---,---,Appears in Shadows of Valentia.
+,Conrad,C,,,,1,,,,,,---,---,Hero from beyond Elyos and an enigmatic masked knight.
+,Conrad,B,,,,1,,,1,,,---,---,He appeared whenever Celica was in danger and saved her many times.
+,Conrad,A,2,,,1,,,1,,,---,---,The white mask hiding his face shrouds him in mystery.
+,Conrad,S,2,,,2,,,1,,,---,---,Appears in Shadows of Valentia.
+Micaiah,Sothe,C,,,,1,,,,,,---,---,Hero from beyond Elyos adopted by Micaiah as a younger brother.
+World of the,Sothe,B,,,,1,,1,,,,---,---,A young freedom fighter with the Dawn Brigade resistance group.
+Dawn Maiden,Sothe,A,,,,1,1,1,,,,---,---,"Though unrelated to Micaiah, he loved her as his adopted sister."
+,Sothe,S,,,,2,1,1,,,,Bane,May reduce foe's HP to 1. Trigger %=half of Dex. (Certain foes are immune to this effect.),Appears in Path of Radiance and Radiant Dawn.
+,Nailah,C,2,,,,,,,,,---,---,"Queen of Hatari on Tellius, a continent in another world."
+,Nailah,B,2,,,,,1,,,,---,---,A laguz who could petrify foes with an evil eye and turn into a huge wolf.
+,Nailah,A,2,,,,,1,1,,,---,---,Encountered Prince Rafiel collapsed in the desert and fell in love with him.
+,Nailah,S,5,,,,,1,1,,,---,---,Appears in Radiant Dawn.
+,Elincia,C,,,,,,1,,,,---,---,"Queen of Crimea on Tellius, a continent in another world."
+,Elincia,B,,,,,1,1,,,,---,---,"Pure of heart, she loved her country and was adored by her people."
+,Elincia,A,,1,,,1,1,,,,---,---,"She deplored conflict, going so far as to disarm herself in battle."
+,Elincia,S,,1,,,1,2,,,,Mercy,"If dealing enough damage to defeat foe, instead leaves foe with 1 HP.",Appears in Path of Radiance and Radiant Dawn.
+,Leanne,C,,,,,,1,,,,---,---,"Princess of Serenes on Tellius, a continent in another world."
+,Leanne,B,2,,,,,1,,,,---,---,Miraculously escaped unharmed when her homeland was destroyed.
+,Leanne,A,2,,,,,1,,1,,---,---,She is pure of heart and can heal her allies' fatigue with her Galdrar.
+,Leanne,S,2,,,,,2,,1,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Nephenee,C,,,,,1,,,,,---,---,Hero from beyond Elyos and soldier of Crimea.
+,Nephenee,B,,,,1,1,,,,,---,---,"To save her home, she joined the war as a volunteer soldier."
+,Nephenee,A,,,,1,1,,,1,,---,---,She is a woman of few words but a strong love for her country.
+,Nephenee,S,,,,1,2,,,1,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Sanaki,C,,,1,,,,,,,---,---,"Empress of Begnion on Tellius, a continent in another world."
+,Sanaki,B,,,1,,,1,,,,---,---,The 37th empress and apostle was said to hear the voice of the goddess.
+,Sanaki,A,,,1,,,1,,1,,---,---,"She is young, but strong-willed and virtuous in her leadership."
+,Sanaki,S,,,2,,,1,,1,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Naesala,C,2,,,,,,,,,---,---,"King of Kilvas on Tellius, a continent in another world."
+,Naesala,B,2,,,,,1,,,,---,---,"A laguz shape-shifter, he led a tribe that could transform into ravens."
+,Naesala,A,2,,,,,1,,1,,---,---,"Cunning and calculating, he puts his nation before all else."
+,Naesala,S,5,,,,,1,,1,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Tibarn,C,2,,,,,,,,,---,---,"King of Phoenicis on Tellius, a continent in another world."
+,Tibarn,B,2,1,,,,,,,,---,---,A laguz shape-shifter who led a tribe that could transform into hawks.
+,Tibarn,A,2,1,,,,,1,,,---,---,The Hawk King rallied his allies with his charisma and decisive action.
+,Tibarn,S,5,1,,,,,1,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Caineghis,C,2,,,,,,,,,---,---,"King of Gallia on Tellius, a continent in another world."
+,Caineghis,B,2,,,,,1,,,,---,---,A laguz lion shape-shifter who led a tribe who could transform into beasts.
+,Caineghis,A,2,1,,,,1,,,,---,---,He dedicated all his strength to peace between laguz and humans.
+,Caineghis,S,5,1,,,,1,,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Black Knight,C,,,,,,,1,,,---,---,Hero from beyond Elyos who was Daein's most powerful general.
+,Black Knight,B,,,,1,,,1,,,---,---,"Black-armored and peerlessly strong member of the elite ""Four Riders."""
+,Black Knight,A,,1,,1,,,1,,,---,---,"After killing Greil, he clashed with Greil's son, Ike, in deadly skirmishes."
+,Black Knight,S,,1,,1,,,2,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+Roy,Lilina,C,,,1,,,,,,,---,---,"A noble of Ostia in the Lycia region of Elibe, a land in another world."
+World of the,Lilina,B,,,1,,,,,1,,---,---,An extremely gifted mage and Roy's childhood friend.
+Young Lion,Lilina,A,,,1,,,1,,1,,---,---,"As Hector's daughter, she combines innocent looks with a stout heart."
+,Lilina,S,,,2,,,1,,1,,Raging Fire,"If unit uses Fire, Elfire, or Bolganone, deals +20% damage.",Appears in The Binding Blade and The Blazing Blade.
+,Wolt,C,,,,1,,,,,,---,---,Hero from beyond Elyos who served Roy as an archer.
+,Wolt,B,,1,,1,,,,,,---,---,"A cheerful boy, he worked diligently to justify his role as Roy's retainer."
+,Wolt,A,,1,,1,1,,,,,---,---,"His mother was Roy's nanny, making Roy his stepbrother of sorts."
+,Wolt,S,,1,,2,1,,,,,---,---,Appears in The Binding Blade.
+,Dieck,C,2,,,,,,,,,---,---,Hero from beyond Elyos who was a mercenary hired by House Pherae.
+,Dieck,B,2,,,1,,,,,,---,---,He cultivated the unwavering trust of his comrades as a leader.
+,Dieck,A,2,1,,1,,,,,,---,---,"Once a gladiator, he made quite a name for himself in the arena."
+,Dieck,S,5,1,,1,,,,,,Strong Arm,Grants Hit+20 while unit is equipped with a smash weapon.,Appears in The Binding Blade.
+,Lugh,C,,,,,1,,,,,---,---,Hero from beyond Elyos and a young boy with a steadfast heart.
+,Lugh,B,,,,1,1,,,,,---,---,"The older of twin orphans, adept at using Anima magic."
+,Lugh,A,,,1,1,1,,,,,---,---,He is tender-hearted but won't balk at protecting the ones he loves.
+,Lugh,S,,,1,1,2,,,,,---,---,Appears in The Binding Blade.
+,Rutger,C,,,,1,,,,,,---,---,Hero from beyond Elyos who is a solitary swordsman of few words.
+,Rutger,B,,,,1,1,,,,,---,---,"When his home was destroyed by Bern's forces, he sought revenge."
+,Rutger,A,,1,,1,1,,,,,---,---,Switched allegiance to fight with Roy when he learned Roy opposed Bern.
+,Rutger,S,,1,,2,1,,,,,---,---,Appears in The Binding Blade.
+,Fir,C,,,,,1,,,,,---,---,Hero from beyond Elyos who lives for the sword.
+,Fir,B,,,,1,1,,,,,---,---,"Honed her fighting skills to emulate her mother, the ""Princess of Swords."""
+,Fir,A,,,,1,1,1,,,,---,---,She's a bit gullible and got tricked by pirates into working for them.
+,Fir,S,,,,1,2,1,,,,---,---,Appears in The Binding Blade.
+,Raigh,C,,,,1,,,,,,---,---,Hero from beyond Elyos who appears mature beyond his years.
+,Raigh,B,,,1,1,,,,,,---,---,"The younger of twin orphans, adept at using Dark magic."
+,Raigh,A,,,1,1,,,,1,,---,---,"He has a sharp tongue, but he is extremely devoted to his family."
+,Raigh,S,,,1,2,,,,1,,---,---,Appears in The Binding Blade.
+,Cecilia,C,,,,1,,,,,,---,---,Hero from beyond Elyos who was an Etrurian general.
+,Cecilia,B,,,,1,,,,1,,---,---,"One of the three generals of her nation, she commanded their mages."
+,Cecilia,A,,,1,1,,,,1,,---,---,"A wise, astute woman and mentor who taught Roy how to fight."
+,Cecilia,S,,,1,2,,,,1,,---,---,Appears in The Binding Blade.
+,Sophia,C,,,,,,,,1,,---,---,Hero from beyond Elyos who is a shaman with a mystical air.
+,Sophia,B,,,1,,,,,1,,---,---,Her special powers include the ability to predict the future.
+,Sophia,A,2,,1,,,,,1,,---,---,Guided Roy to a hidden village where people and dragons coexist.
+,Sophia,S,2,,1,,,,,2,,---,---,Appears in The Binding Blade and The Blazing Blade.
+,Fae,C,,,,,,1,,,,---,---,Hero from beyond Elyos who was the last surviving Divine Dragon.
+,Fae,B,,1,,,,1,,,,---,---,"A manakete, she lived in a hidden village in the Nabata Desert."
+,Fae,A,,1,,1,,1,,,,---,---,"Despite her naive appearance, she is several centuries old."
+,Fae,S,,1,,1,,2,,,,---,---,Appears in The Binding Blade and The Blazing Blade.
+Leif,Nanna,C,,,,,,1,,,,---,---,Hero from beyond Elyos and the daughter of the Princess Lachesis.
+World of the,Nanna,B,,,,,1,1,,,,---,---,"She was raised by Finn, a knight of Leonster, alongside Prince Leif."
+Sage Lord,Nanna,A,,,,1,1,1,,,,---,---,She fought to liberate Thracia with her mother's noble spirit.
+,Nanna,S,,,,1,1,2,,,,---,---,Appears in Genealogy of the Holy War and Thracia 776.
+,Finn,C,,,,,1,,,,,---,---,Hero from beyond Elyos who served Leif as a knight.
+,Finn,B,,1,,,1,,,,,---,---,Served two generations of princes as a loyal retainer of Leonster.
+,Finn,A,,1,,1,1,,,,,---,---,He escaped with Leif when Leonster Castle fell and raised him afterward.
+,Finn,S,,1,,1,2,,,,,Miracle,Avoids foe's attack when unit would be defeated. Trigger %=Lck. (Max 50%),Appears in Genealogy of the Holy War and Thracia 776.
+,Osian,C,,,,,,,,,1,---,---,Hero from beyond Elyos who fought in the Fiana Freeblades with his axe.
+,Osian,B,,,,,1,,,,1,---,---,"Hot-headed and proud, he is skilled with the throwing axe Vouge."
+,Osian,A,,,,,1,1,,,1,---,---,"Though brash, he's also a cheerful and inspiring presence in the army."
+,Osian,S,,,,,1,1,,,2,---,---,Appears in Thracia 776.
+,Asbel,C,,,,,1,,,,,---,---,Hero from beyond Elyos skilled in the use of wind magic.
+,Asbel,B,,,,1,1,,,,,---,---,"He learned much while studying under Ced, leader of the Magi."
+,Asbel,A,,,1,1,1,,,,,---,---,He and Leif met in their youth and vowed to take back Thracia.
+,Asbel,S,,,1,1,2,,,,,---,---,Appears in Thracia 776.
+,Shiva,C,,,,1,,,,,,---,---,Hero from beyond Elyos and a wandering swordsman.
+,Shiva,B,,1,,1,,,,,,---,---,This black-clad master of the sword wields his blade with deadly skill.
+,Shiva,A,,1,,1,,1,,,,---,---,"Though cold, he is not heartless, and detests the waste of any life."
+,Shiva,S,,1,,2,,1,,,,---,---,Appears in Thracia 776.
+,Olwen,C,,,,,1,,,,,---,---,Hero from beyond Elyos and mage knight with a serious demeanor.
+,Olwen,B,,,1,,1,,,,,---,---,"Reinhardt's younger sister, a soldier serving the Friege house."
+,Olwen,A,,,1,,1,1,,,,---,---,She is principled and left the army upon learning of its cruel practices.
+,Olwen,S,,,1,,2,1,,,,Dire Thunder,"When unit initiates combat with Thunder equipped, unit attacks twice. (Excludes Elthunder and Thoron.)",Appears in Thracia 776.
+,Mareeta,C,,,,,1,,,,,---,---,Hero from beyond Elyos and sword fighter of the Fiana Freeblades.
+,Mareeta,B,,,,1,1,,,,,---,---,"The adopted daughter of Eyvel, head of the Fiana Freeblades."
+,Mareeta,A,,,,1,1,1,,,,---,---,Descendant of the crusader Od and master of the skills Luna and Astra.
+,Mareeta,S,,,,1,2,1,,,,---,---,Appears in Thracia 776.
+,Linoan,C,,,,,1,,,,,---,---,"Duchess of Tarrah on Jugdral, a continent in another world."
+,Linoan,B,,,,1,1,,,,,---,---,A gentle and wise leader who succeeded her late father.
+,Linoan,A,,,1,1,1,,,,,---,---,"A descendant of Saint Heim, she joined Leif to oppose the Empire."
+,Linoan,S,,,1,1,2,,,,,---,---,Appears in Thracia 776.
+,Sara,C,,,,1,,,,,,---,---,Hero from beyond Elyos and cleric with a mysterious power.
+,Sara,B,,,1,1,,,,,,---,---,She became Leif's ally when she heard him call out for help.
+,Sara,A,,,1,1,1,,,,,---,---,"Despised her grandfather, Manfroy, the great priest of the Loptr Church."
+,Sara,S,,,1,2,1,,,,,---,---,Appears in Thracia 776.
+,Ced,C,,,1,,,,,,,---,---,"Prince of Silesse on Jugdral, a continent in another world."
+,Ced,B,,,1,,1,,,,,---,---,"The son of Lewyn, he inherited the holy wind magic tome Forseti."
+,Ced,A,,,1,1,1,,,,,---,---,"He formed the Magi, a resistance group. Known as ""Hero on the Wind."""
+,Ced,S,,,2,1,1,,,,,---,---,Appears in Genealogy of the Holy War and Thracia 776.
+Lucina,Chrom,C,2,,,,,,,,,---,---,"Prince of the Halidom of Ylisse, a land in another world."
+World of the,Chrom,B,2,,,1,,,,,,---,---,"A descendant of the Hero-King, he led the Shepherds to protect Ylisse."
+Princess Exalt,Chrom,A,2,,,1,1,,,,,---,---,"With Robin and his future daughter, he battled the Fell Dragon Grima."
+,Chrom,S,5,,,1,1,,,,,Rightful Ruler,Adds +5% to trigger rate for all skills with trigger rates.,Appears in Awakening.
+,Lissa,C,,,,,,1,,,,---,---,"Princess of the Halidom of Ylisse, a land in another world."
+,Lissa,B,,,1,,,1,,,,---,---,A compassionate member of the Shepherds who treats all equally.
+,Lissa,A,,,1,,,1,,1,,---,---,Her high energy makes her an inspiring presence in the Shepherds.
+,Lissa,S,,,1,,,2,,1,,Healtouch,"When unit heals an ally with a staff, restores +5 HP to target.",Appears in Awakening.
+,Gaius,C,,,,,1,,,,,---,---,Hero from beyond Elyos and thief from the Halidom of Ylisse.
+,Gaius,B,,,,1,1,,,,,---,---,"Composed and clever, he would take on any job for the right price."
+,Gaius,A,,1,,1,1,,,,,---,---,He loves sweets and conceals them all over his person.
+,Gaius,S,,1,,1,2,,,,,---,---,Appears in Awakening.
+,Cordelia,C,,1,,,,,,,,---,---,Hero from beyond Elyos and pegasus knight of the Halidom of Ylisse.
+,Cordelia,B,,1,,,,1,,,,---,---,A renowned beauty with exceptional talent who completes any task well.
+,Cordelia,A,,1,,,,1,1,,,---,---,Her unrequited feelings toward Chrom caused her to sigh frequently.
+,Cordelia,S,,2,,,,1,1,,,---,---,Appears in Awakening.
+,Nowi,C,,,,,,1,,,,---,---,Hero from beyond Elyos and an innocent young dragon.
+,Nowi,B,,,,,,1,1,,,---,---,A manakete in human form. She is far older than she appears.
+,Nowi,A,,1,,,,1,1,,,---,---,"She loves having fun with others, and is an inveterate late sleeper."
+,Nowi,S,,1,,,,2,1,,,---,---,Appears in Awakening.
+,Tharja,C,,,,,1,,,,,---,---,Hero from beyond Elyos and a dark mage from Plegia.
+,Tharja,B,,,1,,1,,,,,---,---,"Wicked and deeply jealous, she was known for her curses."
+,Tharja,A,,,1,,1,,1,,,---,---,"She became very attached to Robin, whom she followed like a shadow."
+,Tharja,S,,,1,,2,,1,,,---,---,Appears in Awakening.
+,Owain,C,2,,,,,,,,,---,---,Hero from beyond Elyos and Lissa's son.
+,Owain,B,2,,1,,,,,,,---,---,A Brand-bearer of Exalted blood who came from the future.
+,Owain,A,2,,1,,1,,,,,---,---,"He's a pompous, excitable show-off who cares most about looking cool."
+,Owain,S,5,,1,,1,,,,,---,---,Appears in Awakening.
+,Inigo,C,,,,,,1,,,,---,---,Hero from beyond Elyos and Olivia's son.
+,Inigo,B,,,,,1,1,,,,---,---,An amiable young man who was one of the children from the future.
+,Inigo,A,,,,1,1,1,,,,---,---,He's an incorrigible flirt who is shyer than he lets on.
+,Inigo,S,,,,1,1,2,,,,---,---,Appears in Awakening.
+,Severa,C,,1,,,,,,,,---,---,Hero from beyond Elyos and Cordelia's daughter.
+,Severa,B,,1,,,1,,,,,---,---,One of the children from the future known for her strong will and snark.
+,Severa,A,,1,,,1,,1,,,---,---,She's thoroughly devious and a dedicated wastrel.
+,Severa,S,,2,,,1,,1,,,---,---,Appears in Awakening.
+,Morgan,C,,,1,,,,,,,---,---,"Child of Robin, hero from beyond Elyos."
+,Morgan,B,,,1,,,,,1,,---,---,A time traveler who aspires to be a great tactician like Robin.
+,Morgan,A,,,1,,,1,,1,,---,---,"Suffers from amnesia but remains energetic, cheerful, and driven."
+,Morgan,S,,,2,,,1,,1,,---,---,Appears in Awakening.
+Lyn,Eliwood,C,,,,,,1,,,,---,---,"A noble of House Pherae in Elibe, a continent in another world."
+World of the,Eliwood,B,,1,,,,1,,,,---,---,"Sincere and straightforward, he journeyed to find his missing father."
+Lady of the,Eliwood,A,,1,,1,,1,,,,---,---,"He was duped by Nergal, but in the end took him on with his friends."
+Plains,Eliwood,S,,1,,1,,2,,,,Draw Back,Use to move 1 space away from adjacent ally and pull the ally along.,Appears in The Binding Blade and The Blazing Blade.
+,Hector,C,,1,,,,,,,,---,---,"A noble of Ostia in the Lycia region of Elibe, a land in another world."
+,Hector,B,,1,,,,,1,,,---,---,"A strong, exuberant young man who taught himself how to wield an axe."
+,Hector,A,,1,,1,,,1,,,---,---,"As children, he and Eliwood swore an undying oath of friendship."
+,Hector,S,,2,,1,,,1,,,---,---,Appears in The Binding Blade and The Blazing Blade.
+,Florina,C,,,,,1,,,,,---,---,Hero from beyond Elyos who trained to be a pegasus knight of Ilia.
+,Florina,B,,,,1,1,,,,,---,---,"A quiet, compassionate young woman and animal lover."
+,Florina,A,,,,1,1,1,,,,---,---,"Though shy and easily scared, she supported Lyn on her journey."
+,Florina,S,,,,1,2,1,,,,---,---,Appears in The Blazing Blade.
+,Dorcas,C,2,,,,,,,,,---,---,Hero from beyond Elyos and warrior from a remote village.
+,Dorcas,B,2,1,,,,,,,,---,---,He hired himself out to bandits to pay for his wife's medical treatment.
+,Dorcas,A,2,1,,1,,,,,,---,---,"Reserved and devoted to his family, he joined Lyn when she rescued him."
+,Dorcas,S,5,1,,1,,,,,,---,---,Appears in The Blazing Blade.
+,Serra,C,,,,,,1,,,,---,---,Hero from beyond Elyos who served Ostia as a cleric.
+,Serra,B,,,,,,1,,1,,---,---,She shrewdly joined Lyn in order to gain a powerful ally.
+,Serra,A,,,,,1,1,,1,,---,---,She is very likable despite her habit of pursuing her own agenda.
+,Serra,S,,,,,1,2,,1,,---,---,Appears in The Blazing Blade.
+,Matthew,C,,,,,1,,,,,---,---,Hero from beyond Elyos who served House Ostia as a spy.
+,Matthew,B,,,,,1,1,,,,---,---,Forms connections easily with his cheerful and open demeanor.
+,Matthew,A,2,,,,1,1,,,,---,---,"Though he seems scatterbrained, he always sees his missions through."
+,Matthew,S,2,,,,2,1,,,,---,---,Appears in The Blazing Blade.
+,Rebecca,C,,,,,1,,,,,---,---,Hero from beyond Elyos and daughter of a Pheraen village leader.
+,Rebecca,B,,,,1,1,,,,,---,---,She allied herself with Eliwood to repay him for saving her village.
+,Rebecca,A,,,,1,1,1,,,,---,---,A cheerful and gentle archer who mastered the bow by hunting.
+,Rebecca,S,,,,1,2,1,,,,---,---,Appears in The Blazing Blade.
+,Ninian,C,,,,,1,,,,,---,---,Hero from beyond Elyos and a traveling dancer.
+,Ninian,B,,,,,1,1,,,,---,---,Befriended Eliwood and Lyn when they saved her from bandits.
+,Ninian,A,,,,,1,1,,1,,---,---,A fragile girl whose hidden secret could shake the world.
+,Ninian,S,,,,,2,1,,1,,---,---,Appears in The Blazing Blade.
+,Nino,C,,,,,1,,,,,---,---,Hero from beyond Elyos and a kind-hearted mage-in-training.
+,Nino,B,,,,,1,,,1,,---,---,Neglected adopted daughter of the head of the Black Fang assassins.
+,Nino,A,,,1,,1,,,1,,---,---,She thinks of the members of her organization as if they were family.
+,Nino,S,,,1,,2,,,1,,Giga Excalibur,"If unit initiates combat with Excalibur, deals +20% damage.",Appears in The Blazing Blade.
+,Jaffar,C,,1,,,,,,,,---,---,Hero from beyond Elyos and a Black Fang assassin.
+,Jaffar,B,,1,,1,,,,,,---,---,"Known as the ""Angel of Death,"" he is one of the elite Four Fangs."
+,Jaffar,A,,1,,1,1,,,,,---,---,Spending time with Nino drew him from his emotionless shell.
+,Jaffar,S,,2,,1,1,,,,,---,---,Appears in The Blazing Blade.
+Ike,Mist,C,,,,,1,,,,,---,---,Hero from beyond Elyos and a staff wielder in the Greil Mercenaries.
+World of the,Mist,B,,,,,1,,,1,,---,---,She is Ike's pure-hearted and compassionate younger sister.
+Radiant Hero,Mist,A,,,,,1,1,,1,,---,---,She always watches to see what she can do for the others of the group.
+,Mist,S,,,,,2,1,,1,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Titania,C,,,,,1,,,,,---,---,Hero from beyond Elyos and deputy commander of the Greil Mercenaries.
+,Titania,B,,,,1,1,,,,,---,---,A lance-wielding combat veteran and former Crimean Royal Knight.
+,Titania,A,,1,,1,1,,,,,---,---,She was a den mother to Ike and the other members of the group.
+,Titania,S,,1,,1,2,,,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Shinon,C,,,,1,,,,,,---,---,Hero from beyond Elyos and an archer in the Greil Mercenaries.
+,Shinon,B,,,,1,,,1,,,---,---,An expert marksman who does not miss his target.
+,Shinon,A,,1,,1,,,1,,,---,---,"He can be cynical, but it's just a facade for how much he cares."
+,Shinon,S,,1,,2,,,1,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Gatrie,C,,,,,,,1,,,---,---,Hero from beyond Elyos and member of the Greil Mercenaries.
+,Gatrie,B,,1,,,,,1,,,---,---,"An amiable goof and sworn brother to Shinon, an older mercenary."
+,Gatrie,A,,1,,1,,,1,,,---,---,He's a fool for women but never gets discouraged in the face of rejection.
+,Gatrie,S,,1,,1,,,2,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Soren,C,,,,1,,,,,,---,---,Hero from beyond Elyos who joined the Greil Mercenaries as a mage.
+,Soren,B,,,,1,,,,1,,---,---,"A trusted adviser due to his sound judgment, he excels at finding intel."
+,Soren,A,,,1,1,,,,1,,---,---,"He is uncomfortable around most others, but he is very close to Ike."
+,Soren,S,,,1,2,,,,1,,Wind Adept,"If unit initiates combat with Wind equipped, unit may attack twice. Trigger %=Dex. (Excludes Elwind and Excalibur.)",Appears in Path of Radiance and Radiant Dawn.
+,Mia,C,,,,,1,,,,,---,---,Hero from beyond Elyos and member of the Greil Mercenaries.
+,Mia,B,,,,1,1,,,,,---,---,A frank and lively young woman who doesn't sweat the details.
+,Mia,A,,,,1,1,1,,,,---,---,She's always seeking opponents to hone her sword skills in battle.
+,Mia,S,,,,1,2,1,,,,Shove,Use to push an adjacent ally with less Bld 1 space away.,Appears in Path of Radiance and Radiant Dawn.
+,Ilyana,C,,,,,,,,1,,---,---,Hero from beyond Elyos who wields lightning magic.
+,Ilyana,B,,,,,,1,,1,,---,---,Joined Ike when she found herself in a battle against her will.
+,Ilyana,A,,,,1,,1,,1,,---,---,"She looks fragile, but she's a big eater and always seems hungry."
+,Ilyana,S,,,,1,,1,,2,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Lethe,C,2,,,,,,,,,---,---,Hero from beyond Elyos and a beast warrior from Gallia.
+,Lethe,B,2,,,,1,,,,,---,---,A laguz shape-shifter who can transform into a massive cat.
+,Lethe,A,2,,,1,1,,,,,---,---,"She dislikes the beorc, but she will obey royal orders to work with them."
+,Lethe,S,5,,,1,1,,,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Ranulf,C,2,,,,,,,,,---,---,Hero from beyond Elyos and a beast warrior from Gallia.
+,Ranulf,B,2,1,,,,,,,,---,---,An easygoing laguz shape-shifter who can become a massive cat.
+,Ranulf,A,2,1,,,,,1,,,---,---,"Though he appears laid-back, he's utterly fearless in combat."
+,Ranulf,S,5,1,,,,,1,,,---,---,Appears in Path of Radiance and Radiant Dawn.
+,Greil,C,,1,,,,,,,,---,---,Hero from beyond Elyos who founded the Greil Mercenaries.
+,Greil,B,,1,,,,,1,,,---,---,A well-trusted and top-notch mercenary with superb skill in battle.
+,Greil,A,,1,,,,,1,,1,---,---,"He is Ike and Mist's father, and he sees all of the mercenaries as family."
+,Greil,S,,2,,,,,1,,1,---,---,Appears in Path of Radiance.
+Byleth,Edelgard,C,,1,,,,,,,,---,---,"Imperial princess of the Adrestian Empire, a land in another world."
+World of the,Edelgard,B,,1,,,,,1,,,---,---,Leader of the Black Eagle House at the Garreg Mach Monastery.
+Instructor,Edelgard,A,2,1,,,,,1,,,---,---,She is a noble woman who is determined to reform the world.
+,Edelgard,S,2,2,,,,,1,,,Flickering Flower,"If unit initiates combat, freezes foe. Trigger % = total damage dealt.",Appears in Three Houses.
+,Ferdinand,C,,,,,1,,,,,---,---,Hero from beyond Elyos and heir to House Aegir.
+,Ferdinand,B,,1,,,1,,,,,---,---,A Black Eagle student who takes great pride in his noble status.
+,Ferdinand,A,,1,,1,1,,,,,---,---,Edelgard's role as imperial princess brings out his competitive streak.
+,Ferdinand,S,,1,,1,2,,,,,---,---,Appears in Three Houses.
+,Bernadetta,C,,,,1,,,,,,---,---,Hero from beyond Elyos and the only daughter of House Varley.
+,Bernadetta,B,,,,1,1,,,,,---,---,A Black Eagle student who is extremely afraid of strangers.
+,Bernadetta,A,,1,,1,1,,,,,---,---,"A reclusive young woman, she hides in her room when not in class."
+,Bernadetta,S,,1,,2,1,,,,,---,---,Appears in Three Houses.
+,Dimitri,C,,1,,,,,,,,---,---,"Crown prince of the Holy Kingdom of Faerghus, a land in another world."
+,Dimitri,B,,1,,1,,,,,,---,---,Leader of the Blue Lion House at Garreg Mach Monastery.
+,Dimitri,A,2,1,,1,,,,,,---,---,"He is courteous and sincere, but he hides darkness deep in his heart."
+,Dimitri,S,2,2,,1,,,,,,Paraselene,"Use to make an attack against an adjacent foe, then move 1 space away from that foe after combat.",Appears in Three Houses.
+,Felix,C,,1,,,,,,,,---,---,Hero from beyond Elyos and heir to House Fraldarius.
+,Felix,B,,1,,,1,,,,,---,---,A Blue Lion student who is Dimitri's childhood friend.
+,Felix,A,,1,,1,1,,,,,---,---,He cares only about finding a worthy adversary for his sword skills.
+,Felix,S,,2,,1,1,,,,,---,---,Appears in Three Houses.
+,Ingrid,C,,,,,1,,,,,---,---,Hero from beyond Elyos and the only daughter of House Galatea.
+,Ingrid,B,,,,,1,,,1,,---,---,A serious and level-headed Blue Lion student.
+,Ingrid,A,,,,,1,1,,1,,---,---,She admires noble knights and dreams of becoming one.
+,Ingrid,S,,,,,2,1,,1,,---,---,Appears in Three Houses.
+,Claude,C,,,,1,,,,,,---,---,"Heir to House Riegan of the Leicester Alliance, found in another world."
+,Claude,B,,,,1,1,,,,,---,---,Leader of the Golden Deer House at Garreg Mach Monastery.
+,Claude,A,,,,1,1,1,,,,---,---,"Though laid-back and friendly, he is also a schemer to the core."
+,Claude,S,,,,2,1,1,,,,Wind God,"If unit's HP=100%, grants range +1 with bows.",Appears in Three Houses.
+,Raphael,C,1,,,,,,,,,---,---,Hero from beyond Elyos and the son of a Leicester Alliance merchant.
+,Raphael,B,1,1,,,,,,,,---,---,A Golden Deer student with a big appetite and a burly physique.
+,Raphael,A,1,1,,,,,1,,,---,---,What he lacks in book learning he makes up for in devotion to training.
+,Raphael,S,2,1,,,,,1,,,---,---,Appears in Three Houses.
+,Lysithea,C,,,1,,,,,,,---,---,Hero from beyond Elyos and the eldest daughter of House Ordelia.
+,Lysithea,B,,,1,1,,,,,,---,---,A diligent Golden Deer student possessing great talent with magic.
+,Lysithea,A,,,1,1,1,,,,,---,---,"She loves sweets, but hates ghosts and being treated like a child."
+,Lysithea,S,,,2,1,1,,,,,---,---,Appears in Three Houses.
+,Flayn,C,,,1,,,,,,,---,---,Hero from beyond Elyos and Seteth's younger sister.
+,Flayn,B,,,1,,,,,1,,---,---,She lives at Garreg Mach Monastery under her brother's protection.
+,Flayn,A,,,1,1,,,,1,,---,---,She is sheltered and very interested in all sorts of things in town.
+,Flayn,S,,,2,1,,,,1,,---,---,Appears in Three Houses.
+Corrin,Azura,C,,,,,1,,,,,---,---,Hero from beyond Elyos who was kidnapped and raised in Hoshido.
+World of the,Azura,B,,,,1,1,,,,,---,---,"She has a mysterious, fragile aura and rarely reveals her emotions."
+Crux of Fate,Azura,A,,,,1,1,1,,,,---,---,She is a songstress who uses both her dancing and lance as weapons.
+,Azura,S,,,,1,2,1,,,,---,---,"Appears in Birthright, Conquest, and others."
+,Ryoma,C,,,,,1,,,,,---,---,"The eldest prince of Hoshido, a country in another world."
+,Ryoma,B,,1,,,1,,,,,---,---,The crown prince. He inherited the divine sword Raijinto.
+,Ryoma,A,,1,,,1,1,,,,---,---,He is a samurai with the indomitable will to face any hardship.
+,Ryoma,S,,1,,,2,1,,,,Bushido,"If unit's level is higher than foe's, grants Crit+10 during combat, and unit deals +2 damage and takes 2 less damage.","Appears in Birthright, Conquest, and others."
+,Hinoka,C,,,,,1,,,,,---,---,"The eldest princess of Hoshido, a country in another world."
+,Hinoka,B,,,,,1,,,1,,---,---,She charges fearlessly into battle astride a pegasus.
+,Hinoka,A,2,,,,1,,,1,,---,---,She became a sky knight in hopes of recovering Corrin from Nohr.
+,Hinoka,S,2,,,,2,,,1,,---,---,"Appears in Birthright, Conquest, and others."
+,Takumi,C,,1,,,,,,,,---,---,"A prince of Hoshido, a country in another world."
+,Takumi,B,,1,,1,,,,,,---,---,An expert archer who wields the divine bow Fujin Yumi.
+,Takumi,A,2,1,,1,,,,,,---,---,He despises Nohr and has complex feelings toward Corrin.
+,Takumi,S,2,2,,1,,,,,,---,---,"Appears in Birthright, Conquest, and others."
+,Sakura,C,,,,,,1,,,,---,---,"Princess of Hoshido, a country in another world."
+,Sakura,B,,,1,,,1,,,,---,---,Youngest of the Hoshidan royals. She is elegant and tenderhearted.
+,Sakura,A,2,,1,,,1,,,,---,---,She is polite but shy and easily flustered.
+,Sakura,S,2,,1,,,2,,,,---,---,"Appears in Birthright, Conquest, and others."
+,Xander,C,,,,,,,1,,,---,---,"The eldest prince of Nohr, a country in another world."
+,Xander,B,,,,,,1,1,,,---,---,The crown prince. He inherited the divine sword Siegfried.
+,Xander,A,,1,,,,1,1,,,---,---,He is a chivalrous knight who can be strict as easily as he can be kind.
+,Xander,S,,1,,,,1,2,,,Chivalry,"If unit initiates combat while foe's HP=100%, unit deals +2 damage and takes 2 less damage.","Appears in Birthright, Conquest, and others."
+,Camilla,C,,,,,1,,,,,---,---,"The eldest princess of Nohr, a land in another world."
+,Camilla,B,,1,,,1,,,,,---,---,"A beautiful, bewitching woman who rides a wyvern into battle."
+,Camilla,A,,1,,,1,,1,,,---,---,She likes girls who are strong yet cute and dotes endlessly on Corrin.
+,Camilla,S,,1,,,2,,1,,,---,---,"Appears in Birthright, Conquest, and others."
+,Leo,C,,,1,,,,,,,---,---,"A prince of Nohr, a country in another world."
+,Leo,B,,,1,,,,,1,,---,---,He is an elite dark mage who uses the divine tome Brynhildr.
+,Leo,A,2,,1,,,,,1,,---,---,"He is a natural-born prodigy, but he can also be a bit absentminded."
+,Leo,S,2,,2,,,,,1,,---,---,"Appears in Birthright, Conquest, and others."
+,Elise,C,,,,,,1,,,,---,---,"Princess of Nohr, a country in another world."
+,Elise,B,,,1,,,1,,,,---,---,The youngest of the Nohrian royals. She is innocent and cheerful.
+,Elise,A,,,1,,1,1,,,,---,---,She loves all her siblings and very much admires Corrin.
+,Elise,S,,,1,,1,2,,,,---,---,"Appears in Birthright, Conquest, and others."
+,Jakob,C,2,,,,,,,,,---,---,Hero from beyond Elyos who served Corrin as a butler.
+,Jakob,B,2,,,,,1,,,,---,---,"Quick-witted and versatile, he has a talent for both care and combat."
+,Jakob,A,2,,,1,,1,,,,---,---,He swore absolute loyalty to Corrin and treats all others with disdain.
+,Jakob,S,5,,,1,,1,,,,---,---,"Appears in Birthright, Conquest, and others."
+Eirika,Seth,C,2,,,,,,,,,---,---,Hero from beyond Elyos who served the Renais royal family as a knight.
+World of the,Seth,B,2,1,,,,,,,,---,---,A young general known by many as the Silver Knight.
+Azure Twins,Seth,A,2,1,,,,,1,,,---,---,He protected and aided Eirika during an invasion by the Grado Empire.
+,Seth,S,5,1,,,,,1,,,---,---,Appears in The Sacred Stones.
+,Ross,C,2,,,,,,,,,---,---,Hero from beyond Elyos and the son of the warrior Garcia.
+,Ross,B,2,1,,,,,,,,---,---,A fledgling warrior of Renais filled with youthful excitement and vigor.
+,Ross,A,2,1,,,,1,,,,---,---,He devoted himself to training so that he could be more like his father.
+,Ross,S,5,1,,,,1,,,,---,---,Appears in The Sacred Stones.
+,Lute,C,,,1,,,,,,,---,---,Hero from beyond Elyos who has a prodigious talent for magic.
+,Lute,B,,,1,,,1,,,,---,---,A confident mage who often asserts her superiority.
+,Lute,A,,,1,,,1,,1,,---,---,Her eccentric mannerisms make it difficult to tell when she is joking.
+,Lute,S,,,2,,,1,,1,,---,---,Appears in The Sacred Stones.
+,Joshua,C,,,,,1,,,,,---,---,Hero from beyond Elyos who is an easygoing swordsman.
+,Joshua,B,,,,1,1,,,,,---,---,He loves gambling and makes any important decisions with a coin flip.
+,Joshua,A,2,,,1,1,,,,,---,---,He betrayed the Grado Empire based on a flipped coin.
+,Joshua,S,2,,,1,2,,,,,---,---,Appears in The Sacred Stones.
+,Tana,C,,,,,1,,,,,---,---,"The princess of Frelia on Magvel, a continent in another world."
+,Tana,B,,,,,1,1,,,,---,---,"Boisterous despite her nobility, she is a lance-wielding pegasus knight."
+,Tana,A,,1,,,1,1,,,,---,---,"She ran away from the castle to help Eirika, her close friend."
+,Tana,S,,1,,,2,1,,,,---,---,Appears in The Sacred Stones.
+,Amelia,C,2,,,,,,,,,---,---,Hero from beyond Elyos and trainee soldier from the Grado Empire.
+,Amelia,B,2,,,,,1,,,,---,---,"While naive, she is also cheerful, honest, and incredibly dedicated."
+,Amelia,A,2,1,,,,1,,,,---,---,"She fought Eirika and Ephraim, believing that they were villains."
+,Amelia,S,5,1,,,,1,,,,---,---,Appears in The Sacred Stones.
+,Innes,C,,,,,1,,,,,---,---,"The prince of Frelia on Magvel, a continent in another world."
+,Innes,B,,,,,1,1,,,,---,---,He is both proud and wise. Known as an expert archer.
+,Innes,A,,,,1,1,1,,,,---,---,"He can come off as aloof, but under that exterior, he is a good person."
+,Innes,S,,,,1,2,1,,,,Sure Strike,"If unit initiates combat, attacks are guaranteed to hit. Trigger %=Dex",Appears in The Sacred Stones.
+,Gerik,C,2,,,,,,,,,---,---,Hero from beyond Elyos who founded Gerik's Mercenaries.
+,Gerik,B,2,1,,,,,,,,---,---,"A powerful and renowned veteran, he is known as the ""Desert Tiger."""
+,Gerik,A,2,1,,1,,,,,,---,---,He is a compassionate man of honor who has earned the trust of his allies.
+,Gerik,S,5,1,,1,,,,,,---,---,Appears in The Sacred Stones.
+,Marisa,C,,,,,1,,,,,---,---,Hero from beyond Elyos and member of Gerik's Mercenaries.
+,Marisa,B,,,,1,1,,,,,---,---,"A remarkable swordswoman known, and feared, as the Crimson Flash."
+,Marisa,A,,,,1,1,1,,,,---,---,She has a taciturn demeanor and trusts Commander Gerik completely.
+,Marisa,S,,,,1,2,1,,,,Lethality,"When landing a critical hit, instantly kills foe. Trigger %=30. (Excludes certain powerful foes.)",Appears in The Sacred Stones.
+,L'Arachel,C,,,,,1,,,,,---,---,Hero from beyond Elyos who is a righteous defender of others.
+,L'Arachel,B,,,,,1,1,,,,---,---,She traveled the length of Magvel defeating any monsters she found.
+,L'Arachel,A,,,1,,1,1,,,,---,---,"As princess of Rausten, she fought alongside her two attendants."
+,L'Arachel,S,,,1,,2,1,,,,---,---,Appears in The Sacred Stones.
+Countless,Alfonse,S,2,2,,,,,1,,,Spur Attack,Grants Atk+2 to adjacent allies.,"Prince of Askr, a land in another world."
+Worlds,,,,,,,,,,,,,,"A kind, earnest young member of the Order of Heroes that protects Askr."
+,,,,,,,,,,,,,,He is dedicated to overcoming any challenge that obstructs victory.
+,,,,,,,,,,,,,,Appears in Heroes.
+,Sharena,S,2,,,,1,,2,,,Fortify Def,Grants Def+2 to adjacent allies for 1 turn at start of player phase.,"Princess of Askr, a land in another world."
+,,,,,,,,,,,,,,A bright and energetic member of the Order of Heroes protecting Askr.
+,,,,,,,,,,,,,,"Bubbly and amiable, she hopes to befriend heroes from other worlds."
+,,,,,,,,,,,,,,Appears in Heroes.
+,Anna,S,2,,,,2,,,1,,Spur Res,Grants Res+2 to adjacent allies.,"Warrior of Askr, a land in another world."
+,,,,,,,,,,,,,,A skilled fighter and commander of the Order of Heroes protecting Askr.
+,,,,,,,,,,,,,,"Typically caring and reliable, she has been known to lose her composure a little when it comes to money matters."
+,,,,,,,,,,,,,,Appears in Heroes.

@@ -1,0 +1,81 @@
+,,,,,,,,,,,,,,,"For player ones, see Bond Level upgrades in next page --->",,,,,,,,,
+,,,,,,,,Engraving,,,,,,,Sync stats,,,,,,,,,
+Name,Notes,ID,Description,Engage Attack,Eng Atk Link,Linked Char,Linked Emblem,Emblem Name,Might+,Weight+,Hit+,Critical+,Avoid+,Dodge+,HP+,Str+,Mag+,Dex+,Spd+,Lck+,Def+,Res+,Bld+,Mov+
+Marth,,GID_マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,Beginnings,1,--,10,10,5,5,--,--,--,--,--,--,--,--,--,--
+Sigurd,,GID_シグルド,Known as the Emblem of the Holy War. Boasts high movement and powerful lance attacks.,Override,---,---,---,Holy,1,-1,--,--,20,--,--,--,--,--,--,--,--,--,--,--
+Celica,,GID_セリカ,Known as the Emblem of Echoes. Her holy magic is the bane of monsters.,Warp Ragnarok,---,---,---,Echoes,-1,-1,--,--,--,50,--,--,--,--,--,--,--,--,--,--
+Micaiah,,GID_ミカヤ,Known as the Emblem of Dawn. Supports allies with illuminating magic and a healing staff.,Great Sacrifice,---,---,---,Dawn,-3,-1,--,--,40,20,--,--,--,--,--,--,--,--,--,--
+Roy,,GID_ロイ,Known as the Emblem of Binding. Endures enemy attacks and cuts a path through with his sword.,Blazing Lion,---,---,---,Binding,2,8,--,--,-30,--,--,--,--,--,--,--,--,--,--,--
+Leif,,GID_リーフ,"Known as the Emblem of Genealogy. A versatile knight proficient in axe, sword, and lance.",Quadruple Hit,---,---,---,Genealogy,1,1,20,--,10,--,--,--,--,--,--,--,--,--,--,--
+Lucina,,GID_ルキナ,"Known as the Emblem of Awakening. Creates bonds with allies, and pools their strength to attack enemies.",All for One,---,---,---,Awakening,-1,-1,30,--,30,--,--,--,--,--,--,--,--,--,--,--
+Lyn,,GID_リン,Known as the Emblem of Blazing. Defeats closeup foes with her sword and distant ones with her bow.,Astra Storm,---,---,---,Blazing,-3,-2,40,20,--,--,--,--,--,--,--,--,--,--,--,--
+Ike,,GID_アイク,Known as the Emblem of Radiance. Destroys obstacles with his mighty sword and axe.,Great Aether,---,---,---,Radiance,3,15,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Byleth,,GID_ベレト,Known as the Emblem of the Academy. Wields various hero's relics and knows a variety of tactics.,Goddess Dance,---,---,---,Academy,--,2,30,10,10,30,--,--,--,--,--,--,--,--,--,--
+Corrin,,GID_カムイ,"Known as the Emblem of Fates. Can tap into dragon veins, a magic sleeping in the land.",Torrential Roar,---,---,---,Fates,-2,--,--,30,10,30,--,--,--,--,--,--,--,--,--,--
+Eirika,,GID_エイリーク,Known as the Emblem of the Sacred. Her flashing sword shatters her foe's defenses.,Twin Strike,---,---,---,Sacred,--,--,40,20,-20,-20,--,--,--,--,--,--,--,--,--,--
+Ephraim,,GID_エフラム,Another Emblem of the Sacred. Pierces enemy lines with mighty lance techniques.,Twin Strike,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alear,,GID_リュール,Known as the Fire Emblem. Grants the Divine Dragon's blessing and is the bane of the Fell Dragon.,Dragon Blast,Bond Blast,Alear,---,Fire,-1,-1,20,20,20,20,--,--,--,--,--,--,--,--,--,--
+???,Prologue Marth,GID_M000_マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Sigurd,Chapter 2,GID_M002_シグルド,Known as the Emblem of the Holy War. Boasts high movement and powerful lance attacks.,---,---,---,---,---,--,--,--,--,--,--,--,--,--,3,--,--,--,--,--,--
+???,Ch 7 Lucina,GID_M007_敵ルキナ,"The Emblem contained within the Ring of the Princess Exalt, which was stolen from Lythos Castle.",All for One,---,---,---,---,--,--,--,--,--,--,10,5,4,3,--,3,--,--,--,--
+???,Ch 8 Leif,GID_M008_敵リーフ,"The Emblem contained within the Ring of the Sage Lord, which was stolen from Lythos Castle.",---,---,---,---,---,--,--,--,--,--,--,--,--,2,--,--,1,--,--,2,--
+???,Ch 10 Byleth,GID_M010_敵ベレト,"The Emblem contained within the Ring of the Instructor, which was stolen from Lythos Castle.",---,---,---,---,---,--,--,--,--,--,--,10,6,9,2,2,7,2,--,--,--
+???,Ch 10 Lyn,GID_M010_敵リン,"The Emblem contained within the Ring of the Lady of the Plains, which was entrusted to Elusia.",Astra Storm,---,---,---,---,--,--,--,--,--,--,9,2,3,2,--,4,--,--,--,--
+Marth,Ch 11,GID_M011_敵マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,---,---,---,---,---,--,--,--,--,--,--,--,2,3,3,--,--,--,--,--,--
+Sigurd,Ch 11,GID_M011_敵シグルド,Known as the Emblem of the Holy War. Boasts high movement and powerful lance attacks.,---,---,---,---,---,--,--,--,--,--,--,--,--,--,--,4,2,--,2,--,1
+Celica,Ch 11,GID_M011_敵セリカ,Known as the Emblem of Echoes. Her holy magic is the bane of monsters.,Dark Warp,---,---,---,---,--,--,--,--,--,--,--,2,--,--,--,--,2,2,--,--
+Micaiah,Ch 11,GID_M011_敵ミカヤ,Known as the Emblem of Dawn. Supports allies with illuminating magic and a healing staff.,---,---,---,---,---,--,--,--,--,--,--,--,--,--,--,4,--,2,3,--,--
+Roy,Ch 11,GID_M011_敵ロイ,Known as the Emblem of Binding. Endures enemy attacks and cuts a path through with his sword.,---,---,---,---,---,--,--,--,--,--,--,7,3,--,--,--,2,--,--,--,--
+Leif,Ch 11,GID_M011_敵リーフ,"Known as the Emblem of Genealogy. A versatile knight proficient in axe, sword, and lance.",---,---,---,---,---,--,--,--,--,--,--,--,--,2,--,--,1,--,--,2,--
+???,Ch 14 Byleth,GID_M014_敵ベレト,"The Emblem contained within the Ring of the Instructor, which was stolen from Lythos Castle.",Diabolical Dance,---,---,---,---,--,--,--,--,--,--,--,--,--,2,6,--,2,--,--,--
+Marth,Ch 17,GID_M017_敵マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,---,--,--,--,--,--,--,--,2,3,3,--,--,--,--,--,--
+Sigurd,Ch 17,GID_M017_敵シグルド,Known as the Emblem of the Holy War. Boasts high movement and powerful lance attacks.,Override,---,---,---,---,--,--,--,--,--,--,--,--,--,--,4,3,--,2,--,1
+Celica,Ch 17,GID_M017_敵セリカ,Known as the Emblem of Echoes. Her holy magic is the bane of monsters.,Dark Warp,---,---,---,---,--,--,--,--,--,--,--,2,--,--,--,--,3,4,--,--
+Micaiah,Ch 17,GID_M017_敵ミカヤ,Known as the Emblem of Dawn. Supports allies with illuminating magic and a healing staff.,Great Sacrifice,---,---,---,---,--,--,--,--,--,--,--,--,--,--,6,--,4,5,--,--
+Roy,Ch 17,GID_M017_敵ロイ,Known as the Emblem of Binding. Endures enemy attacks and cuts a path through with his sword.,Blazing Lion,---,---,---,---,--,--,--,--,--,--,10,6,--,--,--,3,--,--,--,--
+Leif,Ch 17,GID_M017_敵リーフ,"Known as the Emblem of Genealogy. A versatile knight proficient in axe, sword, and lance.",Quadruple Hit,---,---,---,---,--,--,--,--,--,--,--,--,3,--,--,3,--,--,3,--
+Micaiah,Ch 19,GID_M019_敵ミカヤ,Known as the Emblem of Dawn. Supports allies with illuminating magic and a healing staff.,Great Sacrifice,---,---,---,---,--,--,--,--,--,--,--,--,--,--,6,--,4,5,--,--
+Roy,Ch 19,GID_M019_敵ロイ,Known as the Emblem of Binding. Endures enemy attacks and cuts a path through with his sword.,Blazing Lion,---,---,---,---,--,--,--,--,--,--,10,6,--,--,--,3,--,--,--,--
+Celica,Ch 20,GID_M020_敵セリカ,Known as the Emblem of Echoes. Her holy magic is the bane of monsters.,Ragnarok Warp,---,---,---,---,--,--,--,--,--,--,5,3,3,--,--,3,5,4,--,--
+Marth,Ch 21,GID_M021_敵マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,---,--,--,--,--,--,--,--,3,4,4,--,--,--,--,--,--
+Marth,Ch 24,GID_M024_敵マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,---,--,--,--,--,--,--,--,4,5,5,--,--,--,--,--,--
+Shadow Dragon,Ch 26 Medeus,GID_M026_敵メディウス,Dark Emblem from Marth's realm. Embodies a mighty dragon who ruled through fear.,---,---,---,---,---,--,--,--,--,--,--,5,3,1,1,--,--,--,--,2,--
+Dark God,Ch 26 Loptous,GID_M026_敵ロプトウス,Dark Emblem from Sigurd's realm. Embodies a hateful god who struck terror into humans' hearts.,---,---,---,---,---,--,--,--,--,--,--,3,2,--,2,--,2,--,--,1,--
+War Father,Ch 26 Duma,GID_M026_敵ドーマ,Dark Emblem from Celica's realm. Embodies a conqueror who was consumed by bloodlust.,---,---,---,---,---,--,--,--,--,--,--,3,2,--,--,--,4,--,--,2,--
+Dark Bishop,Ch 26 Veld,GID_M026_敵ベルド,Dark Emblem from Leif's realm. Embodies a bishop devoted to a dark faith.,---,---,---,---,---,--,--,--,--,--,--,3,2,4,--,--,1,--,2,1,--
+Demon Dragon,Ch 26 Idunn,GID_M026_敵イドゥン,Dark Emblem from Roy's realm. Embodies a dragon who tried to destroy humanity.,---,---,---,---,---,--,--,--,--,--,--,4,--,2,2,--,1,--,1,1,--
+Dark Druid,Ch 26 Nergal,GID_M026_敵ネルガル,Dark Emblem from Lyn's realm. Embodies a seeker of forbidden knowledge who brings calamity.,---,---,---,---,---,--,--,--,--,--,--,2,--,2,4,2,--,--,1,1,--
+Demon King,Ch 26 Fomoriis,GID_M026_敵フォデス,Dark Emblem from Eirika's realm. Embodies a being who corrupted others with foul demonic powers.,---,---,---,---,---,--,--,--,--,--,--,3,1,--,3,--,2,--,1,1,--
+Mad King,Ch 26 Ashnard,GID_M026_敵アシュナード,Dark Emblem from Ike's realm. Embodies a tyrant who plunged his world into turmoil.,---,---,---,---,---,--,--,--,--,--,--,2,2,2,2,--,2,--,--,1,--
+Judgment,Ch 26 Ashera,GID_M026_敵アスタルテ,Dark Emblem from Micaiah's realm. Embodies a goddess who subjected humankind to harsh judgment.,---,---,---,---,---,--,--,--,--,--,--,3,2,--,1,--,3,--,--,2,--
+Despair,Ch 26 Grima,GID_M026_敵ギムレー,Dark Emblem from Lucina's realm. Embodies a Fell Dragon who wrought despair and ruin.,---,---,---,---,---,--,--,--,--,--,--,3,1,1,2,--,2,--,1,1,--
+Mad Dragon,Ch 26 Anankos,GID_M026_敵ハイドラ,Dark Emblem from Corrin's realm. Embodies a spiteful dragon who led many to destruction.,---,---,---,---,---,--,--,--,--,--,--,1,2,2,1,--,--,2,3,1,--
+Liberation King,Ch 26 Nemesis,GID_M026_敵ネメシス,Dark Emblem from Byleth's realm. Embodies a king who massacred the children of a goddess.,---,---,---,---,---,--,--,--,--,--,--,--,--,2,--,2,--,4,4,--,--
+Marth,Arena,GID_相手マルス,Known as the Emblem of Beginnings. Reads enemy's intentions in battle and responds with a flurry of strikes.,Lodestar Rush,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Sigurd,Arena,GID_相手シグルド,Known as the Emblem of the Holy War. Boasts high movement and powerful lance attacks.,Override,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Celica,Arena,GID_相手セリカ,Known as the Emblem of Echoes. Her holy magic is the bane of monsters.,Warp Ragnarok,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Micaiah,Arena,GID_相手ミカヤ,Known as the Emblem of Dawn. Supports allies with illuminating magic and a healing staff.,Great Sacrifice,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Roy,Arena,GID_相手ロイ,Known as the Emblem of Binding. Endures enemy attacks and cuts a path through with his sword.,Blazing Lion,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Leif,Arena,GID_相手リーフ,"Known as the Emblem of Genealogy. A versatile knight proficient in axe, sword, and lance.",Quadruple Hit,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Lucina,Arena,GID_相手ルキナ,"Known as the Emblem of Awakening. Creates bonds with allies, and pools their strength to attack enemies.",All for One,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Lyn,Arena,GID_相手リン,Known as the Emblem of Blazing. Defeats closeup foes with her sword and distant ones with her bow.,Astra Storm,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Ike,Arena,GID_相手アイク,Known as the Emblem of Radiance. Destroys obstacles with his mighty sword and axe.,Great Aether,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Byleth,Arena,GID_相手ベレト,Known as the Emblem of the Academy. Wields various hero's relics and knows a variety of tactics.,Goddess Dance,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Corrin,Arena,GID_相手カムイ,"Known as the Emblem of Fates. Can tap into dragon veins, a magic sleeping in the land.",Torrential Roar,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Eirika,Arena,GID_相手エイリーク,Known as the Emblem of the Sacred. Her flashing sword shatters her foe's defenses.,Twin Strike,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Ephraim,Arena,GID_相手エフラム,Another Emblem of the Sacred. Pierces enemy lines with mighty lance techniques.,Twin Strike,---,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Alear,Arena,GID_相手リュール,Known as the Fire Emblem. Grants the Divine Dragon's blessing and is the bane of the Fell Dragon.,Dragon Blast,Bond Blast,---,---,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Edelgard,DLC,GID_エーデルガルト,Known as the Emblem of Rivals. Smashes her enemies to dust with skilled use of axes.,Houses Unite,Houses Unite+,---,Byleth,Rivals,1,1,10,10,10,--,--,--,--,--,--,--,--,--,--,--
+Dimitri,DLC,GID_ディミトリ,Known as the Emblem of Rivals. Nimbly strikes first and toys with foes with his skilled use of lances.,Houses Unite,Houses Unite+,---,Byleth,#N/A,1,1,10,10,10,--,--,--,--,--,--,--,--,--,--,--
+Claude,DLC,GID_クロード,Known as the Emblem of Rivals. Outmaneuvers his foes with tricky tactics and skilled use of bows.,Houses Unite,Houses Unite+,---,Byleth,#N/A,1,1,10,10,10,--,--,--,--,--,--,--,--,--,--,--
+Tiki,DLC,GID_チキ,Known as the Emblem of Dragons. Has the ability to turn into a dragon and decimate foes with her breath.,Divine Blessing,Divine Blessing+,---,Marth,Dragons,2,--,--,--,-20,-20,--,--,--,--,--,--,--,--,--,--
+Hector,DLC,GID_ヘクトル,Known as the Emblem of Strength. Wipes out enemies with his axe and risks his life for his friends.,Storm's Eye,Storm's Eye+,---,Lyn,Strength,3,3,--,--,-30,-30,--,--,--,--,--,--,--,--,--,--
+Soren,DLC,GID_セネリオ,Known as the Emblem of Acumen. Excels with magic and the use of powerful tomes.,Cataclysm,Cataclysm+,---,Ike,Acumen,2,--,--,--,-10,-20,--,--,--,--,--,--,--,--,--,--
+Camilla,DLC,GID_カミラ,Known as the Emblem of Revelation. Flies through the air and buries foes with her axe and tomes.,Dark Inferno,Dark Inferno+,---,Corrin,Revelation,1,1,--,30,-20,-20,--,--,--,--,--,--,--,--,--,--
+Edelgard,Arena,GID_相手エーデルガルト,Known as the Emblem of Rivals. Smashes her enemies to dust with skilled use of axes.,Houses Unite,Houses Unite+,---,Byleth,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Dimitri,Arena,GID_相手ディミトリ,Known as the Emblem of Rivals. Nimbly strikes first and toys with foes with his skilled use of lances.,Houses Unite,Houses Unite+,---,Byleth,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Claude,Arena,GID_相手クロード,Known as the Emblem of Rivals. Outmaneuvers his foes with tricky tactics and skilled use of bows.,Houses Unite,Houses Unite+,---,Byleth,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Tiki,Arena,GID_相手チキ,Known as the Emblem of Dragons. Has the ability to turn into a dragon and decimate foes with her breath.,Divine Blessing,Divine Blessing+,---,Marth,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Hector,Arena,GID_相手ヘクトル,Known as the Emblem of Strength. Wipes out enemies with his axe and risks his life for his friends.,Storm's Eye,Storm's Eye+,---,Lyn,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Soren,Arena,GID_相手セネリオ,Known as the Emblem of Acumen. Excels with magic and the use of powerful tomes.,Cataclysm,Cataclysm+,---,Ike,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+Camilla,Arena,GID_相手カミラ,Known as the Emblem of Revelation. Flies through the air and buries foes with her axe and tomes.,Dark Inferno,Dark Inferno+,---,Corrin,---,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--

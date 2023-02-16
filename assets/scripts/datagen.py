@@ -1,7 +1,8 @@
 import pandas as pd
 import json
 
-def genStat(df: pd.DataFrame):
+def genCharStat():
+    df = pd.read_csv("../datamine/Chars.csv")
     chardict = {}
     for i in range(3, 35):
         chardict[df.iat[i,0]] = {}
@@ -12,8 +13,7 @@ def genStat(df: pd.DataFrame):
     return chardict
 
 if __name__ == '__main__':
-    dfchar = pd.read_csv("feechars.csv")
-    chardict = genStat(dfchar)
-    with open("../characters/chardatamined.json", "w", encoding='utf8') as fp:
+    chardict = genCharStat()
+    with open("../characters/charstats.json", "w", encoding='utf8') as fp:
         json.dump(chardict, fp, ensure_ascii=False, indent=4)
 

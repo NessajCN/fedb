@@ -1,0 +1,1098 @@
+,,"Expertise doubles the character's class growths. (Far as I can tell, it does not roll the Level Up twice.)",
+Skills with (bracketed names) and/or no description are attributes OR invisible skills.,,Starsphere adds 15% to personal (or full) growth rates.,
+"(Braceketed names), I translated; may be inaccurate due to limited context.",,https://twitter.com/Aveyn_Knight/status/1617579478691217408,
+Name,ID,Description,SP
+(None),SID_無し,---,
+(Unknown),SID_不明,---,
+(Personal Dummy),SID_個人ダミー,---,
+(Protagonist),SID_主人公,---,
+(Royal),SID_王族,---,
+(Leader),SID_リーダー,---,
+(Stuck),SID_立往生,---,
+(Immortal),SID_不死身,---,
+(Foe with Death Convo),SID_死亡会話存在敵,---,
+(Forced Death),SID_強制死亡,---,
+(Equip Libération),SID_リベラシオン装備可能,---,
+(Equip Wille Glanz,SID_ヴィレグランツ装備可能,---,
+(Equip Misericorde),SID_ミセリコルデ装備可能,---,
+(Equip Obscurité),SID_オヴスキュリテ装備可能,---,
+(Enable Great Thunder),SID_轟雷発動可能,---,
+(Enable Raging Fire),SID_業火発動可能,---,
+(Enable Dire Thunder),SID_ダイムサンダ発動可能,---,
+(Enable Giga Excalibur),SID_ギガスカリバー発動可能,---,
+(Enable Wind Adept),SID_旋風発動可能,---,
+(Lockpick),SID_鍵開け,---,
+(Dance),SID_踊り,---,
+(Mercy),SID_手加減,(Elincia's Bond Ring skill),
+(Qi Adept),SID_気功,(Qi Adept's (Str + Mag)/2 damage calc),
+(Breath),SID_ブレス,---,
+(Negate Foe Defense),SID_相手の防御力無視,---,
+(Enable Chain Attack),SID_チェインアタック許可,---,
+(Enable Chain Guard),SID_チェインガード許可,---,
+(Terrain Avoid x2),SID_地形回避有利時２倍,---,
+(Foe Terrain Avoid 0),SID_相手の地形回避有利時０,---,
+(Prevent Break),SID_相性ブレイク無効,---,
+(Pure Water Effect),SID_聖水効果,---,
+(Nullify Terrain Damage),SID_地形ダメージ無効,---,
+(Effective: Cavalry),SID_馬特効,Vulnerable to weapons with Effective: Cavalry.,
+(Effective: Armor),SID_鎧特効,Vulnerable to weapons with Effective: Armored.,
+(Effective: Flying),SID_飛行特効,Vulnerable to weapons with Effective: Flying.,
+(Effective: Dragon),SID_竜特効,Vulnerable to weapons with Effective: Dragon.,
+(Effective: Fell Dragon),SID_邪竜特効,Vulnerable to weapons with Effective: Fell Dragon.,
+(Effective: Corrupted),SID_異形特効,Vulnerable to weapons with Effective: Corrupted.,
+(Effective: Medeus),SID_メディウス特効,Attacks from Marth count as Effective against this unit.,
+(Effective: Duma),SID_ドーマ特効,Attacks from Celica count as Effective against this unit.,
+(Effective: Loptous),SID_ロプトウス特効,Attacks from Sigurd count as Effective against this unit.,
+(Effective: Veld),SID_ベルド特効,Attacks from Leif count as Effective against this unit.,
+(Effective: Idunn),SID_イドゥン特効,Attacks from Roy count as Effective against this unit.,
+(Effective: Nergal),SID_ネルガル特効,Attacks from Lyn count as Effective against this unit.,
+(Effective: Fomortiis),SID_フォデス特効,Attacks from Eirika or Ephraim count as Effective against this unit.,
+(Effective: Ashnard),SID_アシュナード特効,Attacks from Ike count as Effective against this unit.,
+(Effective: Ashera),SID_アスタルテ特効,Attacks from Micaiah count as Effective against this unit.,
+(Effective: Grima),SID_ギムレー特効,Attacks from Lucina count as Effective against this unit.,
+(Effective: Anankos),SID_ハイドラ特効,Attacks from Corrin count as Effective against this unit.,
+(Effective: Nemesis),SID_ネメシス特効,Attacks from Byleth count as Effective against this unit.,
+(Corrupted),SID_異形兵,---,
+(Cannon),SID_弓砲台,---,
+(Cannon Paralogue 10),SID_弓砲台_S010,---,
+(Magic Artillery),SID_魔砲台,---,
+(Flame Cannon),SID_火炎砲台,---,
+(Flame Cannon Ch 19),SID_火炎砲台_M019,---,
+(Flame Cannon Par 13),SID_火炎砲台_S013,---,
+(Poison),SID_毒,(Opponent's Might +1),
+(Poison x2),SID_猛毒,(Opponent's Might +3),
+(Poison x3),SID_劇毒,(Opponent's Might +5),
+(Silence),SID_沈黙,---,
+(Cannot Move),SID_移動不可,---,
+(Weakened),SID_弱体化,---,
+(Stunned),SID_気絶,---,
+(Strengthened),SID_強化,---,
+(No Moving!),SID_移動禁止,---,
+(HP +3),SID_ＨＰ＋３,---,100
+HP +5,SID_ＨＰ＋５,Grants max HP+5.,300
+HP +7,SID_ＨＰ＋７,Grants max HP+7.,500
+HP +10,SID_ＨＰ＋１０,Grants max HP+10.,1000
+HP +12,SID_ＨＰ＋１２,Grants max HP+12.,2000
+HP +15,SID_ＨＰ＋１５,Grants max HP+15.,3000
+Strength +1,SID_力＋１,Grants Str+1.,500
+Strength +2,SID_力＋２,Grants Str+2.,1000
+Strength +3,SID_力＋３,Grants Str+3.,3000
+Strength +4,SID_力＋４,Grants Str+4.,4000
+Strength +5,SID_力＋５,Grants Str+5.,5000
+Strength +6,SID_力＋６,Grants Str+6.,6000
+Dexterity +1,SID_技＋１,Grants Dex+1.,100
+Dexterity +2,SID_技＋２,Grants Dex+2.,300
+Dexterity +3,SID_技＋３,Grants Dex+3.,500
+Dexterity +4,SID_技＋４,Grants Dex+4.,1000
+Dexterity +5,SID_技＋５,Grants Dex+5.,2000
+Speed +1,SID_速さ＋１,Grants Spd+1.,100
+Speed +2,SID_速さ＋２,Grants Spd+2.,300
+Speed +3,SID_速さ＋３,Grants Spd+3.,500
+Speed +4,SID_速さ＋４,Grants Spd+4.,1000
+Speed +5,SID_速さ＋５,Grants Spd+5.,2000
+Luck +2,SID_幸運＋２,Grants Lck+2.,100
+Luck +4,SID_幸運＋４,Grants Lck+4.,300
+Luck +6,SID_幸運＋６,Grants Lck+6.,500
+Luck +8,SID_幸運＋８,Grants Lck+8.,1000
+Luck +10,SID_幸運＋１０,Grants Lck+10.,2000
+Luck +12,SID_幸運＋１２,Grants Lck+12.,3000
+Defense +1,SID_守備＋１,Grants Def+1.,100
+Defense +2,SID_守備＋２,Grants Def+2.,300
+Defense +3,SID_守備＋３,Grants Def+3.,500
+Defense +4,SID_守備＋４,Grants Def+4.,1000
+Defense +5,SID_守備＋５,Grants Def+5.,2000
+(Magic +1),SID_魔力＋１,---,500
+Magic +2,SID_魔力＋２,Grants Mag+2.,1000
+Magic +3,SID_魔力＋３,Grants Mag+3.,3000
+Magic +4,SID_魔力＋４,Grants Mag+4.,4000
+Magic +5,SID_魔力＋５,Grants Mag+5.,5000
+(Resistance +1),SID_魔防＋１,---,100
+Resistance +2,SID_魔防＋２,Grants Res+2.,300
+Resistance +3,SID_魔防＋３,Grants Res+3.,500
+Resistance +4,SID_魔防＋４,Grants Res+4.,1000
+Resistance +5,SID_魔防＋５,Grants Res+5.,2000
+(Build +1),SID_体格＋１,---,100
+(Build +2),SID_体格＋２,---,300
+Build +3,SID_体格＋３,Grants Bld+3.,500
+Build +4,SID_体格＋４,Grants Bld+4.,1000
+Build +5,SID_体格＋５,Grants Bld+5.,2000
+Movement +1,SID_移動＋１,Grants Mov+1.,
+(HP +3),SID_ＨＰ＋３_継承用,---,100
+HP +5,SID_ＨＰ＋５_継承用,Grants max HP+5.,300
+HP +7,SID_ＨＰ＋７_継承用,Grants max HP+7.,500
+HP +10,SID_ＨＰ＋１０_継承用,Grants max HP+10.,1000
+HP +12,SID_ＨＰ＋１２_継承用,Grants max HP+12.,2000
+HP +15,SID_ＨＰ＋１５_継承用,Grants max HP+15.,3000
+Strength +1,SID_力＋１_継承用,Grants Str+1.,500
+Strength +2,SID_力＋２_継承用,Grants Str+2.,1000
+Strength +3,SID_力＋３_継承用,Grants Str+3.,3000
+Strength +4,SID_力＋４_継承用,Grants Str+4.,4000
+Strength +5,SID_力＋５_継承用,Grants Str+5.,5000
+Strength +6,SID_力＋６_継承用,Grants Str+6.,6000
+Dexterity +1,SID_技＋１_継承用,Grants Dex+1.,100
+Dexterity +2,SID_技＋２_継承用,Grants Dex+2.,300
+Dexterity +3,SID_技＋３_継承用,Grants Dex+3.,500
+Dexterity +4,SID_技＋４_継承用,Grants Dex+4.,1000
+Dexterity +5,SID_技＋５_継承用,Grants Dex+5.,2000
+Speed +1,SID_速さ＋１_継承用,Grants Spd+1.,100
+Speed +2,SID_速さ＋２_継承用,Grants Spd+2.,300
+Speed +3,SID_速さ＋３_継承用,Grants Spd+3.,500
+Speed +4,SID_速さ＋４_継承用,Grants Spd+4.,1000
+Speed +5,SID_速さ＋５_継承用,Grants Spd+5.,2000
+Luck +2,SID_幸運＋２_継承用,Grants Lck+2.,100
+Luck +4,SID_幸運＋４_継承用,Grants Lck+4.,300
+Luck +6,SID_幸運＋６_継承用,Grants Lck+6.,500
+Luck +8,SID_幸運＋８_継承用,Grants Lck+8.,1000
+Luck +10,SID_幸運＋１０_継承用,Grants Lck+10.,2000
+Luck +12,SID_幸運＋１２_継承用,Grants Lck+12.,3000
+Defense +1,SID_守備＋１_継承用,Grants Def+1.,100
+Defense +2,SID_守備＋２_継承用,Grants Def+2.,300
+Defense +3,SID_守備＋３_継承用,Grants Def+3.,500
+Defense +4,SID_守備＋４_継承用,Grants Def+4.,1000
+Defense +5,SID_守備＋５_継承用,Grants Def+5.,2000
+(Magic +1),SID_魔力＋１_継承用,---,500
+Magic +2,SID_魔力＋２_継承用,Grants Mag+2.,1000
+Magic +3,SID_魔力＋３_継承用,Grants Mag+3.,3000
+Magic +4,SID_魔力＋４_継承用,Grants Mag+4.,4000
+Magic +5,SID_魔力＋５_継承用,Grants Mag+5.,5000
+(Resistance +1),SID_魔防＋１_継承用,---,100
+Resistance +2,SID_魔防＋２_継承用,Grants Res+2.,300
+Resistance +3,SID_魔防＋３_継承用,Grants Res+3.,500
+Resistance +4,SID_魔防＋４_継承用,Grants Res+4.,1000
+Resistance +5,SID_魔防＋５_継承用,Grants Res+5.,2000
+(Build +1),SID_体格＋１_継承用,---,100
+(Build +2),SID_体格＋２_継承用,---,300
+Build +3,SID_体格＋３_継承用,Grants Bld+3.,500
+Build +4,SID_体格＋４_継承用,Grants Bld+4.,1000
+Build +5,SID_体格＋５_継承用,Grants Bld+5.,2000
+Movement +1,SID_移動＋１_継承用,Grants Mov+1.,
+(Avoid Death),SID_死亡回避,---,
+(Hit 0),SID_命中０,---,
+(Hit 0; Except Cannon),SID_命中０_砲撃中無効,---,
+(Hit 100),SID_命中１００,---,
+(Critical 0),SID_必殺０,---,
+(Crit & Critical rate 0),SID_必殺値と必殺率０,---,
+(Crit 0 during Offense),SID_必殺０_オフェンス時,---,
+(Foe Hit 0),SID_相手の命中０,---,
+(Foe Hit 100),SID_相手の命中１００,---,
+(Foe Critical 0),SID_相手の必殺０,---,
+(Foe Earned Exp 0),SID_相手の取得経験値０,---,
+Poison Strike,SID_蛇毒,"If unit initiates combat, deals damage to foe equal to 20% of their max HP after combat.",
+Savage Blow,SID_死の吐息,"If unit initiates combat, deals damage to foes within 2 spaces equal to 20% of their max HP after combat.",
+Swordbreaker,SID_剣殺し,"If unit's HP is 50% or higher at start of combat and foe has a sword equipped, unit can follow up and foe cannot follow up.",
+Lancebreaker,SID_槍殺し,"If unit's HP is 50% or higher at start of combat and foe has a lance equipped, unit can follow up and foe cannot follow up.",
+Axebreaker,SID_斧殺し,"If unit's HP is 50% or higher at start of combat and foe has an axe equipped, unit can follow up and foe cannot follow up.",
+Tomebreaker,SID_魔殺し,"If unit's HP is 50% or higher at start of combat and foe has a tome equipped, unit can follow up and foe cannot follow up.",
+Bowbreaker,SID_弓殺し,"If unit's HP is 50% or higher at start of combat and foe has a bow equipped, unit can follow up and foe cannot follow up.",
+Knifebreaker,SID_短刀殺し,"If unit's HP is 50% or higher at start of combat and foe has a knife equipped, unit can follow up and foe cannot follow up.",
+Artbreaker,SID_気功殺し,"If unit's HP is 50% or higher at start of combat and foe has an art equipped, unit can follow up and foe cannot follow up.",
+Seal Strength,SID_力封じ,"If unit initiates combat, inflicts Str-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+(Seal Strength Effect),SID_力封じ_効果,---,
+Seal Magic,SID_魔力封じ,"If unit initiates combat, inflicts Mag-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+(Seal Magic Effect),SID_魔力封じ_効果,---,
+Seal Defense,SID_守備封じ,"If unit initiates combat, inflicts Def-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+(Seal Defense Effect),SID_守備封じ_効果,---,
+Seal Speed,SID_速さ封じ,"If unit initiates combat, inflicts Spd-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+(Seal Speed Effect),SID_速さ封じ_効果,---,
+Seal Resistance,SID_魔防封じ,"If unit initiates combat, inflicts Res-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+(Seal Resistance Effect),SID_魔防封じ_効果,---,
+Fierce Stance,SID_鬼神の構え,"If foe initiates combat, grants Str+6 during combat.",
+Steady Stance,SID_金剛の構え,"If foe initiates combat, grants Def+6 during combat.",
+Darting Stance,SID_飛燕の構え,"If foe initiates combat, grants Spd+6 during combat.",
+Warding Stance,SID_明鏡の構え,"If foe initiates combat, grants Res+6 during combat.",
+Life and Death,SID_死線,Unit deals +10 damage and takes +10 damage during combat.,
+Triangle Adept,SID_相性激化,"When unit has weapon advantage, always follows up. When unit has disadvantage, foe always follows up.",
+Cornered Beast,SID_噛描,"If unit's HP is 50% or less at start of combat, grants Crit+30 during combat.",
+Self-Destruct,SID_自壊,"If unit's HP is 50% or less at the start of player phase, unit dies and deals 50% of its max HP to foes within 2 spaces.",
+Duelist's Blow,SID_清流の一撃,"When unit initiates combat, grants Avo+30 during combat.",
+Darting Blow,SID_飛燕の一撃,"When unit initiates combat, grants Spd+5 during combat.",
+Death Blow,SID_鬼神の一撃,"When unit initiates combat, grants Crit+20 during combat.",
+Certain Blow,SID_凶鳥の一撃,"When unit initiates combat, grants Hit+40 during combat.",
+Armored Blow,SID_金剛の一撃,"When unit initiates combat, unit takes 10 less physical damage during combat.",
+Warding Blow,SID_明鏡の一撃,"When unit initiates combat, unit takes 20 less magical damage during combat.",
+Spirit Strike,SID_狂乱の一撃,"When unit hits with an attack, inflicts -5 to foe's engage meter.",
+Unbreakable,SID_ブレイク無効,Prevents unit from being broken.,
+Stalwart,SID_特効耐性,Reduces damage from effectiveness.,
+Unwavering,SID_特効無効,Negates damage from effectiveness.,
+Anchor,SID_不動,"Unit cannot be moved by skills, smash weapons, etc.",
+Veteran,SID_熟練者,Prevents unit from being broken. Reduces damage from effectiveness.,
+Veteran+,SID_熟練者＋,Prevents unit from being broken. Negates damage from effectiveness.,
+(Unbreakable Effect),SID_ブレイク無効_効果,---,
+(Stalwart Effect),SID_特効耐性_効果,---,
+(Unwavering Effect),SID_特効無効_効果,---,
+(Anchor Effect),SID_不動_効果,---,
+(Invisible Anchor),SID_不動_隠蔽,---,
+Void Curse,SID_虚無の呪い,Foes do not earn EXP fighting this unit.,
+(Nullify Damage),SID_ダメージ無効化,---,
+(Nullify Damage Defense),SID_ダメージ無効化_防御時,---,
+(Nullify Damage Offense),SID_ダメージ無効化_攻撃時,---,
+Fell Barrier,SID_バリア１,A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 50% of damage to unit.,
+Fell Barrier+,SID_バリア２,A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 70% of damage to unit.,
+Fell Barrier++,SID_バリア３,A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 85% of damage to unit.,
+Fell Barrier+++,SID_バリア４,A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents all damage to unit.,
+(Reduce Damage 1 Defense),SID_ダメージ軽減１_防御時,---,
+(Reduce Damage 2 Defense),SID_ダメージ軽減２_防御時,---,
+(Reduce Damage 3 Defense),SID_ダメージ軽減３_防御時,---,
+(Reduce Damage 4 Defense),SID_ダメージ軽減４_防御時,---,
+(Reduce Damage 1 Offense),SID_ダメージ軽減１_攻撃時,---,
+(Reduce Damage 2 Offense),SID_ダメージ軽減２_攻撃時,---,
+(Reduce Damage 3 Offense),SID_ダメージ軽減３_攻撃時,---,
+(Reduce Damage 4 Offense),SID_ダメージ軽減４_攻撃時,---,
+Dark Barrier,SID_バリア１_ノーマル用,A barrier created by Dark Emblems. Prevents 20% of damage to unit.,
+Dark Barrier+,SID_バリア２_ノーマル用,A barrier created by Dark Emblems. Prevents 40% of damage to unit.,
+Dark Barrier++,SID_バリア３_ノーマル用,A barrier created by Dark Emblems. Prevents 60% of damage to unit.,
+Dark Barrier+++,SID_バリア４_ノーマル用,A barrier created by Dark Emblems. Prevents 80% of damage to unit.,
+(Reduce Dmg 1 Defense Normal),SID_ダメージ軽減１_防御時_ノーマル用,---,
+(Reduce Dmg 2 Defense Normal),SID_ダメージ軽減２_防御時_ノーマル用,---,
+(Reduce Dmg 3 Defense Normal),SID_ダメージ軽減３_防御時_ノーマル用,---,
+(Reduce Dmg 4 Defense Normal),SID_ダメージ軽減４_防御時_ノーマル用,---,
+(Reduce Dmg 1 Offense Normal),SID_ダメージ軽減１_攻撃時_ノーマル用,---,
+(Reduce Dmg 2 Offense Normal),SID_ダメージ軽減２_攻撃時_ノーマル用,---,
+(Reduce Dmg 3 Offense Normal),SID_ダメージ軽減３_攻撃時_ノーマル用,---,
+(Reduce Dmg 4 Offense Normal),SID_ダメージ軽減４_攻撃時_ノーマル用,---,
+Bond Breaker,SID_チェインアタック威力軽減,Makes enemy chain attack accuracy always 30%. Reduces damage taken.,
+(Movement -1),SID_移動－１,---,
+(Movement -2),SID_移動－２,---,
+(Hit/Avoid -10),SID_命中回避－１０,---,
+(Hit/Avoid -20),SID_命中回避－２０,---,
+(Defeat EXP +50),SID_撃破経験加算５０,---,
+Avoid +10,SID_回避＋１０,Grants Avo+10.,500
+Avoid +15,SID_回避＋１５,Grants Avo+15.,1500
+Avoid +20,SID_回避＋２０,Grants Avo+20.,2500
+Avoid +25,SID_回避＋２５,Grants Avo+25.,3500
+Avoid +30,SID_回避＋３０,Grants Avo+30.,4500
+Hit +10,SID_命中＋１０,Grants Hit+10.,500
+Hit +15,SID_命中＋１５,Grants Hit+15.,1000
+Hit +20,SID_命中＋２０,Grants Hit+20.,1500
+Hit +25,SID_命中＋２５,Grants Hit+25.,2000
+Hit +30,SID_命中＋３０,Grants Hit+30.,2500
+Dodge +10,SID_必殺回避＋１０,Grants Ddg+10.,500
+Dodge +15,SID_必殺回避＋１５,Grants Ddg+15.,1000
+Dodge +20,SID_必殺回避＋２０,Grants Ddg+20.,1500
+Dodge +25,SID_必殺回避＋２５,Grants Ddg+25.,2000
+Dodge +30,SID_必殺回避＋３０,Grants Ddg+30.,2500
+Sword Agility 1,SID_剣術・柔１,Grants Avo+10 at a cost of Crit-10 when using a sword.,500
+Sword Agility 2,SID_剣術・柔２,Grants Avo+15 at a cost of Crit-10 when using a sword.,1000
+Sword Agility 3,SID_剣術・柔３,Grants Avo+20 at a cost of Crit-10 when using a sword.,2000
+Sword Agility 4,SID_剣術・柔４,Grants Avo+25 at a cost of Crit-10 when using a sword.,3000
+Sword Agility 5,SID_剣術・柔５,Grants Avo+30 at a cost of Crit-10 when using a sword.,4000
+Sword Power 1,SID_剣術・剛１,Grants Atk+2 at a cost of Avo-10 when using a sword.,1000
+Sword Power 2,SID_剣術・剛２,Grants Atk+4 at a cost of Avo-10 when using a sword.,2000
+Sword Power 3,SID_剣術・剛３,Grants Atk+6 at a cost of Avo-10 when using a sword.,3000
+Sword Power 4,SID_剣術・剛４,Grants Atk+8 at a cost of Avo-10 when using a sword.,4000
+Sword Power 5,SID_剣術・剛５,Grants Atk+10 at a cost of Avo-10 when using a sword.,5000
+Sword Focus 1,SID_剣術・心１,Grants Hit+10 at a cost of Ddg-10 when using a sword.,100
+Sword Focus 2,SID_剣術・心２,Grants Hit+15 at a cost of Ddg-10 when using a sword.,300
+Sword Focus 3,SID_剣術・心３,Grants Hit+20 at a cost of Ddg-10 when using a sword.,500
+Sword Focus 4,SID_剣術・心４,Grants Hit+25 at a cost of Ddg-10 when using a sword.,700
+Sword Focus 5,SID_剣術・心５,Grants Hit+30 at a cost of Ddg-10 when using a sword.,1000
+Lance Agility 1,SID_槍術・柔１,Grants Avo+10 at a cost of Crit-10 when using a lance.,500
+Lance Agility 2,SID_槍術・柔２,Grants Avo+15 at a cost of Crit-10 when using a lance.,1000
+Lance Agility 3,SID_槍術・柔３,Grants Avo+20 at a cost of Crit-10 when using a lance.,2000
+Lance Agility 4,SID_槍術・柔４,Grants Avo+25 at a cost of Crit-10 when using a lance.,3000
+Lance Agility 5,SID_槍術・柔５,Grants Avo+30 at a cost of Crit-10 when using a lance.,4000
+Lance Power 1,SID_槍術・剛１,Grants Atk+2 at a cost of Avo-10 when using a lance.,1000
+Lance Power 2,SID_槍術・剛２,Grants Atk+4 at a cost of Avo-10 when using a lance.,2000
+Lance Power 3,SID_槍術・剛３,Grants Atk+6 at a cost of Avo-10 when using a lance.,3000
+Lance Power 4,SID_槍術・剛４,Grants Atk+8 at a cost of Avo-10 when using a lance.,4000
+Lance Power 5,SID_槍術・剛５,Grants Atk+10 at a cost of Avo-10 when using a lance.,5000
+Axe Power 1,SID_斧術・剛１,Grants Atk+2 at a cost of Avo-10 when using an axe.,1000
+Axe Power 2,SID_斧術・剛２,Grants Atk+4 at a cost of Avo-10 when using an axe.,2000
+Axe Power 3,SID_斧術・剛３,Grants Atk+6 at a cost of Avo-10 when using an axe.,3000
+Axe Power 4,SID_斧術・剛４,Grants Atk+8 at a cost of Avo-10 when using an axe.,4000
+Axe Power 5,SID_斧術・剛５,Grants Atk+10 at a cost of Avo-10 when using an axe.,5000
+Bow Agility 1,SID_弓術・柔１,Grants Avo+10 at a cost of Crit-10 when using a bow.,500
+Bow Agility 2,SID_弓術・柔２,Grants Avo+15 at a cost of Crit-10 when using a bow.,1000
+Bow Agility 3,SID_弓術・柔３,Grants Avo+20 at a cost of Crit-10 when using a bow.,2000
+Bow Agility 4,SID_弓術・柔４,Grants Avo+25 at a cost of Crit-10 when using a bow.,3000
+Bow Agility 5,SID_弓術・柔５,Grants Avo+30 at a cost of Crit-10 when using a bow.,4000
+Bow Focus 1,SID_弓術・心１,Grants Hit+10 at a cost of Ddg-10 when using a bow.,100
+Bow Focus 2,SID_弓術・心２,Grants Hit+15 at a cost of Ddg-10 when using a bow.,300
+Bow Focus 3,SID_弓術・心３,Grants Hit+20 at a cost of Ddg-10 when using a bow.,500
+Bow Focus 4,SID_弓術・心４,Grants Hit+25 at a cost of Ddg-10 when using a bow.,700
+Bow Focus 5,SID_弓術・心５,Grants Hit+30 at a cost of Ddg-10 when using a bow.,1000
+Art Focus 1,SID_体術・心１,Grants Hit+10 at a cost of Ddg-10 when using an art.,100
+Art Focus 2,SID_体術・心２,Grants Hit+15 at a cost of Ddg-10 when using an art.,300
+Art Focus 3,SID_体術・心３,Grants Hit+20 at a cost of Ddg-10 when using an art.,500
+Art Focus 4,SID_体術・心４,Grants Hit+25 at a cost of Ddg-10 when using an art.,700
+Art Focus 5,SID_体術・心５,Grants Hit+30 at a cost of Ddg-10 when using an art.,1000
+Knife Precision 1,SID_短剣術１,Grants Hit/Avo+3 when using a knife.,100
+Knife Precision 2,SID_短剣術２,Grants Hit/Avo+5 when using a knife.,300
+Knife Precision 3,SID_短剣術３,Grants Hit/Avo+7 when using a knife.,700
+Knife Precision 4,SID_短剣術４,Grants Hit/Avo+10 when using a knife.,1000
+Knife Precision 5,SID_短剣術５,Grants Hit/Avo+15 when using a knife.,2000
+Tome Precision 1,SID_魔道１,Grants Hit/Avo+3 when using a tome.,100
+Tome Precision 2,SID_魔道２,Grants Hit/Avo+5 when using a tome.,300
+Tome Precision 3,SID_魔道３,Grants Hit/Avo+7 when using a tome.,700
+Tome Precision 4,SID_魔道４,Grants Hit/Avo+10 when using a tome.,1000
+Tome Precision 5,SID_魔道５,Grants Hit/Avo+15 when using a tome.,2000
+Staff Mastery 1,SID_信仰１,Grants Hit+10 when using a staff. Staves also heal an additional 3 HP.,100
+Staff Mastery 2,SID_信仰２,Grants Hit+15 when using a staff. Staves also heal an additional 5 HP.,300
+Staff Mastery 3,SID_信仰３,Grants Hit+20 when using a staff. Staves also heal an additional 7 HP.,500
+Staff Mastery 4,SID_信仰４,Grants Hit+25 when using a staff. Staves also heal an additional 10 HP.,700
+Staff Mastery 5,SID_信仰５,Grants Hit+30 when using a staff. Staves also heal an additional 15 HP.,1000
+Staff Mastery 1,SID_妨害杖命中＋１０,Grants Hit+10 when using a staff. Staves also heal an additional 3 HP.,
+Staff Mastery 2,SID_妨害杖命中＋１５,Grants Hit+15 when using a staff. Staves also heal an additional 5 HP.,
+Staff Mastery 3,SID_妨害杖命中＋２０,Grants Hit+20 when using a staff. Staves also heal an additional 7 HP.,
+Staff Mastery 4,SID_妨害杖命中＋２５,Grants Hit+25 when using a staff. Staves also heal an additional 10 HP.,
+Staff Mastery 5,SID_妨害杖命中＋３０,Grants Hit+30 when using a staff. Staves also heal an additional 15 HP.,
+(Hidden Avoid -10),SID_回避－１０_隠蔽,---,
+(Hidden Crit -10),SID_必殺－１０_隠蔽,---,
+(Hidden Crit/Avo -10),SID_必殺回避－１０_隠蔽,---,
+(Engage Atk Generic),SID_エンゲージ技_汎用設定,---,
+(Foe Engage Atk Dmg/2),SID_敵エンゲージ技ダメージ軽減,---,
+Perceptive,SID_見切り,"If the unit initiates combat, grants Avo+15 during combat. Avo increases with high Spd.",250
+Perceptive+,SID_見切り＋,"If the unit initiates combat, grants Avo+30 during combat. Avo increases with high Spd.",500
+Break Defenses,SID_ブレイク時追撃,"If unit's attack breaks foe, unit makes an extra attack at 50% damage.",2000
+(Break Defenses 50% damage),SID_ブレイク時追撃_ダメージ５０％,---,
+(Break Defenses 50% triggered),SID_ブレイク時追撃_ダメージ５０％_発動済み,---,
+Unyielding,SID_不屈,"At start of player phase, if HP is 20% or less, restores 20% of unit's max HP.",100
+Unyielding+,SID_不屈＋,"At start of player phase, if HP is 30% or less, restores 30% of unit's max HP.",200
+Unyielding++,SID_不屈＋＋,"At start of player phase, if HP is 40% or less, restores 40% of unit's max HP.",300
+Divine Speed,SID_カウンター,Unit performs an extra attack at 50% damage in combat.,
+Divine Speed,SID_カウンター_隠密,"Unit performs an extra attack at 50% damage in combat. [Covert] If extra attack hits, poisons foe.",
+Divine Speed,SID_カウンター_竜族,Unit performs an extra attack at 50% damage in combat. [Dragon] Unit recovers HP equal to damage dealt by extra attack.,
+(Divine Speed 50% dmg),SID_カウンター_ダメージ５０％,---,
+(Divine Speed Covert effect),SID_カウンター_隠密効果,---,
+(Div. Speed Covert; trigger check),SID_カウンター_隠密効果_発動チェック,---,
+(Divine Speed Dragon effect),SID_カウンター_竜族効果,---,
+(DS Dragon; post-trigger check),SID_カウンター_竜族効果_発動終了チェック,---,
+(Div. Speed Dragon; post-trigger),SID_カウンター_竜族効果_発動終了,---,
+(Divine Speed triggered),SID_神速発動済み,---,
+(Div. Speed style effect triggered),SID_神速スタイル効果発動済み,---,
+Lodestar Rush,SID_マルスエンゲージ技,Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only.,
+Lodestar Rush,SID_マルスエンゲージ技_竜族,Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only. [Dragon] +2 attacks.,
+Lodestar Rush,SID_マルスエンゲージ技_連携,Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only. [Backup] +1 attack.,
+Lodestar Rush,SID_マルスエンゲージ技_魔法,Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only. [Mystical] Damage based on Mag.,
+(Damage 30%),SID_ダメージ３０％,---,
+Canter,SID_再移動,Unit can move 2 spaces after acting.,1000
+Canter+,SID_再移動＋,Unit can move 3 spaces after acting.,2000
+Momentum,SID_助走,Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10),1000
+Momentum+,SID_助走＋,Grants Atk+1 to first attack during combat for each space unit moved before attacking.,2000
+Headlong Rush,SID_猛進,Grants immunity to freeze.,200
+Gallop,SID_迅走,Grants Mov+5.,
+Gallop,SID_迅走_竜族,Grants Mov+5. [Dragon] Grants another Mov+1.,
+Gallop,SID_迅走_騎馬,Grants Mov+5. [Cavalry] Grants another Mov+2.,
+Gallop,SID_迅走_隠密,Grants Mov+5. [Covert] Unit does not pay extra movement cost on any terrain.,
+Dark Gallop,SID_迅走_闇,Grants Mov+3.,
+Override,SID_シグルドエンゲージ技,Use to attack and move through a line of adjacent foes. Sword/lance only.,
+Override,SID_シグルドエンゲージ技_竜族,Use to attack and move through a line of adjacent foes. Sword/lance only. [Dragon] +20% damage.,
+Override,SID_シグルドエンゲージ技_重装,Use to attack and move through a line of adjacent foes. Sword/lance only. [Armored] 10% chance of breaking target.,
+Override,SID_シグルドエンゲージ技_魔法,Use to attack and move through a line of adjacent foes. Sword/lance only. [Mystical] Deals extra damage=25% of Mag.,
+Override,SID_シグルドエンゲージ技_気功,Use to attack and move through a line of adjacent foes. Sword/lance only. [Qi Adept] 20% chance of breaking target.,
+(Add Magic Damage),SID_魔力ダメージ加算,---,
+Holy Stance,SID_異形リベンジ,"If a Corrupted attacks unit, deals 10% of damage taken back to foe.",100
+Holy Stance+,SID_異形リベンジ＋,"If a Corrupted attacks unit, deals 30% of damage taken back to foe.",500
+Holy Stance++,SID_異形リベンジ＋＋,"If a Corrupted attacks unit, deals 50% of damage taken back to foe.",1000
+Unholy Stance,SID_異形リベンジ＋＋_闇,"If a non-Corrupted foe attacks unit, deals 50% of damage taken back to foe.",
+Resonance,SID_共鳴の黒魔法,"When equipped with a tome, if unit's HP is 2 or more, unit loses 1 HP at start of combat and deals +2 damage during combat.",2000
+Resonance+,SID_共鳴の黒魔法＋,"When equipped with a tome, if unit's HP is 2 or more, unit loses 1 HP at start of combat and deals +3 damage during combat.",3000
+Favorite Food,SID_大好物,"When unit eats a packed lunch, its engage meter is maxed out.",200
+Echo,SID_重唱,Use to attack with magic at 50% damage. Use a second time to launch another 50% attack.,
+Echo,SID_重唱_竜族,Use to attack with magic at 50% damage. Use a second time to launch another 50% attack. [Dragon] Range +1.,
+Echo,SID_重唱_魔法,Use to attack with magic at 50% damage. Use a second time to launch another 50% attack. [Mystical] +10% damage.,
+Echo,SID_重唱_発動演出,Use to attack with magic at 50% damage. Use a second time to launch another 50% attack.,
+(Magic Damage 50%),SID_魔法ダメージ５０％,---,
+(Magic Damage 60%),SID_魔法ダメージ６０％,---,
+Warp Ragnarok,SID_セリカエンゲージ技,Use to warp up to 10 spaces and make a powerful magic attack.,
+Warp Ragnarok,SID_セリカエンゲージ技_竜族,Use to warp up to 10 spaces and make a powerful magic attack. [Dragon] Attack range +1.,
+Warp Ragnarok,SID_セリカエンゲージ技_騎馬,Use to warp up to 10 spaces and make a powerful magic attack. [Cavalry] Warp distance +2.,
+Warp Ragnarok,SID_セリカエンゲージ技_飛行,Use to warp up to 10 spaces and make a powerful magic attack. [Flying] Warp distance +5.,
+Warp Ragnarok,SID_セリカエンゲージ技_魔法,Use to warp up to 10 spaces and make a powerful magic attack. [Mystical] +20% damage.,
+Dark Warp,SID_セリカエンゲージ技_闇,Use to warp up to 5 spaces and make a powerful magic attack.,
+Ragnarok Warp,SID_セリカエンゲージ技_闇_M020,"Use to make a powerful magic attack, then warp somewhere else on the map.",
+Cleric,SID_杖使い,Unit can equip staves up to level C.,
+Cleric+,SID_杖使い＋,Unit can equip staves up to level B.,
+Cleric++,SID_杖使い＋＋,Unit can equip staves up to level A.,
+Silence Ward,SID_サイレス無効,Grants immunity to silence.,200
+Healing Light,SID_癒しの響き,"When unit heals an ally with a staff, unit also recovers HP=50% of the amount healed.",200
+Augment,SID_増幅,Grants staff range +5 and area of effect +1.,
+Augment,SID_増幅_竜族,Grants staff range +5 and area of effect +1. [Dragon] Additional staff range +1.,
+Augment,SID_増幅_気功,Grants staff range +5 and area of effect +1. [Qi Adept] +20% to HP healed by staves.,
+(Healing Power +20%),SID_杖回復量＋２０％,---,
+Dark Augment,SID_増幅_闇,Grants staff range +3 and area of effect +1.,
+Great Sacrifice,SID_ミカヤエンゲージ技,"Use to restore full HP to all allies, even those not under the player's control. After use, unit's HP=1.",
+Great Sacrifice,SID_ミカヤエンゲージ技_竜族,"Use to restore full HP to all allies, even those not under the player's control. After use, unit's HP=1. [Dragon] Unit's HP=30% current.",
+Great Sacrifice,SID_ミカヤエンゲージ技_重装,"Use to restore full HP to all allies, even those not under the player's control. After use, unit's HP=1. [Armored] Grants Def+1 to all healed during their next combat.",
+Great Sacrifice,SID_ミカヤエンゲージ技_気功,"Use to restore full HP to all allies, even those not under the player's control. After use, unit's HP=1. [Qi Adept] Also cures status.",
+(Def +1 Until Next Combat),SID_次戦闘守備＋１,---,
+Hold Out,SID_踏ん張り,"If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.",2000
+Hold Out+,SID_踏ん張り＋,"If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.",3000
+Hold Out++,SID_踏ん張り＋＋,"If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.",4000
+Hold Out+++,SID_踏ん張り＋＋＋,"If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.",5000
+Hold Out,SID_踏ん張り_防御時効果,"If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out+,SID_踏ん張り＋_防御時効果,"If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out++,SID_踏ん張り＋＋_防御時効果,"If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out+++,SID_踏ん張り＋＋＋_防御時効果,"If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out,SID_踏ん張り_攻撃時効果,"If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out+,SID_踏ん張り＋_攻撃時効果,"If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out++,SID_踏ん張り＋＋_攻撃時効果,"If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Hold Out+++,SID_踏ん張り＋＋＋_攻撃時効果,"If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.",
+Advance,SID_踏み込み,Use to move 1 space toward a foe that is 2 spaces away and attack.,500
+Rise Above,SID_超越,Grants Lvl+5.,
+Rise Above,SID_超越_竜族,Grants Lvl+5. [Dragon] Additional Lvl+1.,
+Rise Above,SID_超越_騎馬,Grants Lvl+5. [Cavalry] Mov+1.,
+Rise Above,SID_超越_重装,Grants Lvl+5. [Armored] Max HP+5.,
+Sink Below,SID_超越_闇,Grants Lvl+3.,
+Blazing Lion,SID_ロイエンゲージ技,Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only.,
+Blazing Lion,SID_ロイエンゲージ技_竜族,Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. [Dragon] Expands attack area.,
+Blazing Lion,SID_ロイエンゲージ技_魔法,Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only. [Mystical] Expands flame area.,
+Arms Shield,SID_武器相性激化,"When unit has weapon advantage, unit takes 3 less damage.",200
+Arms Shield+,SID_武器相性激化＋,"When unit has weapon advantage, unit takes 5 less damage.",400
+Arms Shield++,SID_武器相性激化＋＋,"When unit has weapon advantage, unit takes 7 less damage.",600
+Vantage,SID_待ち伏せ,"If unit's HP is 25% or less and foe initiates combat, unit can counter before foe's first attack.",500
+Vantage+,SID_待ち伏せ＋,"If unit's HP is 50% or less and foe initiates combat, unit can counter before foe's first attack.",1000
+Vantage++,SID_待ち伏せ＋＋,"If unit's HP is 75% or less and foe initiates combat, unit can counter before foe's first attack.",2000
+Adaptable,SID_順応,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.).",
+Adaptable,SID_順応_竜族,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.). [Dragon] Hit+30 during combat.",
+Adaptable,SID_順応_連携,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.). [Backup] Crit+10 during combat.",
+Adaptable,SID_順応_隠密,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.). [Covert] Avo+20 during combat.",
+Adaptable,SID_順応_重装,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.). [Armored] Def+5 during combat.",
+Adaptable,SID_順応_飛行,"If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.). [Flying] Res+5 during combat.",
+Quadruple Hit,SID_リーフエンゲージ技,"Use to attack once each with sword, lance, axe, and bow.",
+Quadruple Hit,SID_リーフエンゲージ技_竜族,"Use to attack once each with sword, lance, axe, and bow. [Dragon] +20% damage.",
+Quadruple Hit,SID_リーフエンゲージ技_隠密,"Use to attack once each with sword, lance, axe, and bow. [Covert] Foes may drop 1,000G. Trigger %=Lck.",
+Quadruple Hit,SID_リーフエンゲージ技_気功,"Use to attack once each with sword, lance, axe, and bow. [Qi Adept] Breaks foe.",
+(Damage 120%),SID_ダメージ１２０％,---,
+(Quadruple Hit Break),SID_リーフエンゲージ技_ブレイク,---,
+(Get 500G),SID_お金入手_500G,---,
+(Get 1000G),SID_お金入手_1000G,---,
+Dual Strike,SID_絆の力,Unit participates in chain attacks as if it were a backup unit.,
+Dual Assist,SID_デュアルアシスト,"If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=35.",1000
+Dual Assist+,SID_デュアルアシスト＋,"If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=70.",2000
+Dual Support,SID_デュアルサポート,Grants a bonus to Avo that increases with unit's support level with adjacent allies. (Max +90),2000
+Bonded Shield,SID_絆盾,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80.,
+Bonded Shield,SID_絆盾_竜族,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80. [Dragon] +10% to trigger rate.,
+Bonded Shield,SID_絆盾_騎馬,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80. [Cavalry] Trigger %=100 for cavalry allies.,
+Bonded Shield,SID_絆盾_重装,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80. [Armored] Trigger %=100 for armored allies.,
+Bonded Shield,SID_絆盾_飛行,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80. [Flying] Trigger %=100 for flying allies.,
+Bonded Shield,SID_絆盾_気功,Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80. [Qi Adept] Trigger %=100.,
+All for One,SID_ルキナエンゲージ技,Use to make a sword attack against an adjacent foe. All allies within 2 spaces chain attack.,
+All for One,SID_ルキナエンゲージ技_竜族,Use to make a sword attack against an adjacent foe. All allies within 2 spaces chain attack. [Dragon] Ally chain attacks are guaranteed to hit.,
+All for One,SID_ルキナエンゲージ技_連携,Use to make a sword attack against an adjacent foe. All allies within 2 spaces chain attack. [Backup] Range +1.,
+(Forced Chain Atk w/ 2 spaces),SID_強制チェインアタック２マス,---,
+(Forced Chain Atk w/ 3 spaces),SID_強制チェインアタック３マス,---,
+Alacrity,SID_攻め立て,"If unit initiates combat with a Spd advantage of 9 or more, unit's follow-up (if possible) occurs before foe can counterattack.",1000
+Alacrity+,SID_攻め立て＋,"If unit initiates combat with a Spd advantage of 7 or more, unit's follow-up (if possible) occurs before foe can counterattack.",2000
+Alacrity++,SID_攻め立て＋＋,"If unit initiates combat with a Spd advantage of 5 or more, unit's follow-up (if possible) occurs before foe can counterattack.",3000
+Speedtaker,SID_速さの吸収,Grants a stacking Spd+2 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10),2000
+(Speed Boost +2),SID_速さの増強＋２,---,
+(Speed Boost +4),SID_速さの増強＋４,---,
+(Speed Boost +6),SID_速さの増強＋６,---,
+(Speed Boost +8),SID_速さの増強＋８,---,
+(Speed Boost +10),SID_速さの増強＋１０,---,
+Call Doubles,SID_残像,Creates four illusory doubles that can make chain attacks with unit.,
+Call Doubles,SID_残像_竜族,Creates four illusory doubles that can make chain attacks with unit. [Dragon] +1 double created.,
+Call Doubles,SID_残像_飛行,Creates four illusory doubles that can make chain attacks with unit. [Flying] Doubles have +10 Avo,
+(Call Doubles Flying Effect),SID_残像_飛行_効果,---,
+Astra Storm,SID_リンエンゲージ技,"Use to launch 5 bow attacks at 30% damage, up to range 10.",
+Astra Storm,SID_リンエンゲージ技_竜族,"Use to launch 5 bow attacks at 30% damage, up to range 10. [Dragon] Range +5.",
+Astra Storm,SID_リンエンゲージ技_隠密,"Use to launch 5 bow attacks at 30% damage, up to range 10. [Covert] Range +10.",
+Astra Storm,SID_リンエンゲージ技_気功,"Use to launch 5 bow attacks at 30% damage, up to range 10. [Qi Adept] Breaks the target.",
+Astra Storm,SID_リンエンゲージ技_威力減,"Use to launch 5 bow attacks at 20% damage, up to range 10.",
+Astra Storm,SID_リンエンゲージ技_闇_気功,"Use to launch 5 bow attacks at 20% damage, up to range 10. [Qi Adept] Breaks the target.",
+(Astra Storm Break),SID_リンエンゲージ技_ブレイク,---,
+(Damage 20%),SID_ダメージ２０％,---,
+Demolish,SID_破壊,Break destructible terrain in a single blow when using Destroy.,200
+Reposition,SID_引き戻し,Use to move an adjacent ally to the opposite side of unit.,200
+Wrath,SID_怒り,"At start of combat, for each HP the unit has lost, grants Crit+1 during combat. (Max +30)",2000
+Resolve,SID_勇将,"If unit's HP is 75% or less after combat, grants Def/Res+5 as long as unit's HP stays below 75%.",1000
+Resolve+,SID_勇将＋,"If unit's HP is 75% or less after combat, grants Def/Res+7 as long as unit's HP stays below 75%.",2000
+Resolve,SID_勇将_効果,"If unit's HP is 75% or less after combat, grants Def/Res+5 as long as unit's HP stays below 75%.",
+Resolve+,SID_勇将＋_効果,"If unit's HP is 75% or less after combat, grants Def/Res+7 as long as unit's HP stays below 75%.",
+Laguz Friend,SID_アイクエンゲージスキル,"Unit takes 50% less damage, but sets unit's Avo to 0.",
+Laguz Friend,SID_アイクエンゲージスキル_竜族,"Unit takes 50% less damage, but sets unit's Avo to 0. [Dragon] Extra -10% to damage.",
+(Laguz Friend 50% Dmg Reduct),SID_アイクエンゲージスキル_ダメージ50%減,---,
+(Laguz Friend 60% Dmg Reduct),SID_アイクエンゲージスキル_ダメージ60%減,---,
+Great Aether,SID_アイクエンゲージ技,"Use to grant Def/Res+5, but unit can't counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only.",
+Great Aether,SID_アイクエンゲージ技_竜族,"Use to grant Def/Res+5, but unit can't counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only. [Dragon] +1 damage per hit taken.",
+Great Aether,SID_アイクエンゲージ技_重装,"Use to grant Def/Res+5, but unit can't counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only. [Armored] Grants an extra Def+5.",
+Great Aether,SID_アイクエンゲージ技_飛行,"Use to grant Def/Res+5, but unit can't counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only. [Flying] Grants an extra Res+5.",
+(Great Aether Recovery),SID_アイクエンゲージ技_回復,---,
+Divine Pulse,SID_天刻の拍動,May turn a missed attack into a hit. Trigger %=30. Chance increases with high Lck.,250
+Divine Pulse+,SID_天刻の拍動＋,May turn a missed attack into a hit. Trigger %=50. Chance increases with high Lck.,500
+Mentorship,SID_師の導き,Grants 1.2× EXP modifier to unit and adjacent allies.,250
+(Mentorship Effect),SID_師の導き効果,---,
+Lost & Found,SID_拾得,"If unit finishes an action or waits next to an ally, may find an item and increase support with that ally. Trigger %=Lck.",250
+Instruct,SID_先生,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn.,
+Instruct,SID_先生_竜族,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Dragon] All seven basic stats +3.,
+Instruct,SID_先生_連携,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Backup] Str+4.,
+Instruct,SID_先生_騎馬,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Cavalry] Dex+10.,
+Instruct,SID_先生_隠密,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Covert] Spd+5.,
+Instruct,SID_先生_重装,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Armored] Def+5.,
+Instruct,SID_先生_飛行,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Flying] Res+5.,
+Instruct,SID_先生_魔法,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Mystical] Mag+4.,
+Instruct,SID_先生_気功,Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn. [Qi Adept] Lck+10.,
+Goddess Dance,SID_ベレトエンゲージ技,Use to grant another action to all adjacent allies.,
+Goddess Dance,SID_ベレトエンゲージ技_竜族,Use to grant another action to all adjacent allies. [Dragon] Grants +3 to all targets' basic stats for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_連携,Use to grant another action to all adjacent allies. [Backup] Grants Str+4 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_騎馬,Use to grant another action to all adjacent allies. [Cavalry] Grants Dex+10 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_隠密,Use to grant another action to all adjacent allies. [Covert] Grants Spd+5 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_重装,Use to grant another action to all adjacent allies. [Armored] Grants Def+5 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_飛行,Use to grant another action to all adjacent allies. [Flying] Grants Res+5 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_魔法,Use to grant another action to all adjacent allies. [Mystical] Grants Mag+4 to targets for 1 turn.,
+Goddess Dance,SID_ベレトエンゲージ技_気功,Use to grant another action to all adjacent allies. [Qi Adept] Grants Lck+10 to targets for 1 turn.,
+Diabolical Dance,SID_ベレトエンゲージ技_闇,Use to grant another action to allies within 2 spaces.,
+(Byleth Strengthen Dragon),SID_ベレト増強_竜族,---,
+(Byleth Strengthen Backup),SID_ベレト増強_連携,---,
+(Byleth Strengthen Cavalry),SID_ベレト増強_騎馬,---,
+(Byleth Strengthen Covert),SID_ベレト増強_隠密,---,
+(Byleth Strengthen Armor),SID_ベレト増強_重装,---,
+(Byleth Strengthen Flying),SID_ベレト増強_飛行,---,
+(Byleth Strengthen Mystical),SID_ベレト増強_魔法,---,
+(Byleth Strengthen Qi Adept),SID_ベレト増強_気功,---,
+Dragon Vein,SID_竜脈,Use to add a special effect to certain spaces.,
+Dragon Vein,SID_竜脈_竜族,Use to add a special effect to certain spaces. [Dragon] Choose any Vein effect.,
+Dragon Vein,SID_竜脈_連携,Use to add a special effect to certain spaces. [Backup] Creates stone pillars that increase Def/Res.,
+Dragon Vein,SID_竜脈_騎馬,Use to add a special effect to certain spaces. [Cavalry] Creates water that decreases Avo.,
+Dragon Vein,SID_竜脈_隠密,Use to add a special effect to certain spaces. [Covert] Creates fog that increases Avo.,
+Dragon Vein,SID_竜脈_重装,Use to add a special effect to certain spaces. [Armored] Creates vines that grant immunity to break.,
+Dragon Vein,SID_竜脈_飛行,Use to add a special effect to certain spaces. [Flying] Creates healing glow that restores HP.,
+Dragon Vein,SID_竜脈_魔法,Use to add a special effect to certain spaces. [Mystical] Creates flames that inflict damage.,
+Dragon Vein,SID_竜脈_気功,Use to add a special effect to certain spaces. [Qi Adept] Creates ice pillars that hinder movement.,
+Draconic Hex,SID_竜呪,"If unit initiates combat, inflicts -4 to all of foe's basic stats after combat. (Penalties shrink by 1 each turn.)",2000
+(Draconic Hex Effect),SID_竜呪効果,---,
+Pair Up,SID_防陣,Prevents damage from foes' chain attacks against unit.,2000
+Quality Time,SID_スキンシップ,"After unit acts or waits, restores 5 HP to adjacent allies and slightly increases support with them.",250
+Quality Time+,SID_スキンシップ＋,"After unit acts or waits, restores 10 HP to adjacent allies and slightly increases support with them.",500
+Dreadful Aura,SID_呪縛,"If unit initiates combat, target foe and all foes within 1 space of it cannot move for 1 turn after combat.",
+Dreadful Aura,SID_呪縛_隠密,"If unit initiates combat, target foe and all foes within 1 space of it cannot move for 1 turn after combat. [Covert] Also Avo-20 on target.",
+(Dreadful Aura Covert Effect),SID_呪縛_隠密_効果,---,
+Torrential Roar,SID_カムイエンゲージ技,"Use to attack 3 spaces in a line, turning those spaces into water terrain.",
+Torrential Roar,SID_カムイエンゲージ技_竜族,"Use to attack 3 spaces in a line, turning those spaces into water terrain. [Dragon] Range +1.",
+(Lunar Brace),SID_月輪,---,
+(Solar Brace),SID_日輪,---,
+Sacred Twins,SID_双聖,"While engaged with Eirika, changes Lunar Brace to Eclipse Brace and Gentility to Blue Skies for all allies.",
+(Lunar Brace Effect),SID_月輪効果,---,
+(Solar Brace Effect),SID_日輪効果,---,
+(Sacred Twins Effect),SID_双聖効果,---,
+Night and Day,SID_オルタネイト,Use to switch Emblems and swap between Lunar Brace/Gentility and Solar Brace/Bravery for all allies.,
+Lunar Brace,SID_月の腕輪,"If unit initiates combat with a physical attack, deals extra damage=20% of foe's Def.",3000
+Solar Brace,SID_太陽の腕輪,"If unit initiates combat, unit recovers HP=30% of damage dealt.",
+Eclipse Brace,SID_日月の腕輪,"If unit initiates combat, unit deals extra damage=20% of foe's Def with physical attacks and recovers HP=30% of damage dealt.",
+Lunar Brace+,SID_月の腕輪＋,"If unit initiates combat with a physical attack, deals extra damage=30% of foe's Def.",5000
+Solar Brace+,SID_太陽の腕輪＋,"If unit initiates combat, unit recovers HP=50% of damage dealt.",
+Eclipse Brace+,SID_日月の腕輪＋,"If unit initiates combat, unit deals extra damage=30% of foe's Def with physical attacks and recovers HP=50% of damage dealt.",
+Eclipse Brace,SID_日月の腕輪_月の腕輪_効果,"If unit initiates combat, unit deals extra damage=20% of foe's Def with physical attacks and recovers HP=30% of damage dealt.",
+Eclipse Brace+,SID_日月の腕輪_月の腕輪＋_効果,"If unit initiates combat, unit deals extra damage=30% of foe's Def with physical attacks and recovers HP=50% of damage dealt.",
+Eclipse Brace,SID_日月の腕輪_太陽の腕輪_効果,"If unit initiates combat, unit deals extra damage=20% of foe's Def with physical attacks and recovers HP=30% of damage dealt.",
+Eclipse Brace+,SID_日月の腕輪_太陽の腕輪＋_効果,"If unit initiates combat, unit deals extra damage=30% of foe's Def with physical attacks and recovers HP=50% of damage dealt.",
+Gentility,SID_優風,Unit takes 3 less damage.,2000
+Bravery,SID_勇空,Unit deals +3 damage.,
+Blue Skies,SID_蒼穹,Unit takes 3 less damage and deals +3 damage.,
+Gentility+,SID_優風＋,Unit takes 5 less damage.,3000
+Bravery+,SID_勇空＋,Unit deals +5 damage.,
+Blue Skies+,SID_蒼穹＋,Unit takes 5 less damage and deals +5 damage.,
+Blue Skies,SID_蒼穹_優風,Unit takes 3 less damage and deals +3 damage.,
+Blue Skies+,SID_蒼穹_優風＋,Unit takes 5 less damage and deals +5 damage.,
+(Blue Skies Bravery),SID_蒼穹_勇空,---,
+(Blue Skies Bravery+),SID_蒼穹_勇空＋,---,
+Twin Strike,SID_エイリークエンゲージ技,Use to make a sword attack followed by a lance attack from Ephraim on adjacent foe. Effective: Corrupted.,
+Twin Strike,SID_エイリークエンゲージ技_竜族,Use to make a sword attack followed by a lance attack from Ephraim on adjacent foe. Effective: Corrupted. [Dragon] +20% damage.,
+Twin Strike,SID_エイリークエンゲージ技_騎馬,Use to make a sword attack followed by a lance attack from Ephraim on adjacent foe. Effective: Corrupted. [Cavalry] Ephraim deals +50% damage.,
+(Ephraim Damage 150%),SID_エフラム_ダメージ１５０％,---,
+Holy Aura,SID_リュール邪竜特効,Unit is Effective: Fell Dragon. Allies within 2 spaces with Effective: Dragon gain Effective: Fell Dragon.,
+(Change Effective: Fell Dragon),SID_邪竜特効変化,---,
+Holy Shield,SID_神竜の加護,Neutralizes Effective against this unit.,
+Bond Forger,SID_絆を繋薙くもの,Grants Hit/Avo+20 to unit and allies within 2 spaces that are synced or engaged with an Emblem.,
+Bond Forger+,SID_絆を繋薙くもの＋,Grants Hit/Avo+30 to unit and allies within 2 spaces that are synced or engaged with an Emblem.,
+Bond Forger,SID_絆を繋薙くもの効果,Grants Hit/Avo+20 to unit and allies within 2 spaces that are synced or engaged with an Emblem.,
+Bond Forger+,SID_絆を繋薙くもの効果＋,Grants Hit/Avo+30 to unit and allies within 2 spaces that are synced or engaged with an Emblem.,
+Boon of Elyos,SID_エレオスの祝福,"If unit initiates combat, grants bonus to Crit and Ddg equal to 2× the number of allies who have acted this turn.",
+Attuned,SID_以心,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged.",
+Attuned,SID_以心_竜族,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Dragon] Extra +1 to all stats.",
+Attuned,SID_以心_連携,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Backup] Extra +2 to Str.",
+Attuned,SID_以心_騎馬,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Cavalry] Extra +2 to Dex.",
+Attuned,SID_以心_隠密,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Covert] Extra +2 to Spd.",
+Attuned,SID_以心_重装,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Armored] Extra +2 to Def.",
+Attuned,SID_以心_飛行,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Flying] Extra +2 to Res.",
+Attuned,SID_以心_魔法,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Mystical] Extra +2 to Mag.",
+Attuned,SID_以心_気功,"If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged. [Qi Adept] Extra +2 to Lck.",
+(Attuned Dragon),SID_以心効果_竜族,---,
+(Attuned Backup),SID_以心効果_連携,---,
+(Attuned Cavalry),SID_以心効果_騎馬,---,
+(Attuned Covert),SID_以心効果_隠密,---,
+(Attuned Armor),SID_以心効果_重装,---,
+(Attuned Flying),SID_以心効果_飛行,---,
+(Attuned Mystical),SID_以心効果_魔法,---,
+(Attuned Qi Adept),SID_以心効果_気功,---,
+Dragon Blast,SID_リュールエンゲージ技,Use to make two attacks against an adjacent foe with a sword and powerful magic beam.,
+Dragon Blast,SID_リュールエンゲージ技_竜族,Use to make two attacks against an adjacent foe with a sword and powerful magic beam. [Dragon] +20% damage.,
+Dragon Blast,SID_リュールエンゲージ技_連携,Use to make two attacks against an adjacent foe with a sword and powerful magic beam. [Backup] Adds 20% of Str to sword attack.,
+Dragon Blast,SID_リュールエンゲージ技_魔法,Use to make two attacks against an adjacent foe with a sword and powerful magic beam. [Mystical] Adds 20% of Mag to beam attack.,
+Dragon Blast,SID_リュールエンゲージ技_気功,Use to make two attacks against an adjacent foe with a sword and powerful magic beam. [Qi Adept] Breaks foe.,
+Bond Blast,SID_リュールエンゲージ技共同,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe.,
+Bond Blast,SID_リュールエンゲージ技共同_汎用,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe.,
+Bond Blast,SID_リュールエンゲージ技共同_竜族,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe. [Dragon] +20% damage.,
+Bond Blast,SID_リュールエンゲージ技共同_連携,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe. [Backup] +20% of Str to sword.,
+Bond Blast,SID_リュールエンゲージ技共同_魔法,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe. [Mystical] +20% of Mag to beam.,
+Bond Blast,SID_リュールエンゲージ技共同_気功,Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe. [Qi Adept] Breaks foe.,
+(Bond Blast 1st Hit),SID_リュールエンゲージ技共同_１撃目,---,
+(Bond Blast 1st Hit Break Calc),SID_リュールエンゲージ技共同_１撃目_ブレイク判定,---,
+(Bond Blast 2nd Hit),SID_リュールエンゲージ技共同_２撃目,---,
+(Bond Blast 3rd Hit),SID_リュールエンゲージ技共同_３撃目,---,
+(Dragon Blast Dragon Effect),SID_リュールエンゲージ技_竜族効果,---,
+(Dragon Blast Backup Effect),SID_リュールエンゲージ技_連携効果,---,
+(Dragon Blast Mystical Effect),SID_リュールエンゲージ技_魔法効果,---,
+(Dragon Blast Qi Adept Eff. 2nd),SID_リュールエンゲージ技_気功効果_２撃目,---,
+(Dragon Blast Qi Adept Eff. 3rd),SID_リュールエンゲージ技_気功効果_３撃目,---,
+(Dragon Blast Settings),SID_リュールエンゲージ技_設定,---,
+Divinely Inspiring,SID_神竜の結束,Adjacent allies deal +3 damage and take 1 less damage.,
+Divinely Inspiring,SID_神竜の結束_被ダメ軽減,Adjacent allies deal +3 damage and take 1 less damage.,
+(Divinely Inspiring Deal Dmg Up),SID_神竜の結束_与ダメ上昇,---,
+Alabaster Duty,SID_白の忠誠,"If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.",
+Alabaster Duty,SID_白の忠誠_効果,"If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.",
+Verdant Faith,SID_碧の信仰,"If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.",
+Verdant Faith,SID_碧の信仰_効果,"If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.",
+Crimson Cheer,SID_緋い声援,"If unit is adjacent to the Divine Dragon, grants Avo+10 during combat to both of them.",
+Crimson Cheer,SID_緋い声援_効果,"If unit is adjacent to the Divine Dragon, grants Avo+10 during combat to both of them.",
+Self-Improver,SID_自己研鑽,"If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.",
+Energized,SID_筋肉増強剤,"When unit recovers HP using an item, grants Str+2 for 1 turn.",
+(Str +2 for 1 Turn),SID_力＋２_１ターン,---,
+Moved to Tears,SID_涙腺崩壊,"When an ally joins a chain attack in this unit's combat, unit deals +2 damage.",
+Moved to Tears,SID_涙腺崩壊_演出用,"When an ally joins a chain attack in this unit's combat, unit deals +2 damage.",
+(Moved to Tears Triggered),SID_涙腺崩壊_発動済み,---,
+Gentle Flower,SID_平和の花,Recovery items used by allies within 2 spaces heal +50% HP.,
+Gentle Flower,SID_平和の花効果,Recovery items used by allies within 2 spaces heal +50% HP.,
+Fairy-Tale Folk,SID_絵になる二人,"If a male and a female ally are adjacent within 2 spaces, unit deals +2 damage during combat.",
+Admiration,SID_花園の門番,"If two female allies are adjacent within 2 spaces, this unit takes 2 less damage during combat.",
+Fair Fight,SID_真っ向勝負,"If unit initiates combat, grants Hit+15 to unit and foe if foe is able to counterattack.",
+Aspiring Hero,SID_名乗り上げ,"If no other units are within 1 space of unit or foe, grants Hit+20 at a cost of Avo-10 during combat.",
+Meditation,SID_瞑想,"If unit uses Wait without attacking or using items, grants Res+2 for 1 turn.",
+(Meditation Effect),SID_瞑想効果,---,
+Get Behind Me!,SID_僕が守ります！,"When an ally within 2 spaces is attacked, grants Str+3 to unit for 1 turn.",
+(Get Behind Me! Effect),SID_僕が守ります！効果,---,
+Share Spoils,SID_戦果委譲,"If there is an ally within 1 space, grants Hit/Avo+10 at a cost of Crit-10 to unit.",
+Generosity,SID_大盤振る舞い,"When this unit uses a healing item, adjacent allies also recover the same amount of HP.",
+Single-Minded,SID_執着,"During combat with a foe who was also unit's most recent opponent, grants Hit+20.",
+Not *Quite*,SID_『次』はない,"If foe initiates combat, inflicts Hit-10 on that foe during combat.",
+Blinding Flash,SID_光彩奪目！,"If unit initiates combat, inflicts Avo-10 on foe during combat.",
+Big Personality,SID_煌めく理力,"When unit uses a healing staff, grants range +1.",
+Stunning Smile,SID_微笑み,"If foe is male, inflicts Avo-20 on that foe during combat.",
+Disarming Sigh,SID_溜め息,"If foe is male, inflicts Hit-20 on that foe during combat.",
+Racket of Solm,SID_ソルムの騒音,Inflicts Crit-5 on foes within 3 spaces.,
+Racket of Solm,SID_ソルムの騒音_効果,Inflicts Crit-5 on foes within 3 spaces.,
+Knightly Escort,SID_エスコート,"When 2 or more female allies are within 2 spaces, grants Hit/Avo+5 to unit and those allies.",
+Knightly Escort,SID_エスコート効果,"When 2 or more female allies are within 2 spaces, grants Hit/Avo+5 to unit and those allies.",
+Blood Fury,SID_戦の血,"If unit's HP is not at max after combat, grants Crit+10 as long as unit's HP stays below max.",
+Charmer,SID_人たらし,"During combat with a foe who was also unit's most recent opponent, inflicts Crit-10 on that foe.",
+Party Animal,SID_大集会,Grants a bonus to Hit and Avo equal to 3× the number of allies and foes within 2 spaces.,
+Seconds?,SID_料理再現,"On eating a packed lunch, unit may obtain another of the same item. Trigger %=Lck.",
+Make a Killing,SID_一攫千金,May obtain 500G when unit defeats a foe. Trigger %=Lck.,
+Expertise,SID_努力の才,Grants unit enhanced stat growth when leveling up.,
+Trained to Kill,SID_殺しの技術,"While unit occupies terrain that provides an Avo bonus, grants Crit+15.",
+Curious Dance,SID_神秘の踊り,"At start of turn, allies within 2 spaces of unit recover 10% of their max HP.",
+Weapon Insight,SID_歴戦の勘,"If unit is equipped with a weapon of lower level than foe's, grants Crit+20 during combat.",
+Will to Win,SID_勝利への意思,"If unit's HP is 50% or less at start of combat, grants Hit/Avo+20 during combat.",
+Fell Protection,SID_邪竜の救済,Adjacent allies deal +1 damage and take 3 less damage.,
+Fell Protection,SID_邪竜の救済_被ダメ軽減,Adjacent allies deal +1 damage and take 3 less damage.,
+(Fell Protection Deal Damage Up),SID_邪竜の救済_与ダメ上昇,---,
+Contemplative,SID_次への備え,"If unit uses Wait without attacking or using items, grants Def+2 for 1 turn.",
+(Contemplative Effect),SID_次への備え効果,---,
+Run Through,SID_切り抜け,"Use to attack an adjacent foe, then move to the space opposite that foe.",
+Brave Assist,SID_助太刀,"If unit's HP is at max while unit makes a chain attack, unit attacks twice.",
+Pincer Attack,SID_挟撃,"If unit initiates combat while an ally is on the opposite side of the foe, always follow up (if weapon allows).",
+Reforge,SID_手助け,"If unit's HP is 11 or more and an adjacent ally is broken after combat, sacrifices 10 HP and removes the break status from that ally.",
+Smash+,SID_スマッシュ＋,"When making a smash attack, push the target 2 spaces instead of 1.",
+Merciless,SID_無慈悲,Unit deals +50% damage against broken foes.,
+No Distractions,SID_集中,Grants Crit+10 during combat with a foe that can't counter.,
+Careful Aim,SID_狙撃,"If unit initiates combat without moving first, grants Hit+40 during combat.",
+Swap,SID_入れ替え,Use to switch places with an adjacent ally.,
+Allied Defense,SID_護衛,"If unit is between an ally and a foe, reduces damage to unit by 3 during combat with that foe.",
+Pivot,SID_回り込み,Use to move to the opposite side of an adjacent ally.,
+Hobble,SID_足狙い,"If unit initiates combat with a knife, inflicts Mov-2 on foe for 1 turn.",
+(Hobble Trigger Check),SID_足狙い発動チェック,---,
+(Hobble Triggered),SID_足狙い発動済み,---,
+(Hobble Effect),SID_足狙い効果,---,
+Clear the Way,SID_移動補助,Unit's space and adjacent spaces have a movement cost of 1 for allies.,
+Air Raid,SID_急襲,"If unit initiates combat from a space a foe cannot enter, grants Spd+5 during combat.",
+Pass,SID_すり抜け,Foes do not block this unit's movement.,
+Spell Harmony,SID_魔力増幅,"If unit initiates combat with a tome, grants Atk equal to the number of adjacent allies with tomes.",
+Chaos Style,SID_背理の法,"If unit initiates combat with a physical attack against a foe armed with magic or vice versa, grants Spd+3 during combat.",
+Diffuse Healer,SID_気の拡散,"When unit is healed by a staff, all adjacent allies also recover 50% of the HP that the unit recovered.",
+Diffuse Healer,SID_気の拡散効果,"When unit is healed by a staff, all adjacent allies also recover 50% of the HP that the unit recovered.",
+Self-Healing,SID_自己回復,Unit can target itself with healing staves.,
+Divine Spirit,SID_神竜気,Unit's engage meter is shortened one step.,
+Fell Spirit,SID_邪竜気,"At the start of each turn, unit's engage meter is filled by 1.",
+Dark Spirit,SID_邪竜気・闇,Inflicts -1 to the engage meters of foes within 2 spaces at the start of the turn.,
+Golden Lotus,SID_金蓮,"During combat, may prevent 50% of physical damage taken. Trigger %=Dex.",
+Ignis,SID_華炎,"During combat, may add half of Str to magic damage or half of Mag to all other damage. Trigger %=Dex.",
+Sol,SID_太陽,Unit may recover HP=50% damage dealt. Trigger %=Dex.,
+Luna,SID_月光,"While making an attack, may ignore half of foe's Def/Res. Trigger %=Dex.",
+Grasping Void,SID_虚空,"When attacking with a tome, unit may deal extra damage = half of foe's Mag. Trigger %=Dex.",
+World Tree,SID_大樹,"When unit uses a staff, may not consume a use. Trigger %=Dex.",
+Sandstorm,SID_砂陣,"While making a physical attack, may calculate damage with 150% of Def instead of Str. Trigger %=Dex.",
+Back at You,SID_水鏡,"When countering, unit may deal extra damage = half of damage taken. Trigger %=Dex.",
+Back at You,SID_水鏡効果,"When countering, unit may deal extra damage = half of damage taken. Trigger %=Dex.",
+Soulblade,SID_魔法剣,"When attacking with a sword, damage is calculated using average of foe's Def and Res.",
+Special Dance,SID_特別な踊り,"If unit uses Dance, grants Dex/Spd/Lck+3 to target for 1 turn.",
+(Dance Effect),SID_踊り効果,---,
+Sympathetic,SID_伝道師,"If foe initiates combat and if unit's HP is 50% or less, unit takes 5 less damage.",
+Deadly Blade,SID_必殺剣,"If unit initiates combat with a sword, grants Crit+10 during combat.",
+Battlewise,SID_百戦練磨,Grants a stacking Crit+1 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10),
+(Critical Boost +1),SID_必殺の増強＋1,---,
+(Critical Boost +2),SID_必殺の増強＋2,---,
+(Critical Boost +3),SID_必殺の増強＋3,---,
+(Critical Boost +4),SID_必殺の増強＋4,---,
+(Critical Boost +5),SID_必殺の増強＋5,---,
+(Critical Boost +6),SID_必殺の増強＋6,---,
+(Critical Boost +7),SID_必殺の増強＋7,---,
+(Critical Boost +8),SID_必殺の増強＋8,---,
+(Critical Boost +9),SID_必殺の増強＋9,---,
+(Critical Boost +10),SID_必殺の増強＋10,---,
+Renewal,SID_回復,Unit recovers 5 HP each turn.,
+Windsweep,SID_風薙ぎ,"If unit initiates combat with a sword, foe may not counterattack. Trigger %=Lck.",
+Great Thunder,SID_轟雷,"If unit uses Thunder, Elthunder, or Thoron, deals +20% damage.",
+Bane,SID_瞬殺,May reduce foe's HP to 1. Trigger %=half of Dex. (Certain foes are immune to this effect.),
+Mercy,SID_慈悲,"If dealing enough damage to defeat foe, instead leaves foe with 1 HP.",
+Raging Fire,SID_業火,"If unit uses Fire, Elfire, or Bolganone, deals +20% damage.",
+Strong Arm,SID_剛腕,Grants Hit+20 while unit is equipped with a smash weapon.,
+Miracle,SID_祈り,Avoids foe's attack when unit would be defeated. Trigger %=Lck. (Max 50%),
+Dire Thunder,SID_ダイムサンダ,"When unit initiates combat with Thunder equipped, unit attacks twice. (Excludes Elthunder and Thoron.)",
+Rightful Ruler,SID_王の器,Adds +5% to trigger rate for all skills with trigger rates.,
+Healtouch,SID_いやしの心,"When unit heals an ally with a staff, restores +5 HP to target.",
+Draw Back,SID_引き寄せ,Use to move 1 space away from adjacent ally and pull the ally along.,
+Giga Excalibur,SID_ギガスカリバー,"If unit initiates combat with Excalibur, deals +20% damage.",
+Wind Adept,SID_旋風,"If unit initiates combat with Wind equipped, unit may attack twice. Trigger %=Dex. (Excludes Elwind and Excalibur.)",
+Shove,SID_体当たり,Use to push an adjacent ally with less Bld 1 space away.,
+Flickering Flower,SID_閃花,"If unit initiates combat, freezes foe. Trigger % = total damage dealt.",
+Paraselene,SID_幻月,"Use to make an attack against an adjacent foe, then move 1 space away from that foe after combat.",
+Wind God,SID_風神,"If unit's HP=100%, grants range +1 with bows.",
+Chivalry,SID_騎士道,"If unit initiates combat while foe's HP=100%, unit deals +2 damage and takes 2 less damage.",
+(Chivalry Take Damage Down),SID_騎士道_被ダメ軽減,---,
+(Chivalry Deal Damage Up),SID_騎士道_与ダメ上昇,---,
+Bushido,SID_武士道,"If unit's level is higher than foe's, grants Crit+10 during combat, and unit deals +2 damage and takes 2 less damage.",
+(Bushido Take Damage Down),SID_武士道_被ダメ軽減,---,
+(Bushido Deal Damage Up),SID_武士道_与ダメ上昇,---,
+Lethality,SID_滅殺,"When landing a critical hit, instantly kills foe. Trigger %=30. (Excludes certain powerful foes.)",
+Sure Strike,SID_必的,"If unit initiates combat, attacks are guaranteed to hit. Trigger %=Dex",
+Spur Attack,SID_絆の指輪_アルフォンス,Grants Atk+2 to adjacent allies.,
+Spur Attack,SID_絆の指輪_アルフォンス_効果,Grants Atk+2 to adjacent allies.,
+Fortify Def,SID_絆の指輪_シャロン,Grants Def+2 to adjacent allies for 1 turn at start of player phase.,
+(Fortify Def Effect),SID_絆の指輪_シャロン_効果,---,
+Fortify Def,SID_絆の指輪_シャロン_発動,Grants Def+2 to adjacent allies for 1 turn at start of player phase.,
+Spur Res,SID_絆の指輪_アンナ,Grants Res+2 to adjacent allies.,
+(Spur Res Effect),SID_絆の指輪_アンナ_効果,---,
+Spur Res,SID_絆の指輪_アンナ_発動,Grants Res+2 to adjacent allies.,
+(2x Attack),SID_２回行動,---,
+(Cannot Folow Up),SID_追撃不可,---,
+(Attack Speed +5),SID_攻撃速度＋５,---,
+(Take Damage +5),SID_被ダメージ＋５,---,
+(Smash),SID_スマッシュ,---,
+(Engage Count+1 on KO),SID_撃破時エンゲージカウント＋１,---,
+(Share Engage Count+1 on KO),SID_撃破時周囲エンゲージカウント＋１,---,
+(Double Experience),SID_経験値２倍,---,
+(Change Attacking Weakness),SID_攻撃属性弱点変化,---,
+(Weapon Might Up on Offense),SID_オフェンス時武器攻撃力上昇,---,
+(Atrocity Effect),SID_戦技_無残_効果,---,
+(Avoid +20 on Offense),SID_オフェンス回避＋２０,---,
+(Might Up with Magic),SID_威力上昇魔力,---,
+(Might Up with Speed),SID_威力上昇速さ,---,
+(Chance to Halve Damage),SID_確率被ダメ半減,---,
+(Aegis Shield Effect),SID_アイギスの盾効果,---,
+(Magic Range +1),SID_魔法射程＋１,---,
+(Magic Range +2),SID_魔法射程＋２,---,
+(Nosferatu),SID_リザイア,---,
+(Break 10%),SID_ブレイク１０％,---,
+(Break 20%),SID_ブレイク２０％,---,
+(Sure Strike),SID_必中,---,
+(Sure Strike; Hit 100),SID_必中_命中率１００,---,
+(Folkvangr Weapon Skill),SID_フォルクヴァング武器スキル,---,
+(Folkvangr Weapon Skill Effect),SID_フォルクヴァング武器スキル_効果,---,
+(Fensalir Weapon Skill),SID_フェンサリル武器スキル,---,
+(Fensalir Weapon Skill Effect),SID_フェンサリル武器スキル_効果,---,
+(Noatun Weapon Skill),SID_ノーアトゥーン武器スキル,---,
+(Noatun Weapon Skill Effect),SID_ノーアトゥーン武器スキル_効果,---,
+Friendly Rivalry,SID_切磋琢磨,"At start of player phase, the Emblem will randomly switch to Edelgard, Dimitri, or Claude.",
+Gambit,SID_計略,Effects change based on synced Emblem.,
+Assembly Gambit,SID_計略_引込の計,"Use to attack an adjacent foe, then move 1 space away after combat. Target foe moves to unit's previous space.",1500
+Flame Gambit,SID_計略_猛火計,"Use when synced with Edelgard to attack a foe, then set the target foe's space and nearby spaces on fire.",
+Shield Gambit,SID_計略_聖盾の備え,Use when synced with Dimitri to negate damage from first attacks of ranged foes targeting unit in next enemy phase.,
+Poison Gambit,SID_計略_毒矢,"Use when synced with Claude to attack a foe, then poison target and all foes adjacent to it after combat.",
+Flame Gambit,SID_計略_猛火計_効果,"Use when synced with Edelgard to attack a foe, then set the target foe's space and nearby spaces on fire.",
+Shield Gambit,SID_計略_聖盾の備え_効果,Use when synced with Dimitri to negate damage from first attacks of ranged foes targeting unit in next enemy phase.,
+Poison Gambit,SID_計略_毒矢_効果,"Use when synced with Claude to attack a foe, then poison target and all foes adjacent to it after combat.",
+Weapon Sync,SID_武器シンクロ,"If unit initiates combat using same weapon type as the synced Emblem, grants Atk+5. If engaged, grants Atk+5 regardless of weapon type.",3000
+Weapon Sync+,SID_武器シンクロ＋,"If unit initiates combat using same weapon type as the synced Emblem, grants Atk+7. If engaged, grants Atk+7 regardless of weapon type.",5000
+Weapon Sync,SID_武器シンクロ_発動演出,"If unit initiates combat using same weapon type as the synced Emblem, grants Atk+5. If engaged, grants Atk+5 regardless of weapon type.",
+Weapon Sync+,SID_武器シンクロ＋_発動演出,"If unit initiates combat using same weapon type as the synced Emblem, grants Atk+7. If engaged, grants Atk+7 regardless of weapon type.",
+(Weapon Sync triggered),SID_武器シンクロ_発動済み,---,
+Lineage,SID_血統,Increases unit's earned experience by 20%.,150
+Combat Arts,SID_戦技,"Enables use of Edelgard, Dimitri, or Claude's Combat Art. Spends some remaining engage turns.",
+Combat Arts,SID_戦技_竜族,"Enables use of Edelgard, Dimitri, or Claude's Combat Art. Spends some remaining engage turns. [Dragon] +10% damage.",
+Combat Arts,SID_戦技_隠密,"Enables use of Edelgard, Dimitri, or Claude's Combat Art. Spends some remaining engage turns. [Covert] Avo+20.",
+Raging Storm,SID_戦技_狂嵐,"After combat, take another action. (Spend 3 turns.)",
+(Raging Storm Dragon),SID_戦技_狂嵐_竜族,---,
+(Raging Storm Covert),SID_戦技_狂嵐_隠密,---,
+(Raging Storm Trigger),SID_戦技_狂嵐_発動,---,
+(Raging Storm Effect),SID_戦技_狂嵐_効果,---,
+Atrocity,SID_戦技_無残,Attack at double weapon's Mt. (Spend 1 turn.),
+(Atrocity Dragon),SID_戦技_無残_竜族,---,
+(Atrocity Covert),SID_戦技_無残_隠密,---,
+Fallen Star,SID_戦技_落星,Avoid foe's attacks during next combat. (Spend 1 turn.),
+(Fallen Star Dragon),SID_戦技_落星_竜族,---,
+(Fallen Star Covert),SID_戦技_落星_隠密,---,
+(Fallen Star Trigger),SID_戦技_落星_発動,---,
+(Fallen Star Dragon Effect),SID_戦技_竜族_効果,---,
+(Fallen Star Covert Effect),SID_戦技_隠密_効果,---,
+Houses Unite,SID_三級長エンゲージ技,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage.",
+Houses Unite,SID_三級長エンゲージ技_竜族,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. [Dragon] +10% damage.",
+Houses Unite,SID_三級長エンゲージ技_騎馬,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. [Cavalry] +10% damage with Areadbhar.",
+Houses Unite,SID_三級長エンゲージ技_隠密,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. [Covert] +10% damage with Failnaught.",
+Houses Unite,SID_三級長エンゲージ技_重装,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. [Armored] +10% damage with Aymr.",
+Houses Unite,SID_三級長エンゲージ技_気功,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. [Qi Adept] Breaks foe.",
+(Houses Unite Damage Up 1st),SID_三級長エンゲージ技_ダメージ上昇_１撃目,---,
+(Houses Unite Damage Up 2nd),SID_三級長エンゲージ技_ダメージ上昇_２撃目,---,
+(Houses Unite Damage Up 3rd),SID_三級長エンゲージ技_ダメージ上昇_３撃目,---,
+(Houses Unite Qi Adept Break),SID_三級長エンゲージ技_気功_ブレイク,---,
+(Houses Unit Might Up Areadbhar),SID_三級長エンゲージ技_武器攻撃力上昇_アラドヴァル,---,
+Houses Unite+,SID_三級長エンゲージ技＋,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action.",
+Houses Unite+,SID_三級長エンゲージ技＋_竜族,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. [Dragon] +10% damage.",
+Houses Unite+,SID_三級長エンゲージ技＋_騎馬,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. [Cavalry] +10% damage with Areadbhar.",
+Houses Unite+,SID_三級長エンゲージ技＋_隠密,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. [Covert] +10% damage with Failnaught.",
+Houses Unite+,SID_三級長エンゲージ技＋_重装,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. [Armored] +10% damage with Aymr.",
+Houses Unite+,SID_三級長エンゲージ技＋_気功,"Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action. [Qi Adept] Breaks foe.",
+(Houses Unite+ Move Again),SID_三級長エンゲージ技＋_再行動_効果,---,
+(Tiki Equip),SID_チキ装備中,---,
+Lightsphere,SID_光玉の加護,"If unit initiates combat, halves chance of receiving critical hit from foe.",900
+Starsphere,SID_星玉の加護,Grants unit enhanced stat growth when leveling up.,1500
+Lifesphere,SID_命玉の加護,"If unit uses Wait without attacking or using items, restores 20 HP and heals status effects.",1000
+Lifesphere+,SID_命玉の加護＋,"If unit uses Wait without attacking or using items, restores 30 HP and heals status effects.",2000
+Lifesphere++,SID_命玉の加護＋＋,"If unit uses Wait without attacking or using items, restores 40 HP and heals status effects.",3000
+Geosphere,SID_地玉の加護,"At start of player phase, if there are allies adjacent to unit, grants Def/Res+3 to unit and those allies for 1 turn.",500
+Geosphere+,SID_地玉の加護＋,"At start of player phase, if there are allies adjacent to unit, grants Def/Res+5 to unit and those allies for 1 turn.",1000
+(Geosphere Effect),SID_地玉の加護_効果,---,
+(Geosphere+ Effect),SID_地玉の加護＋_効果,---,
+Draconic Form,SID_竜化,Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats.,
+(Draconic Form Armor),SID_竜化_重装,Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats. [Armored] Negates terrain damage.,
+(Draconic Form Mystical),SID_竜化_魔法,Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats. [Mystical] Grants an extra Res+5.,
+Draconic Form,SID_竜化_無効,Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats.,
+Divine Blessing,SID_チキエンゲージ技,Use to grant 1 ally a Revival Stone.,
+Divine Blessing,SID_チキエンゲージ技_竜族,Use to grant 1 ally a Revival Stone. [Dragon] Restore 20 HP to ally.,
+Divine Blessing,SID_チキエンゲージ技_気功,Grants 1 ally a Revival Stone. [Qi Adept] Heal their status effects.,
+(Divine Blessing Dragon No Bonus),SID_チキエンゲージ技_竜族_無効,Use to grant 1 ally a Revival Stone. [Dragon] Restore 20 HP to ally.,
+Divine Blessing+,SID_チキエンゲージ技＋,"Use to grant 1 ally a Revival Stone. If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns.",
+Divine Blessing+,SID_チキエンゲージ技＋_竜族,"Use to grant 1 ally a Revival Stone. If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns. [Dragon] Restore 20 HP to ally.",
+Divine Blessing+,SID_チキエンゲージ技＋_気功,"Use to grant 1 ally a Revival Stone. If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns. [Qi Adept] Heal their status effects.",
+Quick Riposte,SID_切り返し,"If unit's HP is 80% or more and foe initiates combat, unit will always follow up (if weapon allows).",2000
+Quick Riposte+,SID_切り返し＋,"If unit's HP is 60% or more and foe initiates combat, unit will always follow up (if weapon allows).",3000
+Heavy Attack,SID_重撃,"When making a physical attack, if an equipped weapon's Wt exceeds unit's Bld, adds excess as damage. (Max +5)",3000
+Piercing Glare,SID_角の睨み,Use when HP is full to consume 20% of max HP and prevent foes from entering the 4 spaces diagonally adjacent to unit for 1 turn.,
+(Piercing Glare Effect),SID_角の睨み_効果,---,
+Adaptability,SID_適応能力,"When hit by a foe's attack, grants Def+2 for a physical attack or Res+2 for a magical attack after combat. Lasts until end of battle, or until activated again.",350
+Adaptability+,SID_適応能力＋,"When hit by a foe's attack, grants Def+3 for a physical attack or Res+3 for a magical attack after combat. Lasts until end of battle, or until activated again.",700
+(Adaptability Def Calc),SID_適応能力_守備_判定,---,
+(Adaptability Res Calc),SID_適応能力_魔防_判定,---,
+(Adaptability Def Effect),SID_適応能力_守備_効果,---,
+(Adaptability Res Effect),SID_適応能力_魔防_効果,---,
+(Adaptability Def Effect Del.),SID_適応能力_守備_効果_削除,---,
+(Adaptability Res Effect Del.),SID_適応能力_魔防_効果_削除,---,
+Adaptability,SID_適応能力_発動演出,"When hit by a foe's attack, grants Def+2 for a physical attack or Res+2 for a magical attack after combat. Lasts until end of battle, or until activated again.",
+(Adaptability+ Def Calc),SID_適応能力＋_守備_判定,---,
+(Adaptability+ Res Calc),SID_適応能力＋_魔防_判定,---,
+(Adaptability+ Def Effect),SID_適応能力＋_守備_効果,---,
+(Adaptability+ Res Effect),SID_適応能力＋_魔防_効果,---,
+(Adaptability+ Def Effect Del.),SID_適応能力＋_守備_効果_削除,---,
+(Adaptability+ Res Effect Del.),SID_適応能力＋_魔防_効果_削除,---,
+Adaptability+,SID_適応能力＋_発動演出,"When hit by a foe's attack, grants Def+3 for a physical attack or Res+3 for a magical attack after combat. Lasts until end of battle, or until activated again.",
+Impenetrable,SID_鉄壁,"If foe initiates combat, grants Def/Res+30% during combat.",
+(Impenetrable Dragon),SID_鉄壁_竜族,"If foe initiates combat, grants Def/Res+30% during combat. [Dragon] Ddg+50%.",
+(Impenetrable Cavalry),SID_鉄壁_騎馬,"If foe initiates combat, grants Def/Res+30% during combat. [Cavalry] Grants immunity to freeze.",
+(Impenetrable Armor),SID_鉄壁_重装,"If foe initiates combat, grants Def/Res+30% during combat. [Armored] Grants Def+50% instead of +30%.",
+(Impenetrable Flying),SID_鉄壁_飛行,"If foe initiates combat, grants Def/Res+30% during combat. [Flying] Grants Res+50% instead of +30%.",
+Storm's Eye,SID_ヘクトルエンゲージ技,Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only.,
+Storm's Eye,SID_ヘクトルエンゲージ技_竜族,Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only. [Dragon] Prevent one critical hit.,
+Storm's Eye,SID_ヘクトルエンゲージ技_連携,Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only. [Backup] Crit+20.,
+Storm's Eye,SID_ヘクトルエンゲージ技_隠密,Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only. [Covert] Avo+30.,
+Storm's Eye+,SID_ヘクトルエンゲージ技＋,Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only.,
+Storm's Eye+,SID_ヘクトルエンゲージ技＋_竜族,Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only. [Dragon] Prevent one critical hit.,
+Storm's Eye+,SID_ヘクトルエンゲージ技＋_連携,Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only. [Backup] Crit+20.,
+Storm's Eye+,SID_ヘクトルエンゲージ技＋_隠密,Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only. [Covert] Avo+30.,
+(Storm’s Eye Effect),SID_ヘクトルエンゲージ技_効果,---,
+Storm's Eye,SID_ヘクトルエンゲージ技_発動演出,Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only.,
+Storm's Eye+,SID_ヘクトルエンゲージ技＋_発動演出,Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only.,
+(Storm’s Eye+ Vantage),SID_ヘクトルエンゲージ技＋_待ち伏せ効果,---,
+(Storm’s Eye Dragon Effect),SID_ヘクトルエンゲージ技_竜族_効果,---,
+Anima Focus,SID_理魔法＋,"When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.",800
+Anima Focus,SID_理魔法＋_風_判定,"When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.",
+Anima Focus,SID_理魔法＋_雷_判定,"When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.",
+Anima Focus,SID_理魔法＋_炎_判定,"When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.",
+(Anima Focus Wind Effect),SID_理魔法＋_風_効果,---,
+(Anima Focus Thunder Effect),SID_理魔法＋_雷_効果,---,
+(Anima Focus Fire Effect),SID_理魔法＋_炎_効果,---,
+Keen Insight,SID_慧眼,"When unit deals Effective damage, deal +5 damage.",1500
+Keen Insight+,SID_慧眼＋,"When unit deals Effective damage, deal +7 damage.",3000
+Assign Decoy,SID_囮指名,Use to make one chosen ally more likely to be targeted by enemies for 1 turn. Effect is removed after ally is targeted by or otherwise damaged by foes 3 times.,1500
+(Decoy),SID_囮,---,
+(Decoy Counter),SID_囮_カウンター,---,
+(Decoy Disappear Post-fight),SID_囮_消去_戦闘後,---,
+(Decoy 1st time),SID_囮_１回発動済み,---,
+(Decoy 2nd time),SID_囮_２回発動済み,---,
+(Decoy 3rd time),SID_囮_３回発動済み,---,
+Block Recovery,SID_復帰阻止,"When attacking a broken foe with a tome, grants a chance the foe will remain broken. Chance increases with high Spd.",1500
+(Break Continue),SID_気絶継続,---,
+Flare,SID_陽光,"When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt.",
+(Flare Dragon),SID_陽光_竜族,"When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt. [Dragon] Critical hits deal double damage.",
+(Flare Mystical),SID_陽光_魔法,"When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt. [Mystical] Extra -10% to foe's Res.",
+(Flare Qi Adept),SID_陽光_気功,"When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt. [Qi Adept] Unit recovers 100% of damage dealt instead.",
+(Flare Recovery),SID_陽光_回復,---,
+(Flare Recovery Qi Adept),SID_陽光_回復_気功,---,
+Cataclysm,SID_セネリオエンゲージ技,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.",
+Cataclysm,SID_セネリオエンゲージ技_竜族,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Dragon] Sets terrain on fire.",
+Cataclysm,SID_セネリオエンゲージ技_魔法,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Mystical] +10% damage.",
+Cataclysm,SID_セネリオエンゲージ技_気功,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Qi Adept] 20% chance of breaking target.",
+Cataclysm+,SID_セネリオエンゲージ技＋,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.",
+Cataclysm+,SID_セネリオエンゲージ技＋_竜族,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Dragon] Sets terrain on fire.",
+Cataclysm+,SID_セネリオエンゲージ技＋_魔法,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Mystical] +10% damage.",
+Cataclysm+,SID_セネリオエンゲージ技＋_気功,"Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying. [Qi Adept] 20% chance of breaking target.",
+(Cataclysm Damage 30%),SID_セネリオエンゲージ技_ダメージ30%,---,
+(Cataclysm Damage 40%),SID_セネリオエンゲージ技_ダメージ40%,---,
+(Cataclysm Damage 50%),SID_セネリオエンゲージ技_ダメージ50%,---,
+(Cataclysm Break 20%),SID_セネリオエンゲージ技_ブレイク20%,---,
+Cataclysm,SID_セネリオエンゲージ技_G004,"Use to attack foes in an area with fire, thunder and wind magic at 30% damage. Wind is effective: Flying.",
+Dragon Vein,SID_竜脈・異,Use to add a special effect to certain spaces.,
+Dragon Vein,SID_竜脈・異_竜族,Use to add a special effect to certain spaces. [Dragon] Choose any Vein effect.,
+Vein of Stone,SID_竜脈・異_連携,Use to add a special effect to certain spaces. [Backup] Creates stone pillars that increase Def/Res.,
+Vein of Water,SID_竜脈・異_騎馬,Use to add a special effect to certain spaces. [Cavalry] Creates water that decreases Avo.,
+Vein of Smoke,SID_竜脈・異_隠密,Use to add a special effect to certain spaces. [Covert] Creates smoke that decreases Def/Avo.,
+Vein of Vines,SID_竜脈・異_重装,Use to add a special effect to certain spaces. [Armored] Creates vines that grant immunity to break.,
+Vein of Succor,SID_竜脈・異_飛行,Use to add a special effect to certain spaces. [Flying] Creates healing glow that restores HP.,
+Vein of Flame,SID_竜脈・異_魔法,Use to add a special effect to certain spaces. [Mystical] Creates flames that inflict damage.,
+Vein of Frost,SID_竜脈・異_気功,Use to add a special effect to certain spaces. [Qi Adept] Creates ice floor that increases movement.,
+Groundswell,SID_地脈吸収,"After unit acts or waits in flames, miasma, or similar terrain effect, unit clears effect and recovers 10 HP.",500
+Detoxify,SID_デトックス,Cures poison at start of turn.,250
+Decisive Strike,SID_後始末,"If unit initiates combat and lands a critical, deals 5 damage to foe after combat.",500
+Decisive Strike+,SID_後始末＋,"If unit initiates combat and lands a critical, deals 10 damage to foe after combat.",1000
+Soar,SID_天駆,Grants Mov+2. Unit can cross terrain as if flying.,
+(Soar Dragon),SID_天駆_竜族,"Grants Mov+2. Unit can cross terrain as if flying. [Dragon] If unit initiates combat, deals damage to foes within 2 spaces equal to 10% of their max HP after combat.",
+(Soar Cavalry),SID_天駆_騎馬,Grants Mov+2. Unit can cross terrain as if flying. [Cavalry] Grants an extra Mov+2.,
+(Soar Flying),SID_天駆_飛行,Grants Mov+2. Unit can cross terrain as if flying. [Flying] Grants an extra Mov+1.,
+Dark Inferno,SID_カミラエンゲージ技,Use to deal damage to foes on certain spaces near unit and set those spaces on fire.,
+Dark Inferno,SID_カミラエンゲージ技_竜族,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Dragon] Increases area of effect.,
+Dark Inferno,SID_カミラエンゲージ技_魔法,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Mystical] +20% damage.,
+Dark Inferno,SID_カミラエンゲージ技_気功,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Qi Adept] Adds Glow to adjacent spaces.,
+Dark Inferno+,SID_カミラエンゲージ技＋,Use to deal damage to foes on certain spaces near unit and set those spaces on fire.,
+Dark Inferno+,SID_カミラエンゲージ技＋_竜族,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Dragon] Increases area of effect.,
+Dark Inferno+,SID_カミラエンゲージ技＋_魔法,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Mystical] +20% damage.,
+Dark Inferno+,SID_カミラエンゲージ技＋_気功,Use to deal damage to foes on certain spaces near unit and set those spaces on fire. [Qi Adept] Adds Glow to adjacent spaces.,
+(Dark Inferno Damage Up),SID_カミラエンゲージ技_ダメージUP,---,
+(Dark Inferno Place Glow),SID_カミラエンゲージ技_アロマ配置,---,
+Str/Dex +1,SID_力・技＋１,Grants Str+1 and Dex+1.,700
+Str/Dex +2,SID_力・技＋２,Grants Str+2 and Dex+2.,1600
+Str/Dex +3,SID_力・技＋３,Grants Str+3 and Dex+3.,4200
+Str/Dex +4,SID_力・技＋４,Grants Str+4 and Dex+4.,6000
+Str/Dex +5,SID_力・技＋５,Grants Str+5 and Dex+5.,8400
+HP/Lck +2,SID_ＨＰ・幸運＋２,Grants HP+2 and Lck+2.,200
+HP/Lck +4,SID_ＨＰ・幸運＋４,Grants HP+4 and Lck+4.,600
+HP/Lck +6,SID_ＨＰ・幸運＋６,Grants HP+6 and Lck+6.,1100
+HP/Lck +8,SID_ＨＰ・幸運＋８,Grants HP+8 and Lck+8.,1900
+HP/Lck +10,SID_ＨＰ・幸運＋１０,Grants HP+10 and Lck+10.,3600
+Str/Def +1,SID_力・守備＋１,Grants Str+1 and Def+1.,700
+Str/Def +2,SID_力・守備＋２,Grants Str+2 and Def+2.,1600
+Str/Def +3,SID_力・守備＋３,Grants Str+3 and Def+3.,4200
+Str/Def +4,SID_力・守備＋４,Grants Str+4 and Def+4.,6000
+Str/Def +5,SID_力・守備＋５,Grants Str+5 and Def+5.,8400
+Mag/Res +1,SID_魔力・魔防＋１,Grants Mag+1 and Res+1.,700
+Mag/Res +2,SID_魔力・魔防＋２,Grants Mag+2 and Res+2.,1600
+Mag/Res +3,SID_魔力・魔防＋３,Grants Mag+3 and Res+3.,4200
+Mag/Res +4,SID_魔力・魔防＋４,Grants Mag+4 and Res+4.,6000
+Mag/Res +5,SID_魔力・魔防＋５,Grants Mag+5 and Res+5.,8400
+Spd/Res +1,SID_速さ・魔防＋１,Grants Spd+1 and Res+1.,250
+Spd/Res +2,SID_速さ・魔防＋２,Grants Spd+2 and Res+2.,700
+Spd/Res +3,SID_速さ・魔防＋３,Grants Spd+3 and Res+3.,1200
+Spd/Res +4,SID_速さ・魔防＋４,Grants Spd+4 and Res+4.,2400
+Spd/Res +5,SID_速さ・魔防＋５,Grants Spd+5 and Res+5.,4800
+Bow Guard 1,SID_対弓術１,"If foe is equipped with a bow, unit takes 1 less damage during combat.",200
+Bow Guard 2,SID_対弓術２,"If foe is equipped with a bow, unit takes 2 less damage during combat.",400
+Bow Guard 3,SID_対弓術３,"If foe is equipped with a bow, unit takes 3 less damage during combat.",600
+Bow Guard 4,SID_対弓術４,"If foe is equipped with a bow, unit takes 4 less damage during combat.",800
+Bow Guard 5,SID_対弓術５,"If foe is equipped with a bow, unit takes 5 less damage during combat.",1000
+Special Guard 1,SID_対特殊１,"If foe is equipped with a special attack, unit takes 1 less damage during combat.",200
+Special Guard 2,SID_対特殊２,"If foe is equipped with a special attack, unit takes 2 less damage during combat.",400
+Special Guard 3,SID_対特殊３,"If foe is equipped with a special attack, unit takes 3 less damage during combat.",600
+Special Guard 4,SID_対特殊４,"If foe is equipped with a special attack, unit takes 4 less damage during combat.",800
+Special Guard 5,SID_対特殊５,"If foe is equipped with a special attack, unit takes 5 less damage during combat.",1000
+Axe Guard 1,SID_対斧術１,"If foe is equipped with an axe, unit takes 1 less damage during combat.",200
+Axe Guard 2,SID_対斧術２,"If foe is equipped with an axe, unit takes 2 less damage during combat.",400
+Axe Guard 3,SID_対斧術３,"If foe is equipped with an axe, unit takes 3 less damage during combat.",600
+Axe Guard 4,SID_対斧術４,"If foe is equipped with an axe, unit takes 4 less damage during combat.",800
+Axe Guard 5,SID_対斧術５,"If foe is equipped with an axe, unit takes 5 less damage during combat.",1000
+Magic Guard 1,SID_対魔道１,"If foe is equipped with a tome, unit takes 1 less damage during combat.",200
+Magic Guard 2,SID_対魔道２,"If foe is equipped with a tome, unit takes 2 less damage during combat.",400
+Magic Guard 3,SID_対魔道３,"If foe is equipped with a tome, unit takes 3 less damage during combat.",600
+Magic Guard 4,SID_対魔道４,"If foe is equipped with a tome, unit takes 4 less damage during combat.",800
+Magic Guard 5,SID_対魔道５,"If foe is equipped with a tome, unit takes 5 less damage during combat.",1000
+Lance Guard 1,SID_対槍術１,"If foe is equipped with a lance, unit takes 1 less damage during combat.",200
+Lance Guard 2,SID_対槍術２,"If foe is equipped with a lance, unit takes 2 less damage during combat.",400
+Lance Guard 3,SID_対槍術３,"If foe is equipped with a lance, unit takes 3 less damage during combat.",600
+Lance Guard 4,SID_対槍術４,"If foe is equipped with a lance, unit takes 4 less damage during combat.",800
+Lance Guard 5,SID_対槍術５,"If foe is equipped with a lance, unit takes 5 less damage during combat.",1000
+Enchant,SID_エンチャント,---,
+Convoy,SID_輸送隊,Use to deposit or retrieve weapons and items.,
+Frost Domain,SID_氷の領域,"At start of turn, applies frost to terrain within 2 spaces of unit.",
+(Extra Item 1),SID_追加アイテム1,---,
+(Halve Foe Defenses),SID_相手の防御力半減,---,
+(House Leaders Areadbhar),SID_三級長_アラドヴァル,---,
+(Tiki Breath),SID_チキ_ブレス,---,
+(Tiki Breath Normal),SID_チキ_ブレス_通常,---,
+(Tiki Breath Dragon),SID_チキ_ブレス_竜族,---,
+(Tiki Breath Armor),SID_チキ_ブレス_重装,---,
+(Tiki Breath Flying),SID_チキ_ブレス_飛行,---,
+(Tiki Breath Mystical),SID_チキ_ブレス_魔法,---,
+(Tiki Breath Attack Check),SID_チキ_ブレス_攻撃発生チェック,---,
+(Tiki Breath Attack Occur),SID_チキ_ブレス_攻撃発生,---,
+(Tiki Breath Armor Effect),SID_チキ_ブレス_重装_効果,---,
+(Tiki Breath Might Down),SID_チキ_ブレス_飛行_威力減,---,
+(Extra Engage weapon 1; Tiki?),SID_追加エンゲージ武器１_巻き込み無効化,---,
+(Runesword),SID_ルーンソード,---,
+(Runesword Effect),SID_ルーンソード_効果,---,
+(Barrier),SID_マジックシールド,---,
+(Camilla’s Axe),SID_カミラの艶斧,---,
+(Enchanter Might Up),SID_EN_威力上昇,---,
+(Enchanter Defences Up),SID_EN_防御上昇,---,
+(Enchanter Hit Up),SID_EN_命中上昇,---,
+(Enchanter Avoid Up),SID_EN_回避上昇,---,
+(Enchanter Critical Up),SID_EN_必殺上昇,---,
+(Enchanter HP Tonic Effect 1),SID_EN_HPの薬_効果1,"Max HP+2, negate foe chain attacks for 1 turn.",
+(Enchanter HP Tonic Effect 2),SID_EN_HPの薬_効果2,"Max HP+4, negate foe chain attacks for 1 turn.",
+(Enchanter HP Tonic Effect 3),SID_EN_HPの薬_効果3,"Max HP+6, negate foe chain attacks for 1 turn.",
+(Enchanter HP Tonic Effect 4),SID_EN_HPの薬_効果4,"Max HP+8, negate foe chain attacks for 1 turn.",
+Ignore Chain,SID_EN_HPの薬_効果_チェインアタック無効,---,
+(Enchanter Str Tonic Effect 1),SID_EN_力の薬_効果1,"Weapon weight -50%, Str+1 for 1 turn.",
+(Enchanter Str Tonic Effect 2),SID_EN_力の薬_効果2,"Weapon weight -50%, Str+2 for 1 turn.",
+(Enchanter Str Tonic Effect 3),SID_EN_力の薬_効果3,"Weapon weight -50%, Str+3 for 1 turn.",
+(Enchanter Str Tonic Effect 4),SID_EN_力の薬_効果4,"Weapon weight -50%, Str+4 for 1 turn.",
+Wt -50%,SID_EN_力の薬_効果_武器の重さ半減,---,
+(Enchanter Mag Tonic Effect 1),SID_EN_魔力の薬_効果1,"Immunity to silence, Mag+1 for 1 turn.",
+(Enchanter Mag Tonic Effect 2),SID_EN_魔力の薬_効果2,"Immunity to silence, Mag+2 for 1 turn.",
+(Enchanter Mag Tonic Effect 3),SID_EN_魔力の薬_効果3,"Immunity to silence, Mag+3 for 1 turn.",
+(Enchanter Mag Tonic Effect 4),SID_EN_魔力の薬_効果4,"Immunity to silence, Mag+4 for 1 turn.",
+Ignore Silence,SID_EN_魔力の薬_効果_サイレス無効,---,
+(Enchanter Def Tonic Effect),SID_EN_守備の薬_効果,Reflect physical damage taken for 1 turn.,
+(Enchanter Res Tonic Effect),SID_EN_魔防の薬_効果,Reflect magic damage taken for 1 turn.,
+(Enchanter Dex Tonic Effect 1),SID_EN_技の薬_効果1,"Immunity to break, Dex+2 for 1 turn.",
+(Enchanter Dex Tonic Effect 2),SID_EN_技の薬_効果2,"Immunity to break, Dex+4 for 1 turn.",
+(Enchanter Dex Tonic Effect 3),SID_EN_技の薬_効果3,"Immunity to break, Dex+6 for 1 turn.",
+(Enchanter Dex Tonic Effect 4),SID_EN_技の薬_効果4,"Immunity to break, Dex+8 for 1 turn.",
+Ignore Break,SID_EN_技の薬_効果_ブレイク無効,---,
+(Enchanter Spd Tonic Effect 1),SID_EN_速さの薬_効果1,"Immunity to freeze, Spd+1 for 1 turn.",
+(Enchanter Spd Tonic Effect 2),SID_EN_速さの薬_効果2,"Immunity to freeze, Spd+2 for 1 turn.",
+(Enchanter Spd Tonic Effect 3),SID_EN_速さの薬_効果3,"Immunity to freeze, Spd+3 for 1 turn.",
+(Enchanter Spd Tonic Effect 4),SID_EN_速さの薬_効果4,"Immunity to freeze, Spd+4 for 1 turn.",
+Ignore Freeze,SID_EN_速さの薬_効果_フリーズ無効,---,
+(Enchanter Lck Tonic Effect),SID_EN_幸運の薬_効果,30% chance to ignore damage for 1 turn.,
+(Enchanter Pure Water Effect),SID_EN_聖水_効果,Effective: Corrupted for 1 turn.,
+Eff: Corrupted,SID_EN_聖水_発動演出,---,
+(Enchanter Meal Effect),SID_EN_お弁当_効果,Guarantee survival if HP is 2 or more (once).,
+Survival,SID_EN_お弁当_防御時効果,---,
+Survival,SID_EN_お弁当_攻撃時効果,---,
+(Enchanter Meal Trigger),SID_EN_お弁当_発動済み,---,
+(Enchanter Icon Display Calc),SID_EN_アイコン表示判定用,---,
+(Mov -3),SID_移動－３,---,
+(Chain Attack Hit 100%),SID_チェインアタック命中率１００％,---,
+(Chain Attack Hit 30%),SID_チェインアタック命中率３０％,---,
+(Fallen Star Effect),SID_戦技_落星_効果,---,
+Fallen Star,SID_戦技_落星_効果_命中０,---,
+(Fallen Star Attack Miss),SID_戦技_落星_効果_攻撃結果ミス,---,
+(Fallen Star Back to Normal),SID_戦技_落星_効果_戦闘後消去,---,
+(Emblem Skill Rate Adjust 100),SID_神将スキル確率補正１００,---,

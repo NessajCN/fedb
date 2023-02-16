@@ -1,0 +1,550 @@
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Name,Notes,ID,Type,Might,Hit,Critical,Weight,Avoid,Dodge,Range,Rank,Uses,Price,Staff EXP,Description,Skills
+,,IID_無し,???,0,0,0,0,0,0,---,-,---,100,,--------,
+???,,IID_不明,Item,0,0,0,0,0,0,---,-,---,100,,?????,
+#N/A,Engage Frame,IID_エンゲージ枠,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+Slim Sword,,IID_ほそみの剣,Sword,3,100,0,2,0,30,1,D,---,500,,"A light, unusually accurate sword.",
+Iron Sword,,IID_鉄の剣,Sword,5,90,0,5,0,0,1,D,---,1000,,"A standard sword made of iron─simple, but effective.",
+Steel Sword,,IID_鋼の剣,Sword,9,85,5,8,0,0,1,C,---,2000,,A sword made of steel.,
+Silver Sword,,IID_銀の剣,Sword,12,90,0,11,0,0,1,B,---,4000,,An exceptional sword of rare metals.,
+Armorslayer,,IID_アーマーキラー,Sword,9,75,0,13,0,0,1,C,---,2500,,A sword made to penetrate heavy armor. Effective: Armored.,(Effective: Armor)
+Killing Edge,,IID_キルソード,Sword,9,75,30,10,0,0,1,C,---,2500,,A sword especially well-suited to inflicting deadly wounds.,
+Levin Sword,,IID_いかづちの剣,Sword,13,85,0,11,0,0,1~2,C,---,3000,,A magical sword that can strike close or at range.,
+Wo Dao,,IID_倭刀,Sword,6,90,20,7,0,0,1,B,---,2500,,A sword honed to a razor edge.,
+Wyrmslayer,,IID_ドラゴンキラー,Sword,8,80,0,12,0,0,1,B,---,2500,,A sword crafted specifically to fight dragons. Effective: Dragon.,(Effective: Dragon)
+Brave Sword,,IID_勇者の剣,Sword,4,80,0,13,0,0,1,A,---,8000,,"A sword built for expert wielders. If user initiates combat, attacks twice.",(2x Attack)
+Libération,,IID_リベラシオン,Sword,6,90,0,4,0,0,1,D,---,1000,,Divine Dragon only. Fills engage meter by 1 when user attacks and defeats a foe in a single turn.,(Engage Count+1 on KO)
+Libération,Prologue,IID_リベラシオン_M000,Sword,10,90,0,4,0,0,1,D,---,100,,The Divine Dragon's personal sword.,
+Wille Glanz,,IID_ヴィレグランツ,Sword,12,70,0,10,0,0,1~2,D,---,8000,,Divine Dragon only. A powerful sword that can strike close or at range.,
+Caladbolg,,IID_クラドホルグ,Sword,15,95,0,12,0,0,1,S,---,10000,,"A legendary sword, famous for its great power.",
+Iron Blade,,IID_鉄の大剣,Sword,10,80,0,7,0,0,1,C,---,1500,,"A massive sword that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Steel Blade,,IID_鋼の大剣,Sword,18,75,5,10,0,0,1,B,---,3000,,"A massive sword of steel that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Silver Blade,,IID_銀の大剣,Sword,24,80,0,13,0,0,1,A,---,6000,,"A massive sword of rare metals that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Georgios,,IID_ゲオルギオス,Sword,32,90,0,18,0,0,1,S,---,10000,,"A legendary blade that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Fólkvangr,,IID_フォルクヴァング,Sword,10,90,0,6,0,0,1,D,---,4000,,"Sword of Alfonse, prince of Askr. Grants Atk+3 for 1 turn if user has 50% HP or less at start of turn.",(Folkvangr Weapon Skill)
+Slim Lance,,IID_ほそみの槍,Lance,5,95,0,5,0,20,1,D,---,500,,"A light, unusually accurate lance.",
+Iron Lance,,IID_鉄の槍,Lance,7,85,0,7,0,0,1,D,---,1000,,"A standard lance made of iron─simple, but effective.",
+Steel Lance,,IID_鋼の槍,Lance,11,75,5,10,0,0,1,C,---,2000,,A lance made of steel.,
+Silver Lance,,IID_銀の槍,Lance,14,80,0,13,0,0,1,B,---,4000,,An exceptional lance of rare metals.,
+Javelin,,IID_手槍,Lance,6,80,0,9,0,0,1~2,D,---,1800,,A light throwing lance that can strike close or at range.,
+Ridersbane,,IID_ナイトキラー,Lance,8,70,0,13,0,0,1,D,---,2500,,A lance designed for foes on horseback. Effective: Cavalry.,(Effective: Cavalry)
+Killer Lance,,IID_キラーランス,Lance,7,75,30,9,0,0,1,C,---,3000,,A lance especially well-suited to inflicting deadly wounds.,
+Flame Lance,,IID_ほのおの槍,Lance,10,75,0,16,0,0,1~2,C,---,3000,,A magical lance that can strike close or at range.,
+Spear,,IID_スレンドスピア,Lance,12,70,0,15,0,0,1~2,B,---,4500,,A powerful throwing lance that can strike close or at range.,
+Brave Lance,,IID_勇者の槍,Lance,5,75,0,14,0,0,1,A,---,8000,,"A lance built for expert wielders. If user initiates combat, attacks twice.",(2x Attack)
+Brionac,,IID_ブリューナク,Lance,17,70,0,17,0,0,1~2,S,---,10000,,A powerful lance of legend. Can strike close or at range.,
+Iron Greatlance,,IID_鉄の大槍,Lance,14,75,0,9,0,0,1,C,---,1500,,"A massive lance that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Steel Greatlance,,IID_鋼の大槍,Lance,22,65,5,12,0,0,1,B,---,3000,,"A massive lance of steel that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Silver Greatlance,,IID_銀の大槍,Lance,28,70,0,15,0,0,1,A,---,6000,,"A massive lance of rare metals that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Venomous,,IID_ヴェノマス,Lance,34,80,10,20,0,0,1,S,---,10000,,"A lance of legend that smashes and poisons hit foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Fensalir,,IID_フェンサリル,Lance,12,80,0,8,0,0,1,D,---,4000,,"Lance of Sharena, princess of Askr. Inflicts Atk-2 for 1 turn on adjacent foes at the start of player phase.",(Fensalir Weapon Skill)
+Compact Axe,,IID_ショートアクス,Axe,6,90,0,7,0,20,1,D,---,500,,"A light, unusually accurate axe.",
+Iron Axe,,IID_鉄の斧,Axe,9,80,0,10,0,0,1,D,---,1000,,"A standard axe made of iron─simple, but effective.",
+Steel Axe,,IID_鋼の斧,Axe,13,65,5,12,0,0,1,C,---,2000,,An axe made of steel.,
+Silver Axe,,IID_銀の斧,Axe,16,70,0,15,0,0,1,B,---,4000,,An exceptional axe of rare metals.,
+Hand Axe,,IID_手斧,Axe,7,70,0,12,0,0,1~2,D,---,1800,,A light throwing axe that can strike close or at range.,
+Hammer,,IID_ハンマー,Axe,9,60,0,15,0,0,1,D,---,2500,,A war hammer made to crack through heavy armor. Effective: Armored.,(Effective: Armor)
+Poleaxe,,IID_ポールアクス,Axe,8,60,0,14,0,0,1,D,---,2500,,An axe whose long handle helps reach mounted foes. Effective: Cavalry.,(Effective: Cavalry)
+Killer Axe,,IID_キラーアクス,Axe,11,65,30,12,0,0,1,C,---,3000,,An axe especially well-suited to inflicting deadly wounds.,
+Tomahawk,,IID_トマホーク,Axe,14,60,0,16,0,0,1~2,B,---,4500,,A powerful throwing axe that can strike close or at range.,
+Brave Axe,,IID_勇者の斧,Axe,6,70,0,16,0,0,1,A,---,8000,,"An axe built for expert wielders. If user initiates combat, attacks twice.",(2x Attack)
+Fragarach,,IID_フラガラッハ,Axe,19,80,0,16,0,0,1,S,---,10000,,A legendary axe.,
+Iron Greataxe,,IID_鉄の大斧,Axe,18,70,0,12,0,0,1,C,---,1500,,"A massive axe that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Steel Greataxe,,IID_鋼の大斧,Axe,26,55,5,14,0,0,1,B,---,3000,,"A massive axe of steel that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Silver Greataxe,,IID_銀の大斧,Axe,32,60,0,17,0,0,1,A,---,6000,,"A massive axe of rare metals that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Hurricane Axe,,IID_かぜの大斧,Axe,20,70,0,15,0,0,1,B,---,3000,,"A magical axe that smashes foes. Cannot follow up, or strike first if initiating combat. Effective: Flying.","(Smash), (Effective: Flying)"
+Ukonvasara,,IID_ウコンバサラ,Axe,38,70,0,24,0,0,1,S,---,10000,,"A huge, legendary axe that smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Nóatún,,IID_ノーアトゥーン,Axe,14,75,0,10,0,0,1,D,---,4000,,"Axe of Anna, a commander in Askr. Grants Mov+1 for 1 turn when user has 40% HP or less at start of turn.",(Noatun Weapon Skill)
+Mini Bow,,IID_ショートボウ,Bow,3,100,0,4,0,20,1,D,---,500,,"An easy-to-use, short-range bow. Effective: Flying.",(Effective: Flying)
+Iron Bow,,IID_鉄の弓,Bow,6,90,0,5,0,0,2,D,---,1000,,A standard bow made of iron. Effective: Flying.,(Effective: Flying)
+Steel Bow,,IID_鋼の弓,Bow,10,80,5,7,0,0,2,C,---,2000,,A bow made of steel. Effective: Flying.,(Effective: Flying)
+Silver Bow,,IID_銀の弓,Bow,13,85,0,10,0,0,2,B,---,4000,,An exceptional bow of rare metals. Effective: Flying.,(Effective: Flying)
+Longbow,,IID_長弓,Bow,7,70,0,10,0,0,2~3,C,---,2000,,A bow made to fire at longer ranges. Effective: Flying.,(Effective: Flying)
+Killer Bow,,IID_キラーボウ,Bow,7,75,30,7,0,0,2,C,---,3000,,A bow especially well-suited to inflicting deadly wounds. Effective: Flying.,(Effective: Flying)
+Radiant Bow,,IID_光の弓,Bow,19,75,0,12,0,0,2,C,---,3000,,A magical bow whose arrows pierce with light. Effective: Flying.,(Effective: Flying)
+Brave Bow,,IID_勇者の弓,Bow,4,75,0,11,0,0,2,A,---,8000,,"A bow built for expert wielders. If user initiates combat, attacks twice. Effective: Flying.","(Effective: Flying), (2x Attack)"
+Lendabair,,IID_レンダウィル,Bow,16,80,0,11,0,0,2,S,---,10000,,A bow wielded by legends. Effective: Flying.,(Effective: Flying)
+Short Knife,,IID_ショートナイフ,Dagger,3,110,0,2,0,20,1~2,D,---,500,,An easy-to-use throwing knife. Poisons hit foes.,
+Iron Dagger,,IID_鉄のナイフ,Dagger,5,100,0,3,0,0,1~2,D,---,1000,,A standard throwing knife. Poisons hit foes.,
+Steel Dagger,,IID_鋼のナイフ,Dagger,7,80,5,5,0,0,1~2,C,---,2000,,A throwing knife made of steel. Poisons hit foes.,
+Silver Dagger,,IID_銀のナイフ,Dagger,10,90,0,7,0,0,1~2,B,---,4000,,A throwing knife made of rare metals. Poisons hit foes.,
+Kard,,IID_カルド,Dagger,5,95,10,5,0,0,1,C,---,1000,,A fighting knife intended for close combat. Poisons hit foes.,
+Stiletto,,IID_スティレット,Dagger,9,75,15,7,0,0,1,B,---,2000,,A fighting knife intended for close combat. Poisons hit foes.,
+Peshkatz,,IID_ペシュカド,Dagger,12,85,20,9,0,0,1,A,---,4000,,A fighting knife intended for close combat. Poisons hit foes.,
+Misericorde,,IID_ミセリコルデ,Dagger,7,90,0,6,0,0,1~2,D,---,8000,,Veyle only. An enchanted throwing knife that inflicts magic damage and poisons hit foes.,
+Cinquedea,,IID_シンクエディア,Dagger,13,85,10,8,0,0,1~2,S,---,10000,,A legendary throwing knife that poisons hit foes.,
+Carnwenhan,,IID_カルンウェナン,Dagger,28,80,0,13,0,0,1,S,---,10000,,"A legendary short sword. Smashes and poisons hit foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Surge,,IID_サージ,Tome,7,255,0,5,0,0,1,D,---,1500,,A basic attack tome that can only be used in close combat.,(Sure Strike)
+Fire,,IID_ファイアー,Tome,5,95,0,4,0,0,1~2,D,---,1000,,A standard tome of fire magic.,(Enable Raging Fire)
+Thunder,,IID_サンダー,Tome,5,80,0,10,0,0,1~3,D,---,1000,,A standard tome of thunder magic. Cannot follow up.,"(Cannot Folow Up), (Enable Great Thunder), (Enable Dire Thunder)"
+Wind,,IID_ウィンド,Tome,4,90,0,4,0,0,1~2,C,---,1000,,A standard tome of wind magic. Effective: Flying.,"(Effective: Flying), (Enable Wind Adept)"
+Elsurge,,IID_エルサージ,Tome,13,255,10,7,0,0,1,C,---,2500,,An advanced attack tome that can only be used in close combat.,(Sure Strike)
+Elfire,,IID_エルファイアー,Tome,11,90,0,7,0,0,1~2,C,---,2000,,An advanced fire tome.,(Enable Raging Fire)
+Elthunder,,IID_エルサンダー,Tome,11,75,0,13,0,0,1~3,B,---,2000,,An advanced thunder tome. Cannot follow up.,"(Cannot Folow Up), (Enable Great Thunder)"
+Elwind,,IID_エルウィンド,Tome,7,85,0,6,0,0,1~2,B,---,2000,,An advanced wind tome. Effective: Flying.,(Effective: Flying)
+Bolganone,,IID_ボルガノン,Tome,16,85,0,11,0,0,1~2,A,---,4000,,A truly mighty fire tome.,(Enable Raging Fire)
+Thoron,,IID_トロン,Tome,18,70,0,16,0,0,1~3,A,---,4000,,A truly mighty thunder tome. Cannot follow up.,"(Cannot Folow Up), (Enable Great Thunder)"
+Thoron,Zephia,IID_トロン_セピア専用,Tome,18,70,0,16,0,0,1~3,A,---,100,,A truly mighty thunder tome. Cannot follow up.,(Cannot Folow Up)
+Excalibur,,IID_エクスカリバー,Tome,10,80,5,9,0,0,1~2,A,---,4000,,A truly mighty wind tome. Effective: Flying.,"(Effective: Flying), (Enable Giga Excalibur)"
+Excalibur,Griss,IID_エクスカリバー_グリ専用,Tome,10,80,0,9,0,0,1~2,A,---,100,,A truly mighty wind tome. Effective: Flying.,(Effective: Flying)
+Nova,,IID_ノヴァ,Tome,5,75,0,14,0,0,1~2,S,---,10000,,"An extremely potent tome. If user initiates combat, attacks twice.",(2x Attack)
+Meteor,,IID_メティオ,Tome,13,80,0,20,0,0,3~7,A,---,100,,A tome of long-range attack magic. Cannot be used at shorter ranges.,
+Obscurité,,IID_オヴスキュリテ,Tome,14,80,10,12,0,0,1~2,D,---,8000,,Fell Dragon only. Truly mighty dark magic.,
+Obscurité,Prologue,IID_オヴスキュリテ_M000,Tome,14,90,0,12,0,0,1,D,---,100,,Fell Dragon only. Truly mighty dark magic.,
+Heal,,IID_ライブ,Staff,10,100,0,0,0,0,1,D,25,500,25,A staff imbued with healing magic. Recovers an ally's HP.,
+Mend,,IID_リライブ,Staff,20,100,0,0,0,0,1,D,20,1000,30,A staff imbued with healing magic. Recovers a great deal of an ally's HP.,
+Physic,,IID_リブロー,Staff,8,100,0,0,0,0,1~5,C,10,3000,35,A staff imbued with healing magic. Can recover an ally's HP at a distance.,
+Recover,,IID_リカバー,Staff,40,100,0,0,0,0,1,B,10,3000,40,A staff imbued with healing magic. Recovers vast amounts of an ally's HP.,
+Fortify,,IID_リザーブ,Staff,7,100,0,0,0,0,1~5,A,5,5000,25,A staff imbued with healing magic. Recovers HP for all allies within a 5-space radius.,
+Restore,,IID_レスト,Staff,0,100,0,0,0,0,1~3,C,10,500,30,A staff that removes status effects on an ally.,
+Warp,,IID_ワープ,Staff,0,100,0,0,0,0,1,B,5,2000,35,A staff imbued with space-warping magic. Teleports an adjacent ally up to 5 spaces away.,
+Rewarp,,IID_リワープ,Staff,0,100,0,0,0,0,---,C,5,1200,35,A staff imbued with space-warping magic. Teleports the user up to 5 spaces away.,
+Rescue,,IID_レスキュー,Staff,0,100,0,0,0,0,1~8,B,5,2000,35,A staff imbued with space-warping magic. Teleports a faraway ally to an adjacent space.,
+Rescue,Chapter 19,IID_レスキュー_M019,Staff,0,100,0,0,0,0,1~5,B,1,100,35,A staff imbued with space-warping magic. Teleports a faraway ally to an adjacent space.,
+Entrap,,IID_ドロー,Staff,0,50,0,0,0,0,1~6,A,3,4000,35,A staff imbued with space-warping magic. Teleports a faraway foe to an adjacent space.,
+Illume,,IID_トーチ,Staff,0,100,0,0,0,0,---,D,5,500,30,A staff that magically shines through darkness. Illuminates a 7-space radius (shrinks one space per turn).,
+Freeze,,IID_フリーズ,Staff,0,70,0,0,0,0,1~6,C,5,1500,35,A staff that prevents foes from moving for 1 turn.,
+Freeze,Paralogue 10,IID_フリーズ_S010,Staff,0,100,0,0,0,0,1~15,C,3,100,35,A staff that prevents foes from moving for 1 turn.,
+Silence,,IID_サイレス,Staff,0,70,0,0,0,0,1~6,C,5,1500,35,A staff that prevents foes from using tomes or staves for 1 turn.,
+Silence,Paralogue 10,IID_サイレス_S010,Staff,0,100,0,0,0,0,1~15,C,3,100,35,A staff that prevents foes from using tomes or staves for 1 turn.,
+Obstruct,,IID_アイスロック,Staff,0,100,0,0,0,0,1~8,D,10,500,30,A staff that conjures a mass of ice that makes one space impassable for 1 turn.,
+Fracture,,IID_コラプス,Staff,0,70,0,0,0,0,1~10,B,10,1200,30,A staff imbued with magic that can break foes.,
+Fracture,Chapter 14,IID_コラプス_M014,Staff,0,70,0,0,0,0,1~10,B,3,100,35,A staff imbued with magic that can break foes.,
+Fracture,Paralogue 10,IID_コラプス_S010,Staff,0,100,0,0,0,0,1~15,B,3,100,35,A staff imbued with magic that can break foes.,
+Nodus,,IID_ノードゥス,Staff,20,100,0,0,0,0,Inf,S,1,6000,30,A staff imbued with mysterious magic that sets all allies' engage meters to max.,
+Initiate Art,,IID_初心の法,Arts,5,95,0,5,0,30,1,D,---,500,,"A scroll of a fundamental martial skill. As a basic text, it does not attack twice.",(Qi Adept)
+Iron-Body Art,,IID_鉄身の法,Arts,2,90,0,3,0,0,1,D,---,1000,,"A scroll of a basic martial skill. If user initiates combat, attacks twice.","(Qi Adept), (2x Attack)"
+Steel-Hand Art,,IID_鋼身の法,Arts,5,70,5,5,0,0,1,C,---,2000,,"A scroll of a standard martial skill. If user initiates combat, attacks twice.","(Qi Adept), (2x Attack)"
+Silver-Spirit Art,,IID_銀身の法,Arts,8,80,0,7,0,0,1,B,---,4000,,"A scroll of a highly polished martial skill. If user initiates combat, attacks twice.","(Qi Adept), (2x Attack)"
+Shielding Art,,IID_護身の法,Arts,4,70,0,8,0,0,1,C,---,2500,,A scroll of a defensive martial skill. Grants Def+5.,(Qi Adept)
+Flashing Fist Art,,IID_閃進の法,Arts,9,80,0,9,0,0,1,A,---,6000,,"A scroll of brash martial skill. Grants Spd+5, but user takes +5 damage. If user initiates combat, attacks twice.","(Qi Adept), (2x Attack), (Attack Speed +5), (Take Damage +5)"
+Divine Fist Art,,IID_覇神の法,Arts,11,75,10,12,0,0,1,S,---,10000,,"A scroll of a legendary martial skill. If user initiates combat, attacks twice.","(Qi Adept), (2x Attack)"
+Fire Breath,,IID_火のブレス,Special,12,100,0,5,0,0,1~3,D,---,100,,A scorching breath attack. Ignores foe's Def/Res.,"(Breath), (Negate Foe Defense)"
+Fireball,,IID_炎塊,Special,7,80,0,5,0,0,4,D,---,100,,A long-range fire attack. Ignores foe's Def/Res.,"(Breath), (Negate Foe Defense)"
+Fell Assault,Sombron physical,IID_ソンブル_物理攻撃,Special,20,80,0,20,0,0,1~3,S,---,100,,A series of colossal ranged attacks.,
+Fell Surge,Sombron magical,IID_ソンブル_魔法攻撃,Special,20,75,0,20,0,0,1~3,S,---,100,,A powerful ranged strike of dark magic.,
+Whirling Death,Sombron spin,IID_ソンブル_回転アタック,Special,13,90,0,16,0,0,1~3,S,---,100,,A spin that brutally strikes an area. Attacks all foes within 3 spaces.,"(Cannot Folow Up), (Smash)"
+Howling Beam,Sombron Beam,IID_ソンブル_ビーム,Special,17,150,0,23,0,0,---,S,---,100,,A powerful beam of dark magic that leaves a foul miasma in its wake.,"(Cannot Folow Up), (Hit 100)"
+Disengage,Sombron Engage Break,IID_ソンブル_エンゲージブレイク,Special,0,0,0,0,0,0,---,S,---,100,,Forces all foes to lose engaged status.,
+Freezing Breath,,IID_氷のブレス,Special,11,100,0,5,0,0,1~2,C,---,100,,An icy breath attack. Ignores foe Def/Res. Freezes foe.,"(Breath), (Negate Foe Defense)"
+Iceball,,IID_氷塊,Special,6,80,0,5,0,0,3,C,---,100,,A long-range ice attack. Ignores foe Def/Res. Freezes foe.,"(Breath), (Negate Foe Defense)"
+Flame Cannon,,IID_火炎砲台,Special,0,0,0,0,0,0,---,D,---,100,,Use to attack all units within a 2-space radius of a target point and set the same area on fire.,
+Flame Cannon,Chapter 19,IID_火炎砲台_M019,Special,0,0,0,0,0,0,---,D,---,100,,Use to attack all units within a 2-space radius of a target point and set the same area on fire.,
+Flame Cannon,Paralogue 13,IID_火炎砲台_S013,Special,0,80,0,0,0,0,---,D,---,100,,Use to attack all units within a 2-space radius of a target point and set the same area on fire.,
+Vulnerary,,IID_傷薬,Item,15,0,0,0,0,0,---,-,3,300,,Drink to recover 15 HP.,
+Antitoxin,,IID_毒消し,Item,15,0,0,0,0,0,---,-,3,400,,Drink to recover 15 HP and cure poison.,
+Elixir,,IID_特効薬,Item,30,0,0,0,0,0,---,-,3,800,,Drink to recover 30 HP.,
+Pure Water,,IID_聖水,Item,0,0,0,0,0,0,---,-,3,600,,Drink to grant Res+7 to user (bonus shrinks by 1 each turn).,
+Torch,,IID_たいまつ,Item,0,0,0,0,0,0,---,-,3,300,,Burn to illuminate a 7-space radius (shrinks one space per turn).,
+Seraph Robe,,IID_天使の衣,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant max HP+5 to user permanently.,
+Energy Drop,,IID_力のしずく,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Str+2 to user permanently.,
+Spirit Dust,,IID_精霊の粉,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Mag+2 to user permanently.,
+Secret Book,,IID_秘伝の書,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Dex+2 to user permanently.,
+Speedwing,,IID_はやての羽,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Spd+2 to user permanently.,
+Goddess Icon,,IID_女神の像,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Lck+2 to user permanently.,
+Dracoshield,,IID_竜の盾,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Def+2 to user permanently.,
+Talisman,,IID_魔よけ,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Res+2 to user permanently.,
+Boots,,IID_ブーツ,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to grant Mov+1 to user permanently.,
+Novice Book,,IID_スキルの書・守,Item,10,0,0,0,0,0,---,-,1,400,,Book that teaches basic skills. Grants 100 SP.,
+Adept Book,,IID_スキルの書・破,Item,50,0,0,0,0,0,---,-,1,1000,,Book that teaches advanced skills. Grants 500 SP.,
+Expert Book,,IID_スキルの書・離,Item,100,0,0,0,0,0,---,-,1,2000,,"Book that unlocks the true secrets of skills. Grants 1,000 SP.",
+HP Tonic,,IID_HPの薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant max HP+5 for the duration of a battle.,
+Strength Tonic,,IID_力の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Str+2 for the duration of a battle.,
+Dexterity Tonic,,IID_技の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Dex+2 for the duration of a battle.,
+Speed Tonic,,IID_速さの薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Spd+2 for the duration of a battle.,
+Luck Tonic,,IID_幸運の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Lck+2 for the duration of a battle.,
+Defense Tonic,,IID_守備の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Def+2 for the duration of a battle.,
+Magic Tonic,,IID_魔力の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Mag+2 for the duration of a battle.,
+Resistance Tonic,,IID_魔防の薬,Item,0,0,0,0,0,0,---,-,1,150,,Drink to grant Res+2 for the duration of a battle.,
+Master Seal,,IID_マスタープルフ,Item,0,0,0,0,0,0,---,-,1,2500,,Expend to change user to an advanced class.,
+Second Seal,,IID_チェンジプルフ,Item,0,0,0,0,0,0,---,-,1,2500,,"Expend to change user to a different class in the same tier, or to set level in the current class from max to 1.",
+Pact Ring,,IID_約束の指輪,Valuable,0,0,0,0,0,0,---,-,---,100,,Ring used to increase the support level with one ally from A to RelianceRing.,
+Time Crystal,,IID_竜の時水晶,Valuable,0,0,0,0,0,0,---,-,---,100,,The Draconic Time Crystal can briefly reverse the flow of time.,
+Silver Card,,IID_シルバーカード,Valuable,0,0,0,0,0,0,---,-,---,100,,Carrying this reduces cost of items by 30% when shopping at locations such as the armory or item shop.,
+Vander's Meal,,IID_ヴァンドレのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers tidily packed by Vander. Eat to recover 20 HP.,
+Clanne's Meal,,IID_クランのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers eagerly packed by Clanne. Eat to recover 20 HP.,
+Framme's Meal,,IID_フランのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers enthusiastically packed by Framme. Eat to recover 20 HP.,
+Alfred's Meal,,IID_アルフレッドのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers fiercely packed by Alfred. Eat to recover 20 HP.,
+Boucheron's Meal,,IID_ブシュロンのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers idly packed by Boucheron. Eat to recover 20 HP.,
+Etie's Meal,,IID_エーティエのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers tightly packed by Etie. Eat to recover 20 HP.,
+Céline's Meal,,IID_セリーヌのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers elegantly packed by Céline. Eat to recover 20 HP.,
+Louis's Meal,,IID_ルイのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers helpfully packed by Louis. Eat to recover 20 HP.,
+Chloé's Meal,,IID_クロエのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers motheringly packed by Chloé. Eat to recover 20 HP.,
+Diamant's Meal,,IID_ディアマンドのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers flawlessly packed by Diamant. Eat to recover 20 HP.,
+Amber's Meal,,IID_アンバーのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers clumsily packed by Amber. Eat to recover 20 HP.,
+Jade's Meal,,IID_ジェーデのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers cleanly packed by Jade. Eat to recover 20 HP.,
+Alcryst's Meal,,IID_スタルークのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers skillfully packed by Alcryst. Eat to recover 20 HP.,
+Lapis's Meal,,IID_ラピスのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers modestly packed by Lapis. Eat to recover 20 HP.,
+Citrinne's Meal,,IID_シトリニカのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers lavishly packed by Citrinne. Eat to recover 20 HP.,
+Ivy's Meal,,IID_アイビーのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers thoughtfully packed by Ivy. Eat to recover 20 HP.,
+Zelkov's Meal,,IID_ゼルコバのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers *artfully* packed by Zelkov. Eat to recover 20 HP.,
+Kagetsu's Meal,,IID_カゲツのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers earnestly packed by Kagetsu. Eat to recover 20 HP.,
+Hortensia's Meal,,IID_オルテンシアのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers haphazardly packed by Hortensia. Eat to recover 20 HP.,
+Rosado's Meal,,IID_ロサードのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers cutely packed by Rosado. Eat to recover 20 HP.,
+Goldmary's Meal,,IID_ゴルドマリーのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers immaculately packed by Goldmary. Eat to recover 20 HP.,
+Timerra's Meal,,IID_ミスティラのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers discordantly packed by Timerra. Eat to recover 20 HP.,
+Merrin's Meal,,IID_メリンのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers coolly packed by Merrin. Eat to recover 20 HP.,
+Panette's Meal,,IID_パネトネのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers oddly packed by Panette. Eat to recover 20 HP.,
+Fogado's Meal,,IID_フォガートのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers nonchalantly packed by Fogado. Eat to recover 20 HP.,
+Pandreo's Meal,,IID_パンドロのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers affably packed by Pandreo. Eat to recover 20 HP.,
+Bunet's Meal,,IID_ボネのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers expertly packed by Bunet. Eat to recover 20 HP.,
+Anna's Meal,,IID_アンナのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers economically packed by Anna. Eat to recover 20 HP.,
+Jean's Meal,,IID_ジャンのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers thoroughly packed by Jean. Eat to recover 20 HP.,
+Yunaka's Meal,,IID_ユナカのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers carefully packed by Yunaka. Eat to recover 20 HP.,
+Seadall's Meal,,IID_セアダスのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers prophetically packed by Seadall. Eat to recover 20 HP.,
+Lindon's Meal,,IID_リンデンのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers creatively packed by Lindon. Eat to recover 20 HP.,
+Saphir's Meal,,IID_ザフィーアのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers neatly packed by Saphir. Eat to recover 20 HP.,
+Veyle's Meal,,IID_ヴェイルのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers lovingly packed by Veyle. Eat to recover 20 HP.,
+Mauvier's Meal,,IID_モーヴのお弁当,Item,20,0,0,0,0,0,---,-,1,100,,Leftovers meticulously packed by Mauvier. Eat to recover 20 HP.,
+Iron Ingot,,IID_てつの晶石,Iron,0,0,0,0,0,0,---,-,---,50,,A piece of iron used at the smithy and boutique.,
+Steel Ingot,,IID_はがねの晶石,Steel,0,0,0,0,0,0,---,-,---,500,,A piece of steel used at the smithy and boutique.,
+Silver Ingot,,IID_ぎんの晶石,Silver,0,0,0,0,0,0,---,-,---,5000,,A piece of silver used at the smithy and boutique.,
+Mt Crystal,,IID_素材_威力,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases might (Mt).,
+Crit Crystal,,IID_素材_必殺,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases critical (Crit).,
+Dex Crystal,,IID_素材_技,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases dexterity (Dex).,
+Spd Crystal,,IID_素材_速さ,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases speed (Spd).,
+Def Crystal,,IID_素材_守備,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases defense (Def).,
+Res Crystal,,IID_素材_魔防,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases resistance (Res).,
+Hit Crystal,,IID_素材_命中,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases hit rate.,
+Avo Crystal,,IID_素材_回避,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases avoid (Avo).,
+Ddg Crystal,,IID_素材_必避,Item,0,0,0,0,0,0,---,-,---,300,,Material used to reinforce engage weapons. Increases dodge (Ddg).,
+Dragon Bane,,IID_素材_竜特効,Item,0,0,0,0,0,0,---,-,---,300,,Material used to augment engage weapons. Adds Effective: Dragon.,
+Rider Bane,,IID_素材_騎馬特効,Item,0,0,0,0,0,0,---,-,---,300,,Material used to augment engage weapons. Adds Effective: Cavalry.,
+Armor Bane,,IID_素材_重装特効,Item,0,0,0,0,0,0,---,-,---,300,,Material used to augment engage weapons. Adds Effective: Armored.,
+Flier Bane,,IID_素材_飛行特効,Item,0,0,0,0,0,0,---,-,---,300,,Material used to augment engage weapons. Adds Effective: Flying.,
+Corrupted Bane,,IID_素材_異形特効,Item,0,0,0,0,0,0,---,-,---,300,,Material used to augment engage weapons. Adds Effective: Corrupted.,
+#N/A,Bond Fragments,IID_絆のかけら10,Bond Frag,0,0,0,0,0,0,---,-,---,10,,#N/A,
+#N/A,,IID_絆のかけら50,Bond Frag,0,0,0,0,0,0,---,-,---,50,,#N/A,
+#N/A,,IID_絆のかけら100,Bond Frag,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,,IID_絆のかけら500,Bond Frag,0,0,0,0,0,0,---,-,---,500,,#N/A,
+#N/A,,IID_絆のかけら1000,Bond Frag,0,0,0,0,0,0,---,-,---,1000,,#N/A,
+#N/A,,IID_絆のかけら5000,Bond Frag,0,0,0,0,0,0,---,-,---,5000,,#N/A,
+#N/A,,IID_絆のかけら10000,Bond Frag,0,0,0,0,0,0,---,-,---,10000,,#N/A,
+#N/A,Gold,IID_100G,Gold,0,0,0,0,0,0,---,-,---,100,,The currency of Elyos.,
+#N/A,,IID_200G,Gold,0,0,0,0,0,0,---,-,---,200,,The currency of Elyos.,
+#N/A,,IID_300G,Gold,0,0,0,0,0,0,---,-,---,300,,The currency of Elyos.,
+#N/A,,IID_400G,Gold,0,0,0,0,0,0,---,-,---,400,,The currency of Elyos.,
+#N/A,,IID_500G,Gold,0,0,0,0,0,0,---,-,---,500,,The currency of Elyos.,
+#N/A,,IID_600G,Gold,0,0,0,0,0,0,---,-,---,600,,The currency of Elyos.,
+#N/A,,IID_700G,Gold,0,0,0,0,0,0,---,-,---,700,,The currency of Elyos.,
+#N/A,,IID_800G,Gold,0,0,0,0,0,0,---,-,---,800,,The currency of Elyos.,
+#N/A,,IID_900G,Gold,0,0,0,0,0,0,---,-,---,900,,The currency of Elyos.,
+#N/A,,IID_1000G,Gold,0,0,0,0,0,0,---,-,---,1000,,The currency of Elyos.,
+#N/A,,IID_1100G,Gold,0,0,0,0,0,0,---,-,---,1100,,The currency of Elyos.,
+#N/A,,IID_1200G,Gold,0,0,0,0,0,0,---,-,---,1200,,The currency of Elyos.,
+#N/A,,IID_1300G,Gold,0,0,0,0,0,0,---,-,---,1300,,The currency of Elyos.,
+#N/A,,IID_1400G,Gold,0,0,0,0,0,0,---,-,---,1400,,The currency of Elyos.,
+#N/A,,IID_1500G,Gold,0,0,0,0,0,0,---,-,---,1500,,The currency of Elyos.,
+#N/A,,IID_1600G,Gold,0,0,0,0,0,0,---,-,---,1600,,The currency of Elyos.,
+#N/A,,IID_1700G,Gold,0,0,0,0,0,0,---,-,---,1700,,The currency of Elyos.,
+#N/A,,IID_1800G,Gold,0,0,0,0,0,0,---,-,---,1800,,The currency of Elyos.,
+#N/A,,IID_1900G,Gold,0,0,0,0,0,0,---,-,---,1900,,The currency of Elyos.,
+#N/A,,IID_2000G,Gold,0,0,0,0,0,0,---,-,---,2000,,The currency of Elyos.,
+#N/A,,IID_3000G,Gold,0,0,0,0,0,0,---,-,---,3000,,The currency of Elyos.,
+#N/A,,IID_5000G,Gold,0,0,0,0,0,0,---,-,---,5000,,The currency of Elyos.,
+#N/A,,IID_7000G,Gold,0,0,0,0,0,0,---,-,---,7000,,The currency of Elyos.,
+#N/A,,IID_10000G,Gold,0,0,0,0,0,0,---,-,---,10000,,The currency of Elyos.,
+#N/A,,IID_20000G,Gold,0,0,0,0,0,0,---,-,---,20000,,The currency of Elyos.,
+#N/A,,IID_50000G,Gold,0,0,0,0,0,0,---,-,---,50000,,The currency of Elyos.,
+Beef,,IID_牛肉,Item,0,0,0,0,0,0,---,-,1,100,,Robust red meat from a cow. Brodia exports a deluxe brand that comes with a hefty price tag.,
+Pork,,IID_豚肉,Item,0,0,0,0,0,0,---,-,1,100,,Meat from a pig. This common meat is popular due to its availability and low cost.,
+Chicken,,IID_鶏肉,Item,0,0,0,0,0,0,---,-,1,100,,This meat is said to be an efficient source of nutrients for building muscle.,
+Mutton,"It's poisoned, j/k",IID_羊肉,Item,0,0,0,0,0,0,---,-,1,100,,Sheep meat with a distinctive aroma. People either love it or hate it.,
+Onion,,IID_タマネギ,Item,0,0,0,0,0,0,---,-,1,100,,"A vegetable found in the Somniel garden. It doesn't do well in heat, but it thrives in cold weather.",
+Cabbage,,IID_キャベツ,Item,0,0,0,0,0,0,---,-,1,100,,A vegetable found in the Somniel garden. It tastes slightly sweet when eaten raw.,
+Herb,,IID_ハーブ,Item,0,0,0,0,0,0,---,-,1,100,,An aromatic culinary addition that improves taste or adds an attractive garnish.,
+Tomato,,IID_トマト,Item,0,0,0,0,0,0,---,-,1,100,,"A popular vegetable most commonly grown in Firene, where they grow many appealing varieties.",
+Potato,,IID_芋,Item,0,0,0,0,0,0,---,-,1,100,,"Grown in Firene, Solm, and Brodia. This vegetable eased the postwar famine a thousand years ago.",
+Rare Vegetable,,IID_幻の野菜,Item,0,0,0,0,0,0,---,-,1,100,,"A strange vegetable said to bring good fortune. It grows in very few places, and it cannot be cultivated.",
+Wheat Flour,,IID_小麦,Item,0,0,0,0,0,0,---,-,1,100,,A common kitchen staple found in all manner of foods.,
+Apple,,IID_リンゴ,Item,0,0,0,0,0,0,---,-,1,100,,"A fruit found in the Somniel orchard. Popular since ancient times, it also appears in various fairy tales.",
+Orange,,IID_オレンジ,Item,0,0,0,0,0,0,---,-,1,100,,The most common fruit in Firene. It is a Firenese specialty and does not grow anywhere else.,
+Peach,,IID_モモ,Item,0,0,0,0,0,0,---,-,1,100,,A soft and delicious fruit grown exclusively in the Somniel orchard. It used to be gifted to visiting royals.,
+Grapes,,IID_ブドウ,Item,0,0,0,0,0,0,---,-,1,100,,"A fruit found in the Somniel orchard. It grows in bunches, so it is often shared in groups.",
+Berries,,IID_ベリー,Item,0,0,0,0,0,0,---,-,1,100,,A small fruit that grows in many regions. It is a familiar snack for the people of Firene and Brodia.,
+Rare Fruit,,IID_幻の果物,Item,0,0,0,0,0,0,---,-,1,100,,"A fruit found in very few regions. Sometimes called ""ghost fruit"" as the tree dies after a single season.",
+Nuts,,IID_木の実,Item,0,0,0,0,0,0,---,-,1,100,,A label used for all common tree nuts. Some are dried and some are very small.,
+Herring,,IID_ニシン,Item,0,0,0,0,0,0,---,-,1,100,,Samian herring that has been prepared for cooking.,
+Carp,,IID_コイ,Item,0,0,0,0,0,0,---,-,1,100,,Caria carp that has been prepared for cooking.,
+Salmon,,IID_サケ,Item,0,0,0,0,0,0,---,-,1,100,,Tipa salmon that has been prepared for cooking.,
+Cod,,IID_タラ,Item,0,0,0,0,0,0,---,-,1,100,,Valcamonic cod that has been prepared for cooking.,
+Eel,,IID_ウナギ,Item,0,0,0,0,0,0,---,-,1,100,,Myceen eel that has been prepared for cooking.,
+Sardines,,IID_イワシ,Item,0,0,0,0,0,0,---,-,1,100,,Big-eyed sardines that have been prepared for cooking.,
+Minced Fish,,IID_すり身,Item,0,0,0,0,0,0,---,-,1,100,,Fish chopped into small pieces.,
+Dried Fish,,IID_干物,Item,0,0,0,0,0,0,---,-,1,100,,A whole dried fish that has been prepared for cooking.,
+Sashimi,,IID_刺身,Item,0,0,0,0,0,0,---,-,1,100,,Fresh fish sliced into elegant pieces.,
+Rare Fish,,IID_幻の魚,Item,0,0,0,0,0,0,---,-,1,100,,Unusual fish found in the Somniel pond and prepared for cooking. It is rich in healthy nutrients.,
+Milk,,IID_ミルク,Item,0,0,0,0,0,0,---,-,1,100,,"Dairy from animals such as cows, goats, and sheep.",
+Eggs,,IID_タマゴ,Item,0,0,0,0,0,0,---,-,1,100,,A popular ingredient produced by a bird.,
+Rice,,IID_米,Item,0,0,0,0,0,0,---,-,1,100,,A common refined grain.,
+Beans,,IID_豆,Item,0,0,0,0,0,0,---,-,1,100,,Plant seeds used in cooking. They come in a variety of shapes and sizes.,
+Spices,,IID_スパイス,Item,0,0,0,0,0,0,---,-,1,100,,"Seasoning extracted from plants. Commonly used in cooking to adjust aroma, flavor, and color.",
+Tea Leaves,,IID_摘みたての茶葉,Item,0,0,0,0,0,0,---,-,1,500,,An artisan fills each tea bag by hand with freshly plucked leaves. Favored by fans of tea parties and cooking.,
+Dried Meat,,IID_硬い干し肉,Item,0,0,0,0,0,0,---,-,1,100,,A well-aged dried meat popular as a portable snack. Favored by fans of meat and folk food.,
+Yogurt,,IID_厳選ヨーグルト,Item,0,0,0,0,0,0,---,-,1,200,,"Made with the milk of select alpacas, one bite will transport you to green pastures. Favored by fans of dairy.",
+Roasted Yam,,IID_こだわりの焼き芋,Item,0,0,0,0,0,0,---,-,1,400,,Roasted in the open fire and made without seasoning to bring out its flavor. Favored by fans of yams.,
+Training Weight,,IID_鍛錬用の重り石,Item,0,0,0,0,0,0,---,-,1,600,,A stone weight that can be held by hand or tied to the leg. Favored by fans of training and exercise.,
+Muscle Balm,,IID_塗る筋肉増強剤,Item,0,0,0,0,0,0,---,-,1,300,,Apply to muscles after working out to avoid soreness. Favored by fans of training and exercise.,
+Animal Treats,,IID_動物用のマタタビ,Item,0,0,0,0,0,0,---,-,1,100,,A tightly sealed bottle of pungent treats that will draw all kinds of creatures. Favored by animal fans.,
+Sharp Chisel,,IID_よく切れる彫刻刀,Item,0,0,0,0,0,0,---,-,1,300,,A tool used to carve intricate designs on wood. Favored by fans of crafting and weapons.,
+Fairy-Tale Book,,IID_不思議な童話絵本,Item,0,0,0,0,0,0,---,-,1,450,,A picture book containing many short and wondrous tales. Favored by fans of reading and fairy tales.,
+Poetry Book,,IID_世界各国の詩集,Item,0,0,0,0,0,0,---,-,1,450,,A diverse book of poetry including submissions from the public. Favored by fans of reading and daydreaming.,
+Philosophy Book,,IID_難しい哲学書,Item,0,0,0,0,0,0,---,-,1,450,,A complex introductory text for students of reason and meaning. Favored by fans of studying.,
+Dragon Scripture,,IID_神竜聖書,Item,0,0,0,0,0,0,---,-,1,450,,Scripture written by Divine Dragon worshippers passed down through the ages. Favored by pious believers.,
+Elyos History,,IID_エレオスの歴史書,Item,0,0,0,0,0,0,---,-,1,450,,A thick book detailing the history of Elyos and its regions. Favored by fans of reading and studying.,
+Strong Perfume,,IID_強い香りの香水,Item,0,0,0,0,0,0,---,-,1,600,,A small bottle of perfume made from the essence of fruit and flowers. Favored by fans of fashion.,
+Butterfly Net,,IID_虫取り網,Item,0,0,0,0,0,0,---,-,1,200,,A light and long-handled net made especially for catching bugs. Favored by fans of animals and bugs.,
+Sun Visor,,IID_日よけ帽子,Item,0,0,0,0,0,0,---,-,1,200,,The visor protects the face and neck from sunburn. Favored by fans of exercise and walks as well.,
+Chrysanthemum,,IID_キクの花,Item,0,0,0,0,0,0,---,-,1,20,,This popular blossom is the national flower of Lythos. Favored by Lythian fans of flowers.,
+Lentil Flower,,IID_レンズマメの花,Item,0,0,0,0,0,0,---,-,1,20,,This popular blossom is the national flower of Firene. Favored by Firenese fans of flowers.,
+Lily,,IID_ユリの花,Item,0,0,0,0,0,0,---,-,1,20,,This popular blossom is the national flower of Brodia. Favored by Brodian fans of flowers.,
+Desert Marigold,,IID_コマツナの花,Item,0,0,0,0,0,0,---,-,1,20,,This popular blossom is the national flower of Solm. Favored by Solmic fans of flowers.,
+Lupine Flower,,IID_ルピナスの花,Item,0,0,0,0,0,0,---,-,1,20,,This popular blossom is the national flower of Elusia. Favored by Elusian fans of flowers.,
+White Clover,,IID_シロツメクサ,Item,0,0,0,0,0,0,---,-,1,20,,"Used for cooking. With luck, one can be found with four leaves. Favored by fans of cooking and herbs.",
+Horn,,IID_角笛,Item,0,0,0,0,0,0,---,-,1,600,,A hollow animal horn that makes a loud noise. Has no holes for playing notes. Favored by fans of music.,
+Flower Wreath,,IID_手作りの花輪,Item,0,0,0,0,0,0,---,-,1,150,,A handmade wreath often displayed on doors or walls. Favored by fans of flowers and cute things.,
+Cute Apron,,IID_可愛いエプロン,Item,0,0,0,0,0,0,---,-,1,350,,A charming pink apron embellished with embroidery and frills. Favored by fans of cooking and cute things.,
+Fishing Bait,,IID_釣り用の餌,Item,0,0,0,0,0,0,---,-,1,20,,Bait to lure fish made with the most appetizing worms. Favored by fans of fishing.,
+Utility Knife,,IID_多機能ナイフ,Item,0,0,0,0,0,0,---,-,1,500,,"A handy tool that includes a knife, scissors, etc. Favored by fans of crafting, weapons, and cool things.",
+Bear Carving,,IID_木彫りのクマ,Item,0,0,0,0,0,0,---,-,1,600,,The realistic details make this wooden ornament shine. Favored by fans of animals and cute things.,
+Sewing Kit,,IID_裁縫セット,Item,0,0,0,0,0,0,---,-,1,100,,"This compact, well-organized sewing kit is handy in a pinch. Favored by fans of sewing and knitting.",
+Sheep Wool,,IID_ヤギの毛糸玉,Item,0,0,0,0,0,0,---,-,1,40,,A soft ball of yarn spun from the fresh wool of young sheep. Favored by fans of sewing and knitting.,
+Quality Kerchief,,IID_上質なハンカチ,Item,0,0,0,0,0,0,---,-,1,700,,"A fancy handkerchief made from shiny, hand-woven cloth. Favored by fans of luxury, cleaning, and fashion.",
+Fine Quill Pen,,IID_高級な羽根ペン,Item,0,0,0,0,0,0,---,-,1,700,,"A one-of-a-kind quill pen made from a rare bird's feather. Favored by fans of luxury, studying, and writing.",
+Fancy Dagger,,IID_装飾入りの短剣,Item,0,0,0,0,0,0,---,-,1,500,,A decorative dagger with a finely wrought haft and sheath. Favored by fans of weapons.,
+Antler Earrings,,IID_シカ角の耳飾り,Item,0,0,0,0,0,0,---,-,1,450,,These eco-friendly earrings made from antlers shed by deer are popular in Solm. Favored by fans of fashion.,
+Playing Cards,,IID_卓上遊び用絵札,Item,0,0,0,0,0,0,---,-,1,350,,Picture cards used for various group games. Favored by children and fans of parties and games.,
+Spicy Seasonings,,IID_激辛調味料,Item,0,0,0,0,0,0,---,-,1,100,,Very spicy powdered red seeds that can add a kick to any dish. Favored by fans of spicy food and folk food.,
+Landscape Art,,IID_風景の絵葉書,Item,0,0,0,0,0,0,---,-,1,100,,A postcard depicting a beautiful landscape. There's space to write a note. Favored by fans of nature.,
+Lovely Candle,,IID_美しい蝋燭,Item,0,0,0,0,0,0,---,-,1,400,,"An exclusive candle etched by hand with an elaborate design. Favored by fans of fashion, luxury, and parties.",
+Field Guide,,IID_生き物図鑑,Item,0,0,0,0,0,0,---,-,1,450,,A thick encyclopedia detailing all kinds of creatures. Favored by fans of animals and bugs.,
+Spooky Scroll,,IID_怪しいお札,Item,0,0,0,0,0,0,---,-,1,10,,A rolled-up parchment inscribed with weird symbols to ward off spirits. Favored by fans of scary stories.,
+Large Plate,,IID_大きなお皿,Item,0,0,0,0,0,0,---,-,1,100,,A large and practical plate that holds food for multiple people. Favored by fans of cooking and parties.,
+Bandages,,IID_包帯,Item,0,0,0,0,0,0,---,-,1,80,,Mainly used for tending wounds or bracing joints and muscles to prevent injury. Favored by fans of training.,
+Pretty Pebble,,IID_綺麗な石ころ,Item,0,0,0,0,0,0,---,-,1,100,,"A round, smooth, and pretty rock found lying on the ground.",
+Spirit Gem,,IID_守り神の宝石,Item,0,0,0,0,0,0,---,-,1,100,,"A gem that shines with many colors. Found only in the Somniel, especially near \0. Favored by all.",
+Horse Manure,,IID_馬糞,Item,0,0,0,0,0,0,---,-,1,100,,"Ordinary horse manure. That's it. You could technically give it to someone, but why would you?",
+Modest Rod,,IID_釣り竿Ⅰ,Item,0,0,0,0,0,0,---,-,---,100,,A simple rod suited for catching small fish. Its lack of flexibility lets you catch fish with less force.,
+Sturdy Rod,,IID_釣り竿Ⅱ,Item,0,0,0,0,0,0,---,-,---,500,,An advanced rod suited for catching mid-sized fish. The rod bends when heavy fish bite so it will not break.,
+Supreme Rod,,IID_釣り竿Ⅲ,Item,0,0,0,0,0,0,---,-,---,800,,A powerful rod that can handle any large fish. Small fish won't even bite. Built exclusively for master anglers.,
+Rapier,,IID_マルス_レイピア,Sword,7,95,0,3,20,0,1,D,---,100,,"Sword wielded by Emblem Marth. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Rapier,Normal,IID_マルス_レイピア_通常,Sword,12,95,0,3,20,0,1,D,---,100,,"Sword wielded by Emblem Marth. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Mercurius,,IID_マルス_メリクルソード,Sword,12,80,0,7,0,0,1,D,---,100,,Sword wielded by Emblem Marth. Doubles user's earned experience.,(Double Experience)
+Mercurius,Normal,IID_マルス_メリクルソード_通常,Sword,18,80,0,7,0,0,1,D,---,100,,Sword wielded by Emblem Marth. Doubles user's earned experience.,(Double Experience)
+Falchion,,IID_マルス_ファルシオン,Sword,12,100,0,10,0,0,1,D,---,100,,Sacred sword wielded by Emblem Marth. Effective: Dragon.,(Effective: Dragon)
+Falchion,Normal,IID_マルス_ファルシオン_通常,Sword,12,100,0,10,0,0,1,D,---,100,,Sacred sword wielded by Emblem Marth. Effective: Dragon.,(Effective: Dragon)
+Falchion,Prologue,IID_マルス_ファルシオン_M000,Sword,12,100,0,10,0,0,1,D,---,100,,An exalted legendary weapon. Effective: Dragon.,(Effective: Dragon)
+Ridersbane,,IID_シグルド_ナイトキラー,Lance,10,75,0,6,0,0,1,D,---,100,,Lance wielded by Emblem Sigurd. Effective: Cavalry.,(Effective: Cavalry)
+Ridersbane,Normal,IID_シグルド_ナイトキラー_通常,Lance,10,75,0,6,0,0,1,D,---,100,,Lance wielded by Emblem Sigurd. Effective: Cavalry.,(Effective: Cavalry)
+Brave Lance,,IID_シグルド_ゆうしゃのやり,Lance,7,60,0,12,0,0,1,D,---,100,,"Lance wielded by Emblem Sigurd. If user initiates combat, attacks twice.",(2x Attack)
+Brave Lance,Normal,IID_シグルド_ゆうしゃのやり_通常,Lance,7,60,0,12,0,0,1,D,---,100,,"Lance wielded by Emblem Sigurd. If user initiates combat, attacks twice.",(2x Attack)
+Tyrfing,,IID_シグルド_ティルフィング,Sword,15,80,0,7,0,0,1,D,---,100,,Sword wielded by Emblem Sigurd. Grants Res+5.,
+Tyrfing,Normal,IID_シグルド_ティルフィング_通常,Sword,12,80,0,7,0,0,1,D,---,100,,Sword wielded by Emblem Sigurd.,
+Seraphim,,IID_セリカ_エンジェル,Tome,6,90,0,4,0,0,1~2,D,---,100,,Holy tome wielded by Emblem Celica. Effective: Corrupted.,(Effective: Corrupted)
+Seraphim,Normal,IID_セリカ_エンジェル_通常,Tome,6,90,0,4,0,0,1~2,D,---,100,,Holy tome wielded by Emblem Celica. Effective: Corrupted.,(Effective: Corrupted)
+Recover,,IID_セリカ_リカバー,Staff,40,100,0,0,0,0,1,D,---,100,40,Staff wielded by Emblem Celica. Recovers a great deal of HP.,
+Recover,Normal,IID_セリカ_リカバー_通常,Staff,40,100,0,0,0,0,1,D,---,100,40,Staff wielded by Emblem Celica. Recovers a great deal of HP.,
+Ragnarok,,IID_セリカ_ライナロック,Tome,15,95,10,12,0,0,1~2,D,---,100,,Mighty fire tome wielded by Emblem Celica.,
+Ragnarok,Normal,IID_セリカ_ライナロック_通常,Tome,15,95,10,12,0,0,1~2,D,---,100,,Mighty fire tome wielded by Emblem Celica.,
+Shine,,IID_ミカヤ_シャイン,Tome,7,90,10,5,0,0,1~2,D,---,100,,Light tome wielded by Emblem Micaiah. Illuminates a 5-space radius (shrinks one space per turn).,
+Shine,Normal,IID_ミカヤ_シャイン_通常,Tome,7,90,10,5,0,0,1~2,D,---,100,,Light tome wielded by Emblem Micaiah. Illuminates a 5-space radius (shrinks one space per turn).,
+Nosferatu,,IID_ミカヤ_リザイア,Tome,9,85,0,7,0,0,1~2,D,---,100,,Light tome wielded by Emblem Micaiah. User recovers HP equal to 50% of damage dealt.,(Nosferatu)
+Nosferatu,Normal,IID_ミカヤ_リザイア_通常,Tome,9,85,0,7,0,0,1~2,D,---,100,,Light tome wielded by Emblem Micaiah. User recovers HP equal to 50% of damage dealt.,(Nosferatu)
+Thani,,IID_ミカヤ_セイニー,Tome,11,100,0,6,0,0,1~2,D,---,100,,"Mighty light tome wielded by Emblem Micaiah. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Thani,Normal,IID_ミカヤ_セイニー_通常,Tome,11,100,0,6,0,0,1~2,D,---,100,,"Mighty light tome wielded by Emblem Micaiah. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Sacrifice,,IID_癒しの手,Staff,255,100,0,0,0,0,Inf,-,---,100,25,#N/A,
+Sacrifice,Armor,IID_癒しの手_重装,Staff,255,100,0,0,0,0,Inf,-,---,100,25,#N/A,
+Sacrifice,Qi Adept,IID_癒しの手_気功,Staff,255,0,0,0,0,0,Inf,-,---,100,25,#N/A,
+Lancereaver,,IID_ロイ_ランスバスター,Sword,9,80,5,9,0,0,1,D,---,100,,Unusual sword wielded by Emblem Roy. Grants advantage vs. lances but disadvantage vs. axes.,
+Lancereaver,Normal,IID_ロイ_ランスバスター_通常,Sword,9,80,5,9,0,0,1,D,---,100,,Unusual sword wielded by Emblem Roy. Grants advantage vs. lances but disadvantage vs. axes.,
+Wyrmslayer,,IID_ロイ_ドラゴンキラー,Sword,10,70,0,5,0,0,1,D,---,100,,Sword wielded by Emblem Roy. Effective: Dragon.,(Effective: Dragon)
+Wyrmslayer,Normal,IID_ロイ_ドラゴンキラー_通常,Sword,10,70,0,5,0,0,1,D,---,100,,Sword wielded by Emblem Roy. Effective: Dragon.,(Effective: Dragon)
+Binding Blade,,IID_ロイ_封印の剣,Sword,14,95,10,8,0,0,1~2,D,---,100,,Famous sword wielded by Emblem Roy. Grants Def/Res+5. Can strike close or at range.,
+Binding Blade,Normal,IID_ロイ_封印の剣_通常,Sword,14,95,10,8,0,0,1~2,D,---,100,,Famous sword wielded by Emblem Roy. Grants Def/Res+5. Can strike close or at range.,
+Killer Axe,,IID_リーフ_キラーアクス,Axe,11,65,30,11,0,0,1,D,---,100,,Axe wielded by Emblem Leif. Easily inflicts fatal wounds.,
+Killer Axe,Normal,IID_リーフ_キラーアクス_通常,Axe,11,65,30,11,0,0,1,D,---,100,,Axe wielded by Emblem Leif. Easily inflicts fatal wounds.,
+Killer Axe,Chapter 8,IID_リーフ_キラーアクス_M008,Axe,11,65,30,11,0,0,1,D,---,100,,An Emblem's axe. Easy to inflict a fatal wound with.,
+Killer Axe,Normal Ch 11,IID_リーフ_キラーアクス_M011,Axe,11,65,10,11,0,0,1,D,---,100,,Axe wielded by Emblem Leif. Easily inflicts fatal wounds.,
+Master Lance,,IID_リーフ_マスターランス,Lance,7,55,0,16,0,0,1~2,D,---,100,,"Lance wielded by Emblem Leif. If user initiates combat, attacks twice. Can strike close or at range.",(2x Attack)
+Master Lance,Normal,IID_リーフ_マスターランス_通常,Lance,7,55,0,16,0,0,1~2,D,---,100,,"Lance wielded by Emblem Leif. If user initiates combat, attacks twice. Can strike close or at range.",(2x Attack)
+Master Lance,Chapter 8,IID_リーフ_マスターランス_M008,Lance,7,55,0,16,0,0,1~2,D,---,100,,"An Emblem's lance that can strike from a distance. If user initiates combat, attacks twice.",(2x Attack)
+Light Brand,,IID_リーフ_ひかりの剣,Sword,15,75,20,6,0,0,1~2,D,---,100,,Magical sword wielded by Emblem Leif. Grants Lck+10. Can strike close or at range.,
+Light Brand,Normal,IID_リーフ_ひかりの剣_通常,Sword,15,75,20,6,0,0,1~2,D,---,100,,Magical sword wielded by Emblem Leif. Grants Lck+10. Can strike close or at range.,
+Master Bow,,IID_リーフ_マスターボウ,Bow,6,65,0,14,0,0,1~2,D,---,100,,#N/A,(2x Attack)
+Noble Rapier,,IID_ルキナ_ノーブルレイピア,Sword,8,85,10,8,0,0,1,D,---,100,,"Sword wielded by Emblem Lucina. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Noble Rapier,Normal,IID_ルキナ_ノーブルレイピア_通常,Sword,8,85,10,8,0,0,1,D,---,100,,"Sword wielded by Emblem Lucina. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Noble Rapier,Chapter 7,IID_ルキナ_ノーブルレイピア_M007,Sword,8,85,10,8,0,0,1,D,---,100,,"An Emblem's sword. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Parthia,,IID_ルキナ_パルティア,Bow,17,95,5,14,0,0,2,D,---,100,,Bow wielded by Emblem Lucina. Doubles user's earned experience. Grants Res+5. Effective: Flying.,"(Effective: Flying), (Double Experience)"
+Parthia,Normal,IID_ルキナ_パルティア_通常,Bow,17,95,5,14,0,0,2,D,---,100,,Bow wielded by Emblem Lucina. Doubles user's earned experience. Grants Res+5. Effective: Flying.,"(Effective: Flying), (Double Experience)"
+Parallel Falchion,,IID_ルキナ_裏剣ファルシオン,Sword,10,80,5,10,0,0,1,D,---,100,,Sacred sword wielded by Emblem Lucina. Effective: Dragon.,(Effective: Dragon)
+Parallel Falchion,Normal,IID_ルキナ_裏剣ファルシオン_通常,Sword,10,80,5,10,0,0,1,D,---,100,,Sacred sword wielded by Emblem Lucina. Effective: Dragon.,(Effective: Dragon)
+Killer Bow,,IID_リン_キラーボウ,Bow,9,75,30,7,0,0,2,D,---,100,,Bow wielded by Emblem Lyn. Easily inflicts fatal wounds. Effective: Flying.,(Effective: Flying)
+Killer Bow,Normal,IID_リン_キラーボウ_通常,Bow,7,75,0,7,0,0,2,D,---,100,,Bow wielded by Emblem Lyn. Effective: Flying.,(Effective: Flying)
+Killer Bow,Chapter 10,IID_リン_キラーボウ_M010,Bow,9,75,10,7,0,0,2,D,---,100,,An Emblem's bow. Easy to inflict a fatal wound with. Effective: Flying.,(Effective: Flying)
+Mani Katti,,IID_リン_マーニ・カティ,Sword,6,80,20,5,0,0,1,D,---,100,,"Divine sword wielded by Emblem Lyn. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Mani Katti,Normal,IID_リン_マーニ・カティ_通常,Sword,6,80,0,5,0,0,1,D,---,100,,"Divine sword wielded by Emblem Lyn. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Mani Katti,Chapter 10,IID_リン_マーニ・カティ_M010,Sword,6,80,5,5,0,0,1,D,---,100,,"Divine sword wielded by Emblem Lyn. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Mani Katti,Doubles,IID_残像_マーニ・カティ,Sword,6,80,20,5,0,0,1,D,---,100,,"Divine sword wielded by Emblem Lyn. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Mulagir,,IID_リン_ミュルグレ,Bow,16,80,0,9,0,0,2,D,---,100,,"Mighty bow wielded by Emblem Lyn. Grants Spd+5. Effective: Flying, Dragon.","(Effective: Flying), (Effective: Dragon)"
+Mulagir,Normal,IID_リン_ミュルグレ_通常,Bow,16,80,0,9,0,0,2,D,---,100,,"Mighty bow wielded by Emblem Lyn. Grants Spd+5. Effective: Flying, Dragon.","(Effective: Flying), (Effective: Dragon)"
+Hammer,,IID_アイク_ハンマー,Axe,18,55,0,15,0,0,1,D,---,100,,"Hammer of Emblem Ike. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Armored.","(Effective: Armor), (Smash)"
+Hammer,Normal,IID_アイク_ハンマー_通常,Axe,18,55,0,15,0,0,1,D,---,100,,"Hammer of Emblem Ike. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Armored.","(Effective: Armor), (Smash)"
+Urvan,,IID_アイク_ウルヴァン,Axe,21,90,5,19,0,0,1,D,---,100,,Heirloom axe wielded by Emblem Ike. Grants Res+3.,
+Urvan,Normal,IID_アイク_ウルヴァン_通常,Axe,21,90,5,19,0,0,1,D,---,100,,Heirloom axe wielded by Emblem Ike. Grants Res+3.,
+Ragnell,,IID_アイク_ラグネル,Sword,16,80,5,15,0,0,1~2,D,---,100,,Sacred sword wielded by Emblem Ike. Grants Def+5. Can strike close or at range.,
+Ragnell,Normal,IID_アイク_ラグネル_通常,Sword,16,80,5,15,0,0,1~2,D,---,100,,Sacred sword wielded by Emblem Ike. Grants Def+5. Can strike close or at range.,
+Aymr,,IID_ベレト_アイムール,Axe,24,60,20,11,0,0,1,D,---,100,,"Axe of Emblem Byleth. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Dragon.","(Effective: Dragon), (Smash)"
+Blutgang,,IID_ベレト_ブルトガング,Sword,8,80,0,7,0,0,1,D,---,100,,"Magical sword wielded by Emblem Byleth. Effective: Dragon, Cavalry.","(Effective: Dragon), (Effective: Cavalry)"
+Blutgang,Normal,IID_ベレト_ブルトガング_通常,Sword,8,80,0,7,0,0,1,D,---,100,,"Magical sword wielded by Emblem Byleth. Effective: Dragon, Cavalry.","(Effective: Dragon), (Effective: Cavalry)"
+Lúin,,IID_ベレト_ルーン,Lance,11,90,10,9,0,0,1,D,---,100,,Lance wielded by Emblem Byleth. Raises damage based on user's Spd. Effective: Dragon.,"(Effective: Dragon), (Might Up with Speed)"
+Lúin,Chapter 10,IID_ベレト_ルーン_M010,Lance,11,90,10,9,0,0,1,D,---,100,,An Emblem's lance. Raises damage based on user's Spd. Effective: Dragon.,"(Effective: Dragon), (Might Up with Speed)"
+Areadbhar,,IID_ベレト_アラドヴァル,Lance,14,75,10,9,0,0,1,D,---,100,,"Lance wielded by Emblem Byleth. If user initiates combat, grants Mt+50%.",(Weapon Might Up on Offense)
+Aegis Shield,,IID_ベレト_アイギスの盾,Item,0,0,0,0,0,0,---,D,---,100,,Shield wielded by Emblem Byleth. Grants Def+6 and Res+3. May halve damage if carried. Trigger %=Dex.,
+Failnaught,,IID_ベレト_フェイルノート,Bow,13,75,20,9,0,0,2~3,D,---,100,,"Bow wielded by Emblem Byleth. If user initiates combat, grants Avo+20. Effective: Dragon, Flying.","(Effective: Dragon), (Effective: Flying), (Avoid +20 on Offense)"
+Thyrsus,,IID_ベレト_テュルソスの杖,Item,0,0,0,0,0,0,---,D,---,100,,Staff wielded by Emblem Byleth. Grants magic range +2. May halve damage if carried.,
+Rafail Gem,,IID_ベレト_ラファイルの宝珠,Item,0,0,0,0,0,0,---,D,---,100,,Relic gem of Emblem Byleth. User is immune to Effective and critical hits. May halve damage if carried.,
+Vajra-Mushti,,IID_ベレト_ヴァジュラ,Arts,5,90,10,7,0,0,1,D,---,100,,"Gauntlets wielded by Emblem Byleth. If user initiates combat, attacks twice. Uses lowest of foe's Def/Res.","(2x Attack), (Qi Adept), (Change Attacking Weakness)"
+Vajra-Mushti,Normal,IID_ベレト_ヴァジュラ_通常,Arts,5,90,10,7,0,0,1,D,---,100,,"Gauntlets wielded by Emblem Byleth. If user initiates combat, attacks twice. Uses lowest of foe's Def/Res.","(2x Attack), (Qi Adept), (Change Attacking Weakness)"
+Sword of the Creator,,IID_ベレト_天帝の覇剣,Sword,11,90,10,7,0,0,1~2,D,---,100,,Sword of Emblem Byleth. Raises damage with user's Mag. Can strike close or at range. Effective: Dragon,"(Effective: Dragon), (Might Up with Magic)"
+Sword of the Creator,Normal,IID_ベレト_天帝の覇剣_通常,Sword,11,90,10,7,0,0,1~2,D,---,100,,Sword of Emblem Byleth. Raises damage with user's Mag. Can strike close or at range. Effective: Dragon,"(Effective: Dragon), (Might Up with Magic)"
+Sword of the Creator,Chapter 14,IID_ベレト_天帝の覇剣_M014,Sword,11,90,10,7,0,0,1~2,D,---,100,,An Emblem's sword. Raises damage with user's Mag. Can strike close or at range. Effective: Dragon,"(Effective: Dragon), (Might Up with Magic)"
+Goddess Dance,,IID_女神の舞,Staff,0,0,0,0,0,0,1,-,---,100,30,#N/A,
+Diabolical Dance,,IID_女神の舞_闇,Staff,0,0,0,0,0,0,1~2,-,---,100,30,#N/A,
+Dual Katana,,IID_カムイ_逆刀,Sword,8,75,5,7,0,0,1,D,---,100,,Unusual sword wielded by Emblem Corrin. Grants advantage vs. lances but disadvantage vs. axes.,
+Dual Katana,Normal,IID_カムイ_逆刀_通常,Sword,8,75,5,7,0,0,1,D,---,100,,Unusual sword wielded by Emblem Corrin. Grants advantage vs. lances but disadvantage vs. axes.,
+Wakizashi,,IID_カムイ_飛刀,Sword,10,75,0,10,-10,0,2,D,---,100,,"Throwing sword wielded by Emblem Corrin. Can only strike at range, not close up.",
+Wakizashi,Normal,IID_カムイ_飛刀_通常,Sword,10,75,0,10,-10,0,2,D,---,100,,"Throwing sword wielded by Emblem Corrin. Can only strike at range, not close up.",
+Yato,,IID_カムイ_夜刀神,Sword,16,85,10,9,10,10,1,D,---,100,,Sacred sword wielded by Emblem Corrin.,
+Yato,Normal,IID_カムイ_夜刀神_通常,Sword,16,85,10,9,10,10,1,D,---,100,,Sacred sword wielded by Emblem Corrin.,
+Dragon Fang,,IID_カムイ_竜穿,Special,20,100,0,7,0,0,1,D,---,100,,Skill wielded by Emblem Corrin.,
+Rapier,,IID_エイリーク_レイピア,Sword,7,95,10,5,0,0,1,D,---,100,,"Sword wielded by Emblem Eirika. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Rapier,Normal,IID_エイリーク_レイピア_通常,Sword,7,95,10,5,0,0,1,D,---,100,,"Sword wielded by Emblem Eirika. Effective: Cavalry, Armored.","(Effective: Cavalry), (Effective: Armor)"
+Wind Sword,,IID_エイリーク_かぜの剣,Sword,10,70,0,9,0,0,1~2,D,---,100,,Magical sword wielded by Emblem Eirika. Can strike close or at range. Effective: Flying.,(Effective: Flying)
+Wind Sword,Normal,IID_エイリーク_かぜの剣_通常,Sword,10,70,0,9,0,0,1~2,D,---,100,,Magical sword wielded by Emblem Eirika. Can strike close or at range. Effective: Flying.,(Effective: Flying)
+Sieglinde,,IID_エイリーク_ジークリンデ,Sword,12,90,0,9,0,0,1,D,---,100,,Paired sword wielded by Emblem Eirika. Effective: Corrupted.,(Effective: Corrupted)
+Sieglinde,Normal,IID_エイリーク_ジークリンデ_通常,Sword,12,90,0,9,0,0,1,D,---,100,,Paired sword wielded by Emblem Eirika. Effective: Corrupted.,(Effective: Corrupted)
+Siegmund,,IID_エフラム_ジークムント,Lance,13,80,0,11,0,0,1,D,---,100,,Paired lance wielded by Emblem Ephraim. Effective: Corrupted.,(Effective: Corrupted)
+Oligoludia,Alear,IID_リュール_オリゴルディア,Sword,8,90,0,7,0,0,1,D,---,100,,Sword wielded by Emblem \0. Effective: Corrupted.,(Effective: Corrupted)
+Oligoludia,Alear,IID_リュール_オリゴルディア_通常,Sword,8,90,0,7,0,0,1,D,---,100,,Sword wielded by Emblem \0. Effective: Corrupted.,(Effective: Corrupted)
+Dragon's Fist,Alear,IID_リュール_竜神の法,Arts,10,85,0,9,0,0,1,D,---,100,,"Magical attack wielded by Emblem \0. If user initiates combat, attacks twice. (Uses Mag.)",(2x Attack)
+Dragon's Fist,Alear,IID_リュール_竜神の法_通常,Arts,10,85,0,9,0,0,1,D,---,100,,"Magical attack wielded by Emblem \0. If user initiates combat, attacks twice. (Uses Mag.)",(2x Attack)
+Lyrátion,Alear,IID_リュール_ライラシオン,Sword,15,90,10,10,0,0,1,D,---,100,,"Sword of Emblem \0. If user defeats foe in player phase, fills adjacent allies' engage meters by 1.",(Share Engage Count+1 on KO)
+Lyrátion,Alear,IID_リュール_ライラシオン_通常,Sword,15,90,10,10,0,0,1,D,---,100,,"Sword of Emblem \0. If user defeats foe in player phase, fills adjacent allies' engage meters by 1.",(Share Engage Count+1 on KO)
+#N/A,Alear Beam,IID_リュール_ビーム,Special,20,100,0,5,0,0,1,D,---,100,,#N/A,
+#N/A,Marth Falchion N Black,IID_マルス_ファルシオン_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Sigurd Tyrfing N Black,IID_シグルド_ティルフィング_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Leif Light Brand N Black,IID_リーフ_ひかりの剣_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Roy Binding Blade N Black,IID_ロイ_封印の剣_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Eirika Sieglinde N Black,IID_エイリーク_ジークリンデ_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Ike Ragnell N Black,IID_アイク_ラグネル_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Lucina P Falchion N Black,IID_ルキナ_裏剣ファルシオン_通常黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Corrin Yato Sync,IID_カムイ_夜刀神_シンクロ専用,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Corrin Yato Sync Black,IID_カムイ_夜刀神_シンクロ専用黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Byleth Creator Sword Sync,IID_ベレト_天帝の剣_シンクロ専用,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Byleth Creator Sword Sync Black,IID_ベレト_天帝の剣_シンクロ専用黒,Sword,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Lyn Murgleis N Black,IID_リン_ミュルグレ_通常黒,Bow,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Micaiah Thani N Black,IID_ミカヤ_セイニー_通常黒,Tome,0,0,0,0,0,0,---,-,---,100,,#N/A,
+Aymr,,IID_三級長_アイムール,Axe,24,60,20,11,0,0,1,D,---,100,,"Axe of Emblem Edelgard. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Dragon.","(Effective: Dragon), (Smash)"
+Aymr,Normal,IID_三級長_アイムール_通常,Axe,24,60,20,11,0,0,1,D,---,100,,"Axe of Emblem Edelgard. Smashes foes. Cannot follow up, or strike first if initiating combat. Eff: Dragon.","(Effective: Dragon), (Smash)"
+Areadbhar,,IID_三級長_アラドヴァル,Lance,14,75,10,9,0,0,1,D,---,100,,"Lance wielded by Emblem Dimitri. If user initiates combat, grants Mt+50%.","(Weapon Might Up on Offense), (House Leaders Areadbhar)"
+Areadbhar,Normal,IID_三級長_アラドヴァル_通常,Lance,14,75,10,9,0,0,1,D,---,100,,"Lance wielded by Emblem Dimitri. If user initiates combat, grants Mt+50%.","(Weapon Might Up on Offense), (House Leaders Areadbhar)"
+Failnaught,,IID_三級長_フェイルノート,Bow,13,75,20,9,0,0,2~3,D,---,100,,"Bow wielded by Emblem Claude. If user initiates combat, grants Avo+20. Effective: Dragon, Flying.","(Effective: Dragon), (Effective: Flying), (Avoid +20 on Offense)"
+Failnaught,Normal,IID_三級長_フェイルノート_通常,Bow,13,75,20,9,0,0,2~3,D,---,100,,"Bow wielded by Emblem Claude. If user initiates combat, grants Avo+20. Effective: Dragon, Flying.","(Effective: Dragon), (Effective: Flying), (Avoid +20 on Offense)"
+Eternal Claw,,IID_チキ_つめ,Special,10,90,30,8,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal,IID_チキ_つめ_通常,Special,10,90,30,8,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal Weakest,IID_チキ_つめ_通常_G001_最弱,Special,3,60,15,13,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal Weakest,IID_チキ_つめ_通常_G001_弱,Special,5,70,20,10,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal Mid,IID_チキ_つめ_通常_G001_微弱,Special,8,80,25,9,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal Strong,IID_チキ_つめ_通常_G001_強,Special,13,100,30,8,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Eternal Claw,Normal Strongest,IID_チキ_つめ_通常_G001_最強,Special,18,100,30,8,0,0,1,D,---,100,,Claw attack used by Emblem Tiki. Easily inflicts fatal wounds.,
+Tail Smash,,IID_チキ_しっぽ,Special,22,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal,IID_チキ_しっぽ_通常,Special,22,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal Weakest,IID_チキ_しっぽ_通常_G001_最弱,Special,14,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal Weakest,IID_チキ_しっぽ_通常_G001_弱,Special,17,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal Mid,IID_チキ_しっぽ_通常_G001_微強,Special,27,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal Strong,IID_チキ_しっぽ_通常_G001_強,Special,32,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Tail Smash,Normal Strongest,IID_チキ_しっぽ_通常_G001_最強,Special,35,85,0,13,0,0,1,D,---,100,,"Smash attack used by Emblem Tiki. Smashes foes. Cannot follow up, or strike first if initiating combat.",(Smash)
+Fire Breath,,IID_チキ_ブレス,Special,10,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Sets area on fire. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath)"
+Fog Breath,Dragon,IID_チキ_ブレス_竜族,Special,10,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+Ice Breath,Armor,IID_チキ_ブレス_重装,Special,10,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Freezes foes. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath)"
+Flame Breath,Flying,IID_チキ_ブレス_飛行,Special,10,75,0,15,0,0,1,D,---,100,,"Sets area on fire. Strikes foes at 70% damage and half Def. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath)"
+Dark Breath,Mystical,IID_チキ_ブレス_魔法,Special,10,75,0,15,0,0,1,D,---,100,,"Magically strikes foes in area at half Res. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath)"
+Fog Breath,Normal,IID_チキ_ブレス_通常,Special,10,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+Fog Breath,Normal Weakest,IID_チキ_ブレス_通常_G001_最弱,Special,2,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+Fog Breath,Normal Weakest,IID_チキ_ブレス_通常_G001_弱,Special,7,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+Fog Breath,Normal Strong,IID_チキ_ブレス_通常_G001_強,Special,13,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+Fog Breath,Normal Strongest,IID_チキ_ブレス_通常_G001_最強,Special,16,75,0,15,0,0,1,D,---,100,,"Strikes foes in area at half Def. Eff: Dragon. Creates fog. Cannot follow up, or strike first if initiating combat.","(Halve Foe Defenses), (Tiki Breath), (Effective: Dragon)"
+#N/A,Tiki Sync,IID_チキ_シンクロ武器,Special,0,0,0,0,0,0,---,D,---,100,,#N/A,
+Divine Blessing,,IID_祝福,Staff,0,0,0,0,0,0,1,D,---,100,40,#N/A,
+Divine Blessing,Dragon,IID_祝福_竜族,Staff,20,0,0,0,0,0,1,D,---,100,40,#N/A,
+Divine Blessing,Qi Adept,IID_祝福_気功,Staff,0,0,0,0,0,0,1,D,---,100,40,#N/A,
+Divine Blessing+,,IID_祝福＋,Staff,0,0,0,0,0,0,1,D,---,100,45,#N/A,
+Divine Blessing+,Dragon,IID_祝福＋_竜族,Staff,20,0,0,0,0,0,1,D,---,100,45,#N/A,
+Divine Blessing+,Qi Adept,IID_祝福＋_気功,Staff,0,0,0,0,0,0,1,D,---,100,45,#N/A,
+Wolf Beil,,IID_ヘクトル_ヴォルフバイル,Axe,10,75,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,,IID_ヘクトル_ヴォルフバイル_通常,Axe,10,70,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Low Hit,IID_ヘクトル_ヴォルフバイル_通常_G002_低命中,Axe,10,70,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Weakest Low Hit,IID_ヘクトル_ヴォルフバイル_通常_G002_最弱_低命中,Axe,5,70,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Weakest Low Hit,IID_ヘクトル_ヴォルフバイル_通常_G002_最弱,Axe,5,75,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Weak Low Hit,IID_ヘクトル_ヴォルフバイル_通常_G002_弱_低命中,Axe,8,70,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Weak,IID_ヘクトル_ヴォルフバイル_通常_G002_弱,Axe,8,75,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Strong,IID_ヘクトル_ヴォルフバイル_通常_G002_強,Axe,13,75,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Wolf Beil,DP2 Strongest,IID_ヘクトル_ヴォルフバイル_通常_G002_最強,Axe,16,75,5,10,0,0,1,D,---,100,,"Axe wielded by Emblem Hector. Effective: Cavalry, Armored.",
+Runesword,,IID_ヘクトル_ルーンソード,Sword,12,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Normal,IID_ヘクトル_ルーンソード_通常,Sword,12,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Normal DP2 Weakest,IID_ヘクトル_ルーンソード_通常_G002_最弱,Sword,7,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Normal DP2 Weak,IID_ヘクトル_ルーンソード_通常_G002_弱,Sword,10,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Normal DP2 Strong,IID_ヘクトル_ルーンソード_通常_G002_強,Sword,15,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Normal DP2 Strongest,IID_ヘクトル_ルーンソード_通常_G002_最強,Sword,18,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Runesword,Dark,IID_ヘクトル_ルーンソード_闇,Sword,16,65,0,11,0,0,1~2,D,---,100,,Magic sword of Emblem Hector. Can strike close or at range. Restore HP equal to 50% of damage dealt.,
+Armads,,IID_ヘクトル_アルマーズ,Axe,22,85,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal,IID_ヘクトル_アルマーズ_通常,Axe,22,85,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weakest Low Hit,IID_ヘクトル_アルマーズ_通常_G002_最弱_低命中,Axe,13,75,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weakest,IID_ヘクトル_アルマーズ_通常_G002_最弱,Axe,13,85,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weak Low Hit,IID_ヘクトル_アルマーズ_通常_G002_弱_低命中,Axe,16,75,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weak,IID_ヘクトル_アルマーズ_通常_G002_弱,Axe,16,85,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weakish Low Hit,IID_ヘクトル_アルマーズ_通常_G002_微弱_低命中,Axe,19,75,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Armads,Normal DP2 Weakish,IID_ヘクトル_アルマーズ_通常_G002_微弱,Axe,19,85,0,18,0,0,1,D,---,100,,Lightning-charged axe wielded by Emblem Hector. Grants Def+5. Effective: Dragon.,
+Bolting,,IID_セネリオ_サンダーストーム,Tome,2,50,0,15,0,0,3~10,D,---,100,,Long-range thunder magic wielded by Emblem Soren. Cannot follow up.,
+Bolting,Normal,IID_セネリオ_サンダーストーム_通常,Tome,2,50,0,15,0,0,3~10,D,---,100,,Long-range thunder magic wielded by Emblem Soren. Cannot follow up.,
+Bolting,Normal DP4 Weak,IID_セネリオ_サンダーストーム_通常_G004_弱,Tome,2,50,0,15,0,0,3~10,D,---,100,,Long-range thunder magic wielded by Emblem Soren. Cannot follow up.,
+Bolting,Normal DP4 Weakest,IID_セネリオ_サンダーストーム_通常_G004_最弱,Tome,1,50,0,15,0,0,3~10,D,---,100,,Long-range thunder magic wielded by Emblem Soren. Cannot follow up.,
+Bolting,Dark,IID_セネリオ_サンダーストーム_闇,Tome,10,65,0,8,0,0,3~10,D,---,100,,Long-range thunder magic wielded by Emblem Soren. Cannot follow up.,
+Reflect,,IID_セネリオ_マジックシールド,Staff,0,0,0,0,0,0,1~2,D,---,100,25,"Staff of Emblem Soren. Allies within 2 spaces gain ""deals 50% of magic damage taken back to foe"" for 1 turn.",
+Reflect,Normal,IID_セネリオ_マジックシールド_通常,Staff,0,0,0,0,0,0,1~2,D,---,100,25,"Staff of Emblem Soren. Allies within 2 spaces gain ""deals 50% of magic damage taken back to foe"" for 1 turn.",
+Rexcalibur,,IID_セネリオ_レクスカリバー,Tome,16,105,10,12,0,0,1~2,D,---,100,,Powerful wind magic wielded by Emblem Soren. Effective: Flying.,
+Rexcalibur,Normal,IID_セネリオ_レクスカリバー_通常,Tome,16,105,10,12,0,0,1~2,D,---,100,,Powerful wind magic wielded by Emblem Soren. Effective: Flying.,
+Rexcalibur,Normal DP4 Weakish,IID_セネリオ_レクスカリバー_通常_G004_微弱,Tome,13,105,10,12,0,0,1~2,D,---,100,,Powerful wind magic wielded by Emblem Soren. Effective: Flying.,
+Rexcalibur,Normal DP4 Weak,IID_セネリオ_レクスカリバー_通常_G004_弱,Tome,10,105,10,12,0,0,1~2,D,---,100,,Powerful wind magic wielded by Emblem Soren. Effective: Flying.,
+Rexcalibur,Normal DP4 Weakest,IID_セネリオ_レクスカリバー_通常_G004_最弱,Tome,6,105,10,12,0,0,1~2,D,---,100,,Powerful wind magic wielded by Emblem Soren. Effective: Flying.,
+Cataclysm,Wind Magic,IID_セネリオ_ディザスター_風魔法,Tome,4,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Cataclysm,Fire Magic,IID_セネリオ_ディザスター_炎魔法,Tome,4,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Cataclysm,Thunder Magic,IID_セネリオ_ディザスター_雷魔法,Tome,4,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Cataclysm,Wind Mag Dark,IID_セネリオ_ディザスター_風魔法闇,Tome,1,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Cataclysm,Fire Mag Dark,IID_セネリオ_ディザスター_炎魔法闇,Tome,1,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Cataclysm,Thunder Mag Dark,IID_セネリオ_ディザスター_雷魔法闇,Tome,1,100,0,10,0,0,1~3,D,---,100,,"Magic wielded by Emblem Soren. Fire, thunder, & wind attacks at 40% damage. Wind is effective: Flying.",
+Bolt Axe,,IID_カミラ_ボルトアクス,Axe,14,65,0,9,-20,0,1~2,D,---,100,,Magic axe wielded by Emblem Camilla. Can strike close or at range.,
+Bolt Axe,Normal,IID_カミラ_ボルトアクス_通常,Axe,14,65,0,9,-20,0,1~2,D,---,100,,Magic axe wielded by Emblem Camilla. Can strike close or at range.,
+Bolt Axe,Normal DP5,IID_カミラ_ボルトアクス_通常_G005,Axe,12,65,0,9,-20,0,1~2,D,---,100,,Magic axe wielded by Emblem Camilla. Can strike close or at range.,
+Bolt Axe,Normal DP5 Weak,IID_カミラ_ボルトアクス_通常_G005_弱,Axe,7,65,0,17,-20,0,1~2,D,---,100,,Magic axe wielded by Emblem Camilla. Can strike close or at range.,
+Lightning,,IID_カミラ_ライトニング,Tome,3,75,0,10,0,0,1~2,D,---,100,,"Magic wielded by Emblem Camilla. If user initiates combat, attacks twice.",
+Lightning,Normal,IID_カミラ_ライトニング_通常,Tome,3,75,0,10,0,0,1~2,D,---,100,,"Magic wielded by Emblem Camilla. If user initiates combat, attacks twice.",
+Lightning,Normal DP5 Weak,IID_カミラ_ライトニング_通常_G005_弱,Tome,1,75,0,10,0,0,1~2,D,---,100,,"Magic wielded by Emblem Camilla. If user initiates combat, attacks twice.",
+Camilla's Axe,,IID_カミラ_カミラの艶斧,Axe,19,80,0,11,0,0,1,D,---,100,,Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe's Res-Def.,
+Camilla's Axe,Normal,IID_カミラ_カミラの艶斧_通常,Axe,19,80,0,11,0,0,1,D,---,100,,Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe's Res-Def.,
+Camilla's Axe,Normal DP5 Weakish,IID_カミラ_カミラの艶斧_通常_G005_微弱,Axe,16,80,0,11,0,0,1,D,---,100,,Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe's Res-Def.,
+Camilla's Axe,Normal DP5 Weak,IID_カミラ_カミラの艶斧_通常_G005_弱,Axe,13,80,0,11,0,0,1,D,---,100,,Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe's Res-Def.,
+Camilla's Axe,Normal DP5 Weakest,IID_カミラ_カミラの艶斧_通常_G005_最弱,Axe,11,80,0,18,0,0,1,D,---,100,,Axe wielded by Emblem Camilla. Grants Res+10 and deals extra damage = foe's Res-Def.,
+#N/A,Silver Lance Sync,IID_三級長_銀の槍_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Silver Lance Sync Black,IID_三級長_銀の槍_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Killer Axe Sync,IID_三級長_キラーアクス_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Killer Axe Sync Black,IID_三級長_キラーアクス_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Wolf Beil Sync,IID_ヘクトル_ヘクトルの斧_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Wolf Beil Sync Black,IID_ヘクトル_ヘクトルの斧_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Camilla’s Axe Sync,IID_カミラ_カミラの艶斧_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Camilla’s Axe Sync Black,IID_カミラ_カミラの艶斧_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Iron Bow Sync,IID_三級長_鉄の弓_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Iron Bow Sync Black,IID_三級長_鉄の弓_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Rexcalibur Sync,IID_セネリオ_レクスカリバー_シンクロ専用,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
+#N/A,Rexcalibur Sync Black,IID_セネリオ_レクスカリバー_シンクロ専用黒,???,0,0,0,0,0,0,---,-,---,100,,#N/A,
