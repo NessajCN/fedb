@@ -57,8 +57,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
 //   createData("Gingerbread", 356),
 // ];
 
-export default function CombatStatsTables({ literals }: CharProps) {
-  const [stat, setStat] = useState();
+export default function CombatStatsTables({ literals, combatStats }: CharProps) {
   const rows = Object.entries(literals.stats.combat).map(([k, v]) => {
     return { title: v, statvalues: 10 };
   });

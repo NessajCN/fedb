@@ -10,11 +10,7 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
-import type { Literals } from "@/types/fetypes";
-
-type CharProps = {
-  literals: Literals;
-};
+import type { Literals, CharProps } from "@/types/fetypes";
 
 type Chars = keyof Literals["characters"];
 
@@ -26,7 +22,11 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 
-export default function CharSelDialog({ literals }: CharProps) {
+export default function CharSelDialog({
+  literals,
+  setGeneralStats,
+  setBasicStats,
+}: CharProps) {
   const [open, setOpen] = useState(false);
   const [char, setChar] = useState("");
 

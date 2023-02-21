@@ -20,7 +20,7 @@
     "stats": {
         "categories": {
             "general": "General Stats",
-            "basic":"Basic Stats",
+            "basic": "Basic Stats",
             "combat": "Combat Stats"
         },
         "basic": {
@@ -43,12 +43,12 @@
             "rng": "Rng"
         },
         "general": {
+            "lvl": "Lvl",
+            "intnllvl": "Intnl Lvl",
             "hp": "HP",
             "bld": "Bld",
             "sp": "SP",
-            "mov": "Mov",
-            "lvl": "Lvl",
-            "intllvl": "Intnl Lvl"
+            "mov": "Mov"
         }
     },
     "weapontypes": {

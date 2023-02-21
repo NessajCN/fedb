@@ -12,10 +12,10 @@ import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
 import type { Literals, CharProps } from "@/types/fetypes";
 
-// type CharProps = {
-//   literals: Literals;
-// };
-type Chars = keyof Literals["characters"];
+import charsdata from "@/assets/dataparsed/Chars.json";
+
+type CharKeys = keyof Literals["characters"];
+type Chars = keyof typeof charsdata;
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
@@ -25,7 +25,10 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 
-export default function CharSelDialog({ literals }: CharProps) {
+export default function CharSelDialog({
+  literals,
+  setCharStatBase,
+}: CharProps) {
   const [open, setOpen] = useState(false);
   const [char, setChar] = useState("");
 
@@ -63,13 +66,44 @@ export default function CharSelDialog({ literals }: CharProps) {
                     aria-labelledby={k.toLowerCase()}
                     sx={{ pl: 0 }}
                   >
-                    {Object.entries(literals.characters[k as Chars]).map(
+                    {Object.entries(literals.characters[k as CharKeys]).map(
                       ([kk, vv]) => (
                         <Button
                           variant="text"
-                          sx={{ width: "100%", fontSize: "12px", textTransform:"capitalize" }}
+                          sx={{
+                            width: "100%",
+                            fontSize: "12px",
+                            textTransform: "capitalize",
+                          }}
                           onClick={() => {
                             setChar(vv);
+                            const chardata = charsdata[kk as Chars];
+                            const charbase = {
+                              lvl: Number(chardata["Level"]),
+                              intnllvl: Number(chardata["Internal Level"]),
+                              hp: Number(chardata["HP Base"]),
+                              bld: Number(chardata["Bld Base"]),
+                              sp: Number(chardata["SP"]),
+                              mov: Number(chardata["Mov Base"]),
+                              str: Number(chardata["Str Base"]),
+                              mag: Number(chardata["Mag Base"]),
+                              dex: Number(chardata["Dex Base"]),
+                              spd: Number(chardata["Spd Base"]),
+                              def: Number(chardata["Def Base"]),
+                              res: Number(chardata["Res Base"]),
+                              lck: Number(chardata["Lck Base"]),
+                              rating: 0,
+                            };
+                            charbase.rating =
+                              charbase.str +
+                              charbase.mag +
+                              charbase.dex +
+                              charbase.spd +
+                              charbase.def +
+                              charbase.res +
+                              charbase.lck +
+                              charbase.bld;
+                            setCharStatBase && setCharStatBase(charbase);
                           }}
                           key={kk.toLowerCase()}
                         >

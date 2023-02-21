@@ -18,24 +18,38 @@
         "battlefields": "Battlefields"
     },
     "stats": {
-        "hp": "",
-        "str": "",
-        "mag": "",
-        "dex": "",
-        "spd": "",
-        "def": "",
-        "res": "",
-        "luck": "",
-        "bld": ""
-    },
-    "attribs": {
-        "hit": "",
-        "crit": "",
-        "dodge": "",
-        "critdodge": "",
-        "atkpwr": "",
-        "spellpwr": "",
-        "mov": ""
+        "categories": {
+            "general": "General Stats",
+            "basic": "Basic Stats",
+            "combat": "Combat Stats"
+        },
+        "basic": {
+            "str": "Str",
+            "mag": "Mag",
+            "dex": "Dex",
+            "spd": "Spd",
+            "def": "Def",
+            "res": "Res",
+            "lck": "Lck",
+            "rating": "Rating"
+        },
+        "combat": {
+            "phatk": "Ph Atk",
+            "magatk": "Mag Atk",
+            "hit": "Hit",
+            "avo": "Avo",
+            "crit": "Crit",
+            "dge": "Ddg",
+            "rng": "Rng"
+        },
+        "general": {
+            "lvl": "Lvl",
+            "intnllvl": "Intnl Lvl",
+            "hp": "HP",
+            "bld": "Bld",
+            "sp": "SP",
+            "mov": "Mov"
+        }
     },
     "weapontypes": {
         "sword": "Sword",
@@ -47,13 +61,90 @@
         "art": "Art"
     },
     "feclasses": {
-        "dragonchild": "Dragon Child",
-        "divinedragon": "Divine Dragon",
-        "fellchild": "Fell Child"
+        "classtype": {
+            "Dragon": "Dragon",
+            "QiAdept": "Qi Adept",
+            "Cavalry": "Cavalry",
+            "Backup": "Backup",
+            "Mystical": "Mystical",
+            "Covert": "Covert",
+            "Flying": "Flying",
+            "Armor": "Armor"
+        },
+        "Dragon": {
+            "dragonchild": "Dragon Child",
+            "divinedragon": "Divine Dragon",
+            "fellchild": "Fell Child"
+        },
+        "Cavalry": {
+            "noblealfred": "Noble(Alfred)",
+            "avenir": "Avenir",
+            "sentinelforgado": "Sentinel(Forgado)",
+            "cupido": "Cupido",
+            "royalknight": "Royal Knight",
+            "bowknight": "Bow Knight",
+            "greatknight": "Great Knight",
+            "swordcavalier": "Sword Cavalier",
+            "lancecavalier": "Lance Cavalier",
+            "axecavalier": "Axe Cavalier",
+            "paladin": "Paladin",
+            "wolfknight": "Wolf Knight",
+            "mageknight": "Mage Knight"
+        },
+        "Mystical": {
+            "nobleCéline": "Noble(Céline)",
+            "vidame": "Vidame",
+            "mage": "Mage",
+            "sage": "Sage",
+            "highpriest": "High Priest"
+        },
+        "Backup": {
+            "lorddiamant": "Lord(Diament)",
+            "successeur": "Successeur",
+            "sentineltimerra": "Sentinel(Timerra)",
+            "picket": "Picket",
+            "swordfighter": "Sword Fighter",
+            "swordmaster": "Swordmaster",
+            "hero": "Hero",
+            "lancefighter": "Lance Fighter",
+            "halberdier": "Halberdier",
+            "axefighter": "Axe Fighter",
+            "berserker": "Berserker",
+            "warrior": "Warrior"
+        },
+        "Covert": {
+            "lordalcryst": "Lord(Alcryst)",
+            "tireurdelite": "Tireur d'élite",
+            "archer": "Archer",
+            "sniper": "Sniper",
+            "thief": "Thief"
+        },
+        "Flying": {
+            "wingtamerivy": "Wing Tamer(Ivy)",
+            "lindwurm": "Lindwurm",
+            "wingtamerhortensia": "Wing Tamer(Hortensia)",
+            "sleipnirrider": "Sleipnir Rider",
+            "swordflier": "Sword Flier",
+            "lanceflier": "Lance Flier",
+            "axeflier": "Axe Flier",
+            "griffinknight": "Griffin Knight",
+            "wyvernknight": "Wyvern Knight"
+        },
+        "Armor": {
+            "swordarmor": "Sword Armor",
+            "lancearmor": "Lance Armor",
+            "axearmor": "Axe Armor",
+            "general": "General"
+        },
+        "QiAdept": {
+            "martialmonk": "Martial Monk",
+            "martialmaster": "Martial Master",
+            "dancer": "Dancer"
+        }
     },
     "characters": {
         "title": "Character select",
-        "description": "Choose a character to refer",
+        "description": "Choose a character",
         "faction": {
             "Lythos": "Lythos",
             "Firene": "Firene",
@@ -71,11 +162,11 @@
         },
         "Firene": {
             "Alfred": "Alfred",
-            "Celine": "Celine",
+            "Céline": "Céline",
             "Etie": "Etie",
             "Boucheron": "Boucheron",
             "Louis": "Louis",
-            "Chloe": "Chloe",
+            "Chloé": "Chloé",
             "Jean": "Jean"
         },
         "Brodia": {

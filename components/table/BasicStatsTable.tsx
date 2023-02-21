@@ -57,8 +57,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
 //   createData("Gingerbread", 356),
 // ];
 
-export default function BasicStatsTables({ literals }: CharProps) {
-  const [stat, setStat] = useState();
+export default function BasicStatsTables({ literals, basicStats }: CharProps) {
   const rows = Object.entries(literals.stats.basic).map(([k, v]) => {
     return { title: v, statvalues: 10 };
   });

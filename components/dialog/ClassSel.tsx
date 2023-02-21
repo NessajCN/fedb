@@ -10,11 +10,10 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
-import type { Literals } from "@/types/fetypes";
+import type { Literals, CharProps } from "@/types/fetypes";
 
-type CharProps = {
-  literals: Literals;
-};
+import classesdata from "@/assets/dataparsed/Class.json";
+
 type FEClasses = keyof Literals["feclasses"];
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -25,7 +24,10 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 
-export default function CharSelDialog({ literals }: CharProps) {
+export default function CharSelDialog({
+  literals,
+  setClassModifier
+}: CharProps) {
   const [open, setOpen] = useState(false);
   const [cls, setCls] = useState("");
 
@@ -36,7 +38,7 @@ export default function CharSelDialog({ literals }: CharProps) {
   const handleClose = () => {
     setOpen(false);
   };
-  
+
   return (
     <>
       <Button variant="text" sx={{ width: "100%" }} onClick={handleClickOpen}>
@@ -67,7 +69,11 @@ export default function CharSelDialog({ literals }: CharProps) {
                       ([kk, vv]) => (
                         <Button
                           variant="text"
-                          sx={{ width: "100%", fontSize: "12px", textTransform:"capitalize" }}
+                          sx={{
+                            width: "100%",
+                            fontSize: "12px",
+                            textTransform: "capitalize",
+                          }}
                           onClick={() => {
                             setCls(vv);
                           }}

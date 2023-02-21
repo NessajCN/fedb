@@ -9,8 +9,14 @@ import Link from "@mui/material/Link";
 import CharSelDialog from "../dialog/CharSel";
 import ClassSelDialog from "../dialog/ClassSel";
 import EblmSelDialog from "../dialog/EblmSel";
-import type { Literals, CharProps } from "@/types/fetypes";
-import { useState } from "react";
+import type {
+  Literals,
+  CharProps,
+  GeneralStats,
+  BasicStats,
+  CombatStats,
+} from "@/types/fetypes";
+import { useEffect, useState } from "react";
 import GeneralStatsTables from "../table/GeneralStatsTable";
 import BasicStatsTables from "../table/BasicStatsTable";
 import CombatStatsTables from "../table/CombatStatsTable";
@@ -24,9 +30,34 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 export default function Character({ literals }: CharProps) {
-  const [genarlStats, setGeneralStats] = useState<string>();
-  const [basicStats, setBasicStats] = useState<string>();
-  const [combatStats, setCombatStats] = useState<string>();
+  const [generalStats, setGeneralStats] = useState<GeneralStats>({
+    lvl: 0,
+    intnllvl: 0,
+    hp: 0,
+    bld: 0,
+    sp: 0,
+    mov: 0,
+  });
+  const [basicStats, setBasicStats] = useState<BasicStats>({
+    str: 0,
+    mag: 0,
+    dex: 0,
+    spd: 0,
+    def: 0,
+    res: 0,
+    lck: 0,
+    rating: 0,
+  });
+  const [combatStats, setCombatStats] = useState<CombatStats>();
+
+  const [charStatBase, setCharStatBase] = useState<GeneralStats & BasicStats>();
+  const [classModifier, setClassModifier] = useState<
+    GeneralStats & BasicStats
+  >();
+
+  useEffect(() => {
+    charStatBase && setGeneralStats(Object.fromEntries(Object.entries(charStatBase).slice(0,6)) as GeneralStats);
+  }, [charStatBase, classModifier]);
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -42,7 +73,10 @@ export default function Character({ literals }: CharProps) {
                 id="charname"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                <CharSelDialog literals={literals} />
+                <CharSelDialog
+                  literals={literals}
+                  setCharStatBase={setCharStatBase}
+                />
               </Box>
             </Item>
           </Grid>
@@ -52,7 +86,10 @@ export default function Character({ literals }: CharProps) {
                 id="charclass"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                <ClassSelDialog literals={literals} />
+                <ClassSelDialog
+                  literals={literals}
+                  setClassModifier={setClassModifier}
+                />
               </Box>
             </Item>
           </Grid>
@@ -62,16 +99,18 @@ export default function Character({ literals }: CharProps) {
                 id="emblem"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                <EblmSelDialog literals={literals} />
+                <EblmSelDialog
+                  literals={literals}
+                />
               </Box>
             </Item>
           </Grid>
           {/* <Item>Email subscribe section</Item> */}
         </Grid>
         <Grid container xs={12} md={10} lg={10} spacing={2}>
-          <GeneralStatsTables literals={literals} />
-          <BasicStatsTables literals={literals} />
-          <CombatStatsTables literals={literals} />
+          <GeneralStatsTables literals={literals} generalStats={generalStats} />
+          <BasicStatsTables literals={literals} basicStats={basicStats} />
+          <CombatStatsTables literals={literals} combatStats={combatStats} />
         </Grid>
         {/* <Grid container xs={12} md={10} lg={10} spacing={2}>
           {Object.entries(literals.stats.categories).map(([k, v]) => (

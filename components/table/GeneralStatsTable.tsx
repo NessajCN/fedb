@@ -12,7 +12,7 @@ import Grid from "@mui/material/Unstable_Grid2";
 import type { Literals, CharProps } from "@/types/fetypes";
 import { useState } from "react";
 
-type GeneralStats = keyof Literals["stats"]["general"];
+type GeneralStatKeys = keyof Literals["stats"]["general"];
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
@@ -57,10 +57,9 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
 //   createData("Gingerbread", 356),
 // ];
 
-export default function GeneralStatsTables({ literals }: CharProps) {
-  const [stat, setStat] = useState();
+export default function GeneralStatsTables({ literals, generalStats }: CharProps) {
   const rows = Object.entries(literals.stats.general).map(([k, v]) => {
-    return { title: v, statvalues: 10 };
+    return { title: v, statvalues: generalStats?generalStats[k as GeneralStatKeys]:"" };
   });
 
   return (
