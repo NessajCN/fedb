@@ -11,11 +11,15 @@ export type CharProps = {
   generalStats?: GeneralStats;
   basicStats?: BasicStats;
   combatStats?: CombatStats;
-  setGeneralStats?: Dispatch<SetStateAction<GeneralStats | undefined>>;
-  setBasicStats?: Dispatch<SetStateAction<BasicStats | undefined>>;
-  setCombatStats?: Dispatch<SetStateAction<CombatStats | undefined>>;
-  setCharStatBase?: Dispatch<SetStateAction<GeneralStats & BasicStats | undefined>>;
-  setClassModifier?: Dispatch<SetStateAction<GeneralStats & BasicStats | undefined>>;
+  char?: String;
+  cls?: String;
+  setChar?: Dispatch<SetStateAction<String>>;
+  setCls?: Dispatch<SetStateAction<String>>;
+  setGeneralStats?: Dispatch<SetStateAction<GeneralStats>>;
+  setBasicStats?: Dispatch<SetStateAction<BasicStats>>;
+  setCombatStats?: Dispatch<SetStateAction<CombatStats>>;
+  setCharStatBase?: Dispatch<SetStateAction<GeneralStats & BasicStats>>;
+  setClassModifier?: Dispatch<SetStateAction<GeneralStats & BasicStats>>;
 }
 
 export type GeneralStats = {

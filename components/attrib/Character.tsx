@@ -30,15 +30,15 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 export default function Character({ literals }: CharProps) {
-  const [generalStats, setGeneralStats] = useState<GeneralStats>({
+  const initialgenstats = {
     lvl: 0,
     intnllvl: 0,
     hp: 0,
     bld: 0,
     sp: 0,
     mov: 0,
-  });
-  const [basicStats, setBasicStats] = useState<BasicStats>({
+  };
+  const initialbasicstats = {
     str: 0,
     mag: 0,
     dex: 0,
@@ -47,17 +47,35 @@ export default function Character({ literals }: CharProps) {
     res: 0,
     lck: 0,
     rating: 0,
-  });
+  };
+  const initialstats = { ...initialgenstats, ...initialbasicstats };
+  const [generalStats, setGeneralStats] =
+    useState<GeneralStats>(initialgenstats);
+  const [basicStats, setBasicStats] = useState<BasicStats>(initialbasicstats);
   const [combatStats, setCombatStats] = useState<CombatStats>();
 
-  const [charStatBase, setCharStatBase] = useState<GeneralStats & BasicStats>();
-  const [classModifier, setClassModifier] = useState<
-    GeneralStats & BasicStats
-  >();
+  const [charStatBase, setCharStatBase] = useState<GeneralStats & BasicStats>(
+    initialstats
+  );
+  const [classModifier, setClassModifier] = useState<GeneralStats & BasicStats>(
+    initialstats
+  );
+
+  const [char, setChar] = useState<String>("");
+  const [cls, setCls] = useState<String>("");
 
   useEffect(() => {
-    charStatBase && setGeneralStats(Object.fromEntries(Object.entries(charStatBase).slice(0,6)) as GeneralStats);
-  }, [charStatBase, classModifier]);
+    charStatBase &&
+      setGeneralStats(
+        Object.fromEntries(
+          Object.entries(charStatBase).slice(0, 6)
+        ) as GeneralStats
+      );
+    charStatBase &&
+      setBasicStats(
+        Object.fromEntries(Object.entries(charStatBase).slice(6)) as BasicStats
+      );
+  }, [charStatBase]);
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -76,6 +94,9 @@ export default function Character({ literals }: CharProps) {
                 <CharSelDialog
                   literals={literals}
                   setCharStatBase={setCharStatBase}
+                  char={char}
+                  setChar={setChar}
+                  setCls={setCls}
                 />
               </Box>
             </Item>
@@ -89,6 +110,10 @@ export default function Character({ literals }: CharProps) {
                 <ClassSelDialog
                   literals={literals}
                   setClassModifier={setClassModifier}
+                  char={char}
+                  cls={cls}
+                  setChar={setChar}
+                  setCls={setCls}
                 />
               </Box>
             </Item>
@@ -99,9 +124,7 @@ export default function Character({ literals }: CharProps) {
                 id="emblem"
                 sx={{ fontSize: "12px", textTransform: "uppercase" }}
               >
-                <EblmSelDialog
-                  literals={literals}
-                />
+                <EblmSelDialog literals={literals} />
               </Box>
             </Item>
           </Grid>

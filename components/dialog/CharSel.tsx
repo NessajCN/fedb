@@ -27,10 +27,12 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function CharSelDialog({
   literals,
+  char,
+  setChar,
+  setCls,
   setCharStatBase,
 }: CharProps) {
   const [open, setOpen] = useState(false);
-  const [char, setChar] = useState("");
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -76,7 +78,7 @@ export default function CharSelDialog({
                             textTransform: "capitalize",
                           }}
                           onClick={() => {
-                            setChar(vv);
+                            setChar && setChar(vv);
                             const chardata = charsdata[kk as Chars];
                             const charbase = {
                               lvl: Number(chardata["Level"]),
@@ -104,6 +106,8 @@ export default function CharSelDialog({
                               charbase.lck +
                               charbase.bld;
                             setCharStatBase && setCharStatBase(charbase);
+                            setCls && setCls(chardata["Initial Class"]);
+                            setOpen(false);
                           }}
                           key={kk.toLowerCase()}
                         >

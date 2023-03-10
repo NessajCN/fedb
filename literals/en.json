@@ -146,19 +146,12 @@
         "title": "Character select",
         "description": "Choose a character",
         "faction": {
-            "Lythos": "Lythos",
             "Firene": "Firene",
             "Brodia": "Brodia",
             "Elusia": "Elusia",
             "Solm": "Solm",
-            "Independent": "Independent",
-            "the4hounds": "The Four Hounds"
-        },
-        "Lythos": {
-            "Alear": "Alear",
-            "Vander": "Vander",
-            "Clanne": "Clanne",
-            "Framme": "Framme"
+            "Lythos": "Lythos",
+            "Independent": "Independent"
         },
         "Firene": {
             "Alfred": "Alfred",
@@ -176,7 +169,8 @@
             "Citrinne": "Citrinne",
             "Amber": "Amber",
             "Jade": "Jade",
-            "Saphir": "Saphir"
+            "Saphir": "Saphir",
+            "Yunaka": "Yunaka"
         },
         "Elusia": {
             "Ivy": "Ivy",
@@ -197,15 +191,15 @@
             "Bunet": "Bunet",
             "Seadall": "Seadall"
         },
+        "Lythos": {
+            "Alear": "Alear",
+            "Vander": "Vander",
+            "Clanne": "Clanne",
+            "Framme": "Framme"
+        },
         "Independent": {
             "Veyle": "Veyle",
-            "Yunaka": "Yunaka"
-        },
-        "the4hounds": {
-            "Mauvier": "Mauvier",
-            "Zephia": "Zephia",
-            "Griss": "Griss",
-            "Marni": "Marni"
+            "Mauvier": "Mauvier"
         }
     }
 }

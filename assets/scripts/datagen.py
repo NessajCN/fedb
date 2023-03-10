@@ -10,11 +10,14 @@ def dumpJson(filename, gendict):
 def genCharStat():
     dfchar = pd.read_csv(f"../datamine/Chars.csv")
     chardict = {}
-    for i in range(3, 35):
+    for i in range(3, 100):
+        if dfchar.iat[i,25] == "0":
+            continue
         chardict[dfchar.iat[i, 0]] = {}
         for j in range(2, dfchar.shape[1]):
             if pd.notna(dfchar.iat[1, j]):
                 chardict[dfchar.iat[i, 0]][dfchar.iat[1, j]] = dfchar.iat[i, j]
+        chardict[dfchar.iat[i, 0]]["Level"] = dfchar.iat[i, 13]
         chardict[dfchar.iat[i, 0]]["Internal Level"] = dfchar.iat[i, 14]
     dumpJson("Chars", chardict)
     return chardict
@@ -23,7 +26,7 @@ def genCharStat():
 def genClassStat():
     dfcls = pd.read_csv("../datamine/Class.csv")
     clsdict = {}
-    for i in range(3, dfcls.shape[0]-1):
+    for i in range(3, dfcls.shape[0]):
         if dfcls.iat[i, 4] == "NPC" or pd.isna(dfcls.iat[i, 0]):
             continue
         clsdict[dfcls.iat[i, 0]] = {}
@@ -48,6 +51,6 @@ def genWpnItmStat():
 
 
 if __name__ == '__main__':
-    # chardict = genCharStat()
-    # clsdict = genClassStat()
+    chardict = genCharStat()
+    clsdict = genClassStat()
     widict = genWpnItmStat()

@@ -26,10 +26,14 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function CharSelDialog({
   literals,
-  setClassModifier
+  setClassModifier,
+  char,
+  cls,
+  setChar,
+  setCls
 }: CharProps) {
   const [open, setOpen] = useState(false);
-  const [cls, setCls] = useState("");
+  // const [cls, setCls] = useState("");
 
   const handleClickOpen = () => {
     setOpen(true);
@@ -41,7 +45,7 @@ export default function CharSelDialog({
 
   return (
     <>
-      <Button variant="text" sx={{ width: "100%" }} onClick={handleClickOpen}>
+      <Button variant="text" sx={{ width: "100%" }} disabled={char? false:true} onClick={handleClickOpen}>
         {cls || literals.index.feclass}
       </Button>
       <Dialog open={open} onClose={handleClose} fullWidth>
@@ -75,7 +79,7 @@ export default function CharSelDialog({
                             textTransform: "capitalize",
                           }}
                           onClick={() => {
-                            setCls(vv);
+                            setCls && setCls(vv);
                           }}
                           key={kk.toLowerCase()}
                         >
